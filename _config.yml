@@ -1,1 +1,2 @@
-include: "__intern"
+include: ["__intern"]
+
