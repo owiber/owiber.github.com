@@ -1,0 +1,31 @@
+---
+author: Oliver
+comments: true
+date: 2006-09-01 18:25:07+00:00
+excerpt: None
+layout: post
+slug: yay
+title: Yay!
+wordpress_id: 305
+tags:
+- misc
+---
+
+Went running yesterday with Kathy and Olivia, and this time successfully did not lose Olivia, haha.  I also got really hungry yesterday for some reason and after eating dinner, I ate a turkey leg, chunks of cheese, an apple and other random stuff.  I think this running thing is making my metabolism go crazy... speaking of which, who wants to do <a href="http://www.hairymanfestival.org/5k.html">the Hairy Man 5k</a>? Haha...
+
+*gack*  I just accidently swallowed my Starburst whole... oh... this is not a pleasant feeling... at all...
+
+My work desk is covered with lots of boxes, wires going everywhere, LCD displays, and development boards.  Some coworkers that I make snack runs with made comments on how messy my desk was, so I cleaned it up a bit, haha.  It was becoming a problem when getting to my phone was difficult...
+
+The new OliverWEB layout is getting there, but it still seems like it's missing a little bit... I'm not sure what it is yet.  I'll probably convert it to CSS/HTML soon and play around with it there a bit.  Going to use <a href="http://www.owiber.com">owiber.com</a> as my development location for now since I'm switching over to WordPress too.  Hip! Hip! HORAY!
+
+<i>"As I walk this land with broken dreams
+I have visions of many things
+Love's happiness is just an illusion
+Filled with sadness and confusion,
+What becomes of the broken hearted
+Who had love that's now departed?
+I know I've got to find
+Some kind of peace of mind"</i> - Jimmy Ruffin
+
+Haha, all these lyrics read so much sadder than they sound (in the song)...

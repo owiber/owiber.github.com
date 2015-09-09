@@ -1,0 +1,20 @@
+---
+author: Oliver
+comments: true
+date: 2012-05-17 04:34:29+00:00
+excerpt: None
+layout: post
+slug: the-jorbs
+title: The Jorbs
+wordpress_id: 2430
+tags:
+- events
+- nerdy
+- work
+---
+
+A few months ago, I moved to a new team at work. I have no idea if I'm violating any insider trading rules by talking about it in detail, so I won't. =) That said, I'm having a lot of fun on it now and I'm writing a whole heck of a lot of JavaScript which I've grown fond of. JS used to have kind of a "kiddie" language stigma to it back in the day, but I've learned it's actually quite powerful and works pretty well for a lot of asynchronous tasks (which, in the world of the web, happen all the time). I'm itching to get some more open source projects (small ones, even) on my github account. Hopefully I'll have the opportunity to soon.
+
+I've got a few photos stuck in the camera that I haven't processed yet from these past few weekends. I'll get to them eventually.
+
+Tomorrow night, Chad, Sam, Beika and I are going to see BATTLESHIP at midnight because it's AWESOME. Honestly, I'm pretty sure it's quite terrible, but I'm hoping in an awesome way. If someone yells "YOU SUNK MY BATTLESHIP!" I'll call the whole adventure a success. I'll give you all an update on how this goes. Stay tuned.

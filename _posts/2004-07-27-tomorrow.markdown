@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2004-07-27 23:41:25+00:00
+excerpt: None
+layout: post
+slug: tomorrow
+title: Tomorrow!
+wordpress_id: 1658
+tags:
+- oldpost
+---
+
+The 7200RPM drive comes in.  W000 w00!!!<br /><br />I have noticed that the PB doesn't get very good wireless signal compared to my Dell... I wonder why... couldn't they just attach the antenna to the all alluminum chassis??<br /><br />-Oliver

@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2000-05-27 06:02:09+00:00
+excerpt: None
+layout: post
+slug: camera
+title: Camera
+wordpress_id: 1312
+tags:
+- oldpost
+---
+
+Hey, I need a digital camera. Anyone wanna give me a couple hundred bucks? Thanks.<br /><br />-Oliver

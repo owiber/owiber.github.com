@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2001-08-23 23:03:57+00:00
+excerpt: None
+layout: post
+slug: argh
+title: Argh
+wordpress_id: 1497
+tags:
+- oldpost
+---
+
+I just noticed that some email sent to me today never got to me...<br /><br />It should all be working now, so if anyone sent me anything within the last 24-hours... send it again. =)<br /><br />-Oliver

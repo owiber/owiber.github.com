@@ -1,0 +1,16 @@
+---
+author: Oliver
+comments: true
+date: 2005-06-30 09:59:46+00:00
+excerpt: None
+layout: post
+slug: success
+title: Success!
+wordpress_id: 105
+tags:
+- events
+---
+
+I want to announce that <a href="http://www.oliverweb.com/archives/2004/11/oohhhh_baby.php">Project: Samiticus Buttmonger</a> is a success.
+
+Google Image Search for "<a href="http://images.google.com/images?biw=&amp;q=samiticus&amp;hl=en&amp;btnG=Search+Images">samiticus</a>" and/or "<a href="http://images.google.com/images?biw=&amp;q=buttmonger&amp;hl=en&amp;btnG=Search+Images">buttmonger</a>" and you shall see!

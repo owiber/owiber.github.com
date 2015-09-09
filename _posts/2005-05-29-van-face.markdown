@@ -1,0 +1,16 @@
+---
+author: Oliver
+comments: true
+date: 2005-05-29 22:24:45+00:00
+excerpt: None
+layout: post
+slug: van-face
+title: Van Face
+wordpress_id: 98
+tags:
+- events
+---
+
+<img alt="vaneat.jpg" src="http://www.oliverweb.com/images05/blog/vaneat.jpg" width="200" height="205" />
+
+Happy birthday, Van!

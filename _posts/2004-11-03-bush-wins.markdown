@@ -1,0 +1,22 @@
+---
+author: Oliver
+comments: true
+date: 2004-11-03 10:59:37+00:00
+excerpt: None
+layout: post
+slug: bush-wins
+title: BUSH WINS!
+wordpress_id: 41
+tags:
+- events
+---
+
+I'm going to go ahead and say this before the major news networks do.  Bush wins.  Unless if I'm being outright lied to or there is some crazy fact I am not aware of, I don't see how Ohio is considered a "too close to call."  Same for New Mexico (although I'm a bit less sure about that as I don't know how many provisional/absentee ballots are out there for NM, but I doubt enough to swing 11k in favor of Bush).
+
+Let's look at the numbers.  Right now, with 99% precints reporting in Ohio, Bush has 2,777,645 votes and Kerry 2,632,547.  So that's about a 145k lead.  Let's say there's a generous 250k absentee and provisional ballots still out there and ALL of them are valid.  So, in order for Kerry to tie (x is percentage of votes Kerry needs):
+
+<blockquote><pre>250x = 250(1-x) + 145
+250x = 250 - 250x + 145
+x = 395/500 = .79 = 79%</pre></blockquote>
+
+So essentially, Kerry needs to get 80% or more of the absentee/provisional ballots to win.  Does that seem likely? I think not. It seriously seems like the media is trying to make this another Florida '00.

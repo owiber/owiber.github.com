@@ -1,0 +1,16 @@
+---
+author: Oliver
+comments: true
+date: 2009-08-06 04:31:11+00:00
+excerpt: None
+layout: post
+slug: ketchup
+title: Ketchup
+wordpress_id: 756
+tags:
+- musings
+---
+
+Why is it that ketchup packages are so small, particularly relative to, say, mayonnaise ones?  How often to people actually use <em>one</em> package?  I just don't understand...
+
+Now that I've complained about ketchup, I have realized I don't have anything else to talk about, which makes this blog post <em>just a bit pointless</em>.  Enjoy.

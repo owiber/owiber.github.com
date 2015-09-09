@@ -1,0 +1,18 @@
+---
+author: Oliver
+comments: true
+date: 2006-03-29 22:55:46+00:00
+excerpt: None
+layout: post
+slug: wisdom
+title: Wisdom
+wordpress_id: 207
+tags:
+- photographs
+---
+
+<div>
+<img alt="grab" src="http://static.flickr.com/36/112599741_e1fdf46b0a.jpg" width="400" height="266" />
+<font>OPPORTUNITY</font><br />
+<font>When You See It, Grab It</font>
+</div>

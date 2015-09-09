@@ -1,0 +1,27 @@
+---
+author: Oliver
+comments: true
+date: 2009-06-30 06:42:38+00:00
+excerpt: None
+layout: post
+slug: '645'
+title: Heart JQuery
+wordpress_id: 645
+tags:
+- website
+---
+
+Oh how I love JQuery... it's made it so easy to do such nifty things!  I've added a new feature to Owiber.com.  Now whenever I link to a flickr image in my posts, there will be a little up arrow to the right of it.  If you click on it, the page will scroll to the top and load the larger image, and also show a down arrow to go back to where you were (you can actually click almost anywhere in the big image to go back down).  I haven't tested in IE yet (*cross fingers*) but it seems to work fine in Safari and Firefox.  Here's a sample image of Oink for you to play with it... have fun!
+
+<a href="http://www.flickr.com/photos/owiber/322727562/" title="Reedit Oink 2 by owiber, on Flickr"><img src="http://farm1.static.flickr.com/124/322727562_2ec184706f.jpg" width="500" height="333" alt="Reedit Oink 2" /></a>
+
+<blockquote class="lyrics">"I walked along the avenue.
+I never thought I'd meet a girl like you;
+Meet a girl like you.
+With auburn hair and tawny eyes;
+The kind of eyes that hypnotize me through;
+Hypnotize me through.
+
+And I ran, I ran so far away.
+I just ran, I ran all night and day.
+I couldn't get away." - A Flock Of Seagulls</blockquote>

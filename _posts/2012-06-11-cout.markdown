@@ -1,0 +1,25 @@
+---
+author: Oliver
+comments: true
+date: 2012-06-11 06:34:16+00:00
+excerpt: None
+layout: post
+slug: cout
+title: 'cout '
+wordpress_id: 2436
+tags:
+- dog
+- nerdy
+---
+
+Argh, I'm starting to fall behind on blogging again.
+
+I've been pretty busy recently. The new team I'm on at BV has me pumped up. I'm having the most fun I've had in a while. Great team and exciting work. I spent most of this past weekend working on various coding projects (not necessarily BV related). It's been a goal of mine to write more open-source code and this past week I managed to send some code to a project and I wrote my own simple JS validation library (still rather immature). I called it <a href="https://github.com/owiber/toolegit">TooLegit</a>, haha. ;) Looking forward to writing more.
+
+Last weekend, I also participated in <a href="http://rhokaustin.org">RHoK Austin</a>, which was fun.
+
+Chad and Nancy got a new golden puppy, which has yet to be named. Here's a video of Mozilla playing with it:
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/cwTZ6m-VOJM" frameborder="0" allowfullscreen></iframe>
+
+I've got some pics... they're on Facebook right now. I'll send them to Flickr and post them here later.

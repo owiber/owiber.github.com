@@ -1,0 +1,16 @@
+---
+author: Oliver
+comments: true
+date: 2004-12-09 18:36:00+00:00
+excerpt: None
+layout: post
+slug: done
+title: Done!
+wordpress_id: 72
+tags:
+- events
+---
+
+Yay! I'm done with finals! I wish I had a day between my GameDev project being due and my finals because I don't think I did as well on my EE final as I could have.  Poo, now I'm not as confident of my A in that class, but we'll see.  I think most of it depends on how he curves and/or gives partial credit.
+
+On a much better note, <a href="http://oliverweb.com/gallery/NancyOchsBirthday">pics from Nancy and Ochs' birthday</a> are online now. Enjoy! =)

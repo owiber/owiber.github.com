@@ -1,0 +1,14 @@
+---
+author: Oliver
+comments: true
+date: 2005-09-04 23:33:05+00:00
+excerpt: None
+layout: post
+slug: ugh
+title: Ugh
+wordpress_id: 137
+tags:
+- misc
+---
+
+I <i>hate</i> drama. Let the "fun" begin...

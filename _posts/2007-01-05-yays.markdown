@@ -1,0 +1,16 @@
+---
+author: Oliver
+comments: true
+date: 2007-01-05 09:11:14+00:00
+excerpt: None
+layout: post
+slug: yays
+title: Yays!
+wordpress_id: 459
+tags:
+- events
+---
+
+So at Bazaarvoice, I've been under contract-to-hire (instead of a "real employee") for the beginning month or two I've been there.  Well, I got my offer from them today to transition from contract to... hire, and the offer was more than I was expecting, so I'm quite pleased. =)  It's still a pay hit from when I was at Freescale, but not nearly as much as I thought it would be, so I'm pretty confident I made the right decision to move as I'm enjoying my work a lot more and the money isn't really as much of an issue any more. =)
+
+In other news, I discovered that the Safari crash bug I found a <a href="http://www.oliverweb.com/2006/03/31/safari-crash/">a while back</a> is now finally fixed. =)

@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2003-02-09 00:16:15+00:00
+excerpt: None
+layout: post
+slug: perl
+title: Perl
+wordpress_id: 1552
+tags:
+- oldpost
+---
+
+I love Perl so much.<br /><br />Down with Haskell, Perl++!<br /><br />-Oliver

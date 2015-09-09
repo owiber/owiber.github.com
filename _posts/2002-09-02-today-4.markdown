@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2002-09-02 23:42:15+00:00
+excerpt: None
+layout: post
+slug: today-4
+title: Today
+wordpress_id: 1906
+tags:
+- oldpost
+---
+
+I'm sitting here looking at this Tron 2.0 CD cover thingy that Brook left on my table.<br /><br />I am also looking at my linux cap, and my orinoco wifi card.<br /><br />That is all.<br /><br />-Oliver

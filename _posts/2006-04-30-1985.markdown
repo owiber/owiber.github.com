@@ -1,0 +1,14 @@
+---
+author: Oliver
+comments: true
+date: 2006-04-30 01:37:23+00:00
+excerpt: None
+layout: post
+slug: '1985'
+title: '1985'
+wordpress_id: 217
+tags:
+- misc
+---
+
+Wow, take a look at <a href="http://en.wikipedia.org/wiki/Hot_100_number-one_hits_of_1985_%28USA%29">this</a> and tell me 1985 wasn't awesome.

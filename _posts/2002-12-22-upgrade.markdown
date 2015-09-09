@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2002-12-22 00:20:55+00:00
+excerpt: None
+layout: post
+slug: upgrade
+title: Upgrade
+wordpress_id: 1542
+tags:
+- oldpost
+---
+
+Just upgraded news script... this is a test...<br /><br />-Oliver

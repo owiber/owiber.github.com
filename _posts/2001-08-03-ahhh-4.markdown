@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2001-08-03 04:29:29+00:00
+excerpt: None
+layout: post
+slug: ahhh-4
+title: Ahhh!!!
+wordpress_id: 1480
+tags:
+- oldpost
+---
+
+It was brought to my attention that bitmaps (BMP) were used as image formats for some images. DO NOT USE BITMAPS!!! =) <br /><br />Also, in the process of converting the bitmaps to JPEG and uploading them, I noticed a bunch of images that were just sitting there not being used. Please don't use the newsimages folder as a storage space. At least tell me if you put something in there temporarily so I can delete it...<br /><br />And Minix, what program are you using to save JPEG's? They're bigger than they need to be... (file size wise =)<br /><br />-Oliver

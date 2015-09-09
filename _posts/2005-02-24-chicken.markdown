@@ -1,0 +1,29 @@
+---
+author: Oliver
+comments: true
+date: 2005-02-24 18:50:24+00:00
+excerpt: None
+layout: post
+slug: chicken
+title: Chicken
+wordpress_id: 88
+tags:
+- misc
+---
+
+Sometimes, Chick-fil-a nuggets are really nasty here.  I wanted to write something about it, but I'm not quite sure what to say, so I'll attempt to imitate blog styles...
+
+Nancy:<blockquote>EEEEWWW!!!! These chicken nuggets are nasty! I eat one and... it's worse than I thought I remembered I thought it was bad!!!!
+
+I have to go peeeeeeeeeee...</blockquote>
+
+Ochs:<blockquote>i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget. i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget. i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget. i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget. i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget. i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget.</blockquote>
+
+Andrew:<blockquote>These nuggets are like Java.  I hate them like I hate people who chew bubble gum.  I hope the people who made them get fired and start using C++.
+
+...
+
+Oh, I mean here are the specs of my computer...</blockquote>
+
+Van:<blockquote><img alt="chicken.jpg" src="http://www.oliverweb.com/images05/blog/chicken.jpg" width="400" height="300" />I don't eat chicken. Please give me comments!</blockquote>
+=)

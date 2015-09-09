@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2001-07-07 22:22:07+00:00
+excerpt: None
+layout: post
+slug: pic
+title: Pic
+wordpress_id: 1452
+tags:
+- oldpost
+---
+
+Lala...<br /><center><img src=http://www.oliverweb.com/newsimages/july4.jpg width=250 height=232 border=1 alt="July 4th"></center><br />Lala!<br /><br />-Oliver

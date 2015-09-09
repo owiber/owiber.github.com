@@ -1,0 +1,18 @@
+---
+author: Oliver
+comments: true
+date: 2008-10-31 12:58:10+00:00
+excerpt: None
+layout: post
+slug: ouch
+title: Ouch
+wordpress_id: 531
+tags:
+- london
+---
+
+If I had to summarize how expensive stuff is in London, I think Krispy Kreme does it well:
+
+<a href="http://www.flickr.com/photos/owiber/2989244418/" title="LondonKK-001 by owiber, on Flickr"><img src="http://farm4.static.flickr.com/3206/2989244418_ed90f83f12.jpg" width="500" height="333" alt="LondonKK-001" /></a>
+
+<a href="http://www.google.com/search?q=7.45+pounds+to+dollars">£7.45</a> for a dozen original donuts.  Ouch.

@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2001-10-24 06:06:44+00:00
+excerpt: None
+layout: post
+slug: site
+title: Site
+wordpress_id: 1734
+tags:
+- oldpost
+---
+
+BTW, I haven't done much testing with other browsers except for IE5/6 (which is what I use)... if there's anything messed up on the other browsers, please let me know. =)<br /><br />-Oliver

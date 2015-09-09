@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2000-12-07 03:25:10+00:00
+excerpt: None
+layout: post
+slug: finally
+title: Finally!
+wordpress_id: 1360
+tags:
+- oldpost
+---
+
+Guess WHAT!?! <i>NEW POLL!</i> Heh... here are "results" from the last poll...<br /><center><table width=150 align=center border=0><tr><td valign=top align=left width=150><font size=2><img SRC="http://www.oliverweb.com/poll/image.gif" Height="10" Width="75"> 37.5% <br />  Nah, I like PiFactor5  <br /> <img SRC="http://www.oliverweb.com/poll/image.gif" Height="10" Width="68"> 34.3% <br />  Oliver rules!  <br />  <img SRC="http://www.oliverweb.com/poll/image.gif" Height="10" Width="56"> 28.1% <br />  Yes, forget PiFactor5!  <br /></font></td></tr></table></center><br /><br />Now go and vote in the new poll! Oh, and I decided to dump PiFactor5... who voted so many times? =)<br /><br />-Oliver

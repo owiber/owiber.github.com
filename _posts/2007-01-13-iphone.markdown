@@ -1,0 +1,18 @@
+---
+author: Oliver
+comments: true
+date: 2007-01-13 20:30:28+00:00
+excerpt: None
+layout: post
+slug: iphone
+title: iPhone
+wordpress_id: 464
+tags:
+- misc
+---
+
+So it's been determined that Apple is going to have tight control of applications that will run on the iPhone and third-party applications will not be supported, or at best, extremely limited to ones Apple "contracts" out.  That's pretty disappointing to me as even though OS X is pretty cool on its own, productivity is increased a lot by third-party applications (Quicksilver, for example) and I could see that happening on the iPhone too.  One of the cool things about smartphones is that they support other applications and they have a community of developers that let you customize your phone to suit your needs.
+
+And this B.S. about Cingular not wanting applications to run rampant on their networks is pretty stupid when many many many other smartphones are capable of running third-party software.  Sounds to me like Apple just wants to shift some of the blame to Cingular.
+
+That being said, the iPhone is still one snazzy piece of gadgetry.

@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2003-03-25 00:47:01+00:00
+excerpt: None
+layout: post
+slug: linux
+title: Linux
+wordpress_id: 1566
+tags:
+- oldpost
+---
+
+Here is my large linux update... mainly for myself if I ever want to know what I did. Of course, if anyone gets anything useful out of it for themselves, then that'd be cool too. =) All this is mainly for RH8.0ish.<br /><br />Nice scripts (colorful ls, etc.): /usr/profile.d<br /><br />Touchpad Driver (with virtual scrolling! =): <a href="http://tuxmobil.org/touchpad_driver.html">http://tuxmobil.org/touchpad_driver.html</a><br /><br />Oops, gotta go to Freebirds... update will finish later.<br /><br />-Oliver

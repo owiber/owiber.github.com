@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2001-08-27 05:02:14+00:00
+excerpt: None
+layout: post
+slug: ut-classes
+title: UT Classes
+wordpress_id: 1498
+tags:
+- oldpost
+---
+
+Here's my schedule! THANK GOODNESS FOR ADD/DROPS!!! =)<br /><table border="1">  <tr>    <th><font face="Arial" size="2">Unique</font></th>    <th><font face="Arial" size="2">Course</font></th>    <th><font face="Arial" size="2">Title</font></th>    <th><font face="Arial" size="2">Bldg</font></th>    <th><font face="Arial" size="2">Room</font></th>    <th><font face="Arial" size="2">Days</font></th>    <th><font face="Arial" size="2">Time</font></th>  </tr>  <tr vAlign="top">    <td><font face="Arial" size="1">55745</font></td>    <td><font face="Arial" size="1">M 308M</font></td>    <td><font face="Arial" size="1">MULTIVARIABLE CALCULUS</font></td>    <td><font face="Arial" size="2">WRW<br />      </font></td>    <td><font face="Arial" size="1">102<br />      </font></td>    <td><font face="Arial" size="1">MWF<br />      </font></td>    <td><font face="Arial" size="1">12:00-&nbsp;1:00P</font></td>  </tr>  <tr vAlign="top">    <td><font face="Arial" size="1">45369</font></td>    <td><font face="Arial" size="1">TLC 331</font></td>    <td><font face="Arial" size="1">TECHNOLOGY AND SOCIETY</font></td>    <td><font face="Arial" size="1">PAR<br />      </font></td>    <td><font face="Arial" size="1">104<br />      </font></td>    <td><font face="Arial" size="1">MWF<br />      </font></td>    <td><font face="Arial" size="1">1:00-&nbsp;2:00P</font></td>  </tr>  <tr vAlign="top">    <td><font face="Arial" size="1">51265</font></td>    <td><font face="Arial" size="1">C S 307</font></td>    <td><font face="Arial" size="1">FOUNDATIONS OF COMPUTER SCI</font></td>    <td><font face="Arial" size="1">TAY<br />      ETC<br />      </font></td>    <td><font face="Arial" size="1">2.106<br />      2.102<br />      </font></td>    <td><font face="Arial" size="1">MWF<br />      TH<br />      </font></td>    <td><font face="Arial" size="1">11:00-12:00<br />      9:30-10:30</font></td>  </tr>  <tr vAlign="top">    <td><font face="Arial" size="1">40200</font></td>    <td><font face="Arial" size="1">PHL 313K</font></td>    <td><font face="Arial" size="1">LOGIC, SETS, AND FUNCTIONS</font></td>    <td><font face="Arial" size="1">GAR<br />      WAG<br />      </font></td>    <td><font face="Arial" size="1">1<br />      214<br />      </font></td>    <td><font face="Arial" size="1">TTH<br />      F<br />      </font></td>    <td><font face="Arial" size="1">12:30-&nbsp;2:00P<br />      10:00-11:00</font></td>  </tr></table><br />YIPEEE!!!!!<br /><br /><h3><a href=http://www.oliverweb.com/stuff/schedule.shtml>For me.</a></h3><br /><br />-Oliver

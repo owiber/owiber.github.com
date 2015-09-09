@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2004-09-08 17:16:19+00:00
+excerpt: None
+layout: post
+slug: oops-2
+title: Oops
+wordpress_id: 1669
+tags:
+- oldpost
+---
+
+I wrote something about my boring EE professor and some other cooking stuff, but I lost it cause I pressed CMD+Q too many times. Argh. =)  Oh well... I'm in linguistics right now talking about the wonderful world of morphemes! YAY!<br /><br />-Oliver

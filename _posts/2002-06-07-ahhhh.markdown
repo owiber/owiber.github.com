@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2002-06-07 21:25:07+00:00
+excerpt: None
+layout: post
+slug: ahhhh
+title: Ahhhh...
+wordpress_id: 1869
+tags:
+- oldpost
+---
+
+Well, looks like I have internet and email working now... I just have to delete 2.3 x 10^3 emails first...<br /><br />-Oliver

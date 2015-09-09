@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 1999-10-27 06:11:35+00:00
+excerpt: None
+layout: post
+slug: articles
+title: Articles!
+wordpress_id: 1276
+tags:
+- oldpost
+---
+
+I've added the <a href=http://www.oliverweb.com/articles/index.shtml>Articles</a> section to OliverWEB. I'll be putting stuff like the <a href=http://www.oliverweb.com/articles/hoodlums.shtml>Hoodlums!</a> story on that page. I've already added one more story. <a href=http://www.oliverweb.com/articles/index.shtml>Go over there</a> and check it out! =)<br /><br />-Oliver

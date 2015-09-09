@@ -1,0 +1,16 @@
+---
+author: Oliver
+comments: true
+date: 2004-11-15 07:45:47+00:00
+excerpt: None
+layout: post
+slug: lambda-2
+title: Lambda 2
+wordpress_id: 55
+tags:
+- events
+---
+
+<img alt="gamesbar.gif" src="http://www.oliverweb.com/images05/blog/gamesbar.gif" width="330" height="330">
+
+Are you ready? =)

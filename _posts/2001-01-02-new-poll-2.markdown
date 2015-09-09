@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2001-01-02 01:23:50+00:00
+excerpt: None
+layout: post
+slug: new-poll-2
+title: New Poll
+wordpress_id: 316
+tags:
+- oldpost
+---
+
+Well, I expired the last poll since it was kinda... worthless, but then again... all of them are. Anyways, here are the results:<br /><br /><center><table width=250 border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=left><font face="arial" size=2>Who do you think should be our next President?<br /><img SRC="http://www.oliverweb.com/poll/image.gif" Height="10" Width="97"> 48.5% <br />  Bush<br />            <img SRC="http://www.oliverweb.com/poll/image.gif" Height="10" Width="91"> 45.7% <br />  NINH!!!  <br />            <img SRC="http://www.oliverweb.com/poll/image.gif" Height="10" Width="11"> 5.7% <br />  Gore  </font><br /></td></tr></table></center><br />Alright, who voted for Gore? =) New poll's to the right...<br />      <br /><br />-Oliver

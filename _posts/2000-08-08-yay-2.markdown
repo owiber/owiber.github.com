@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2000-08-08 23:06:35+00:00
+excerpt: None
+layout: post
+slug: yay-2
+title: Yay!
+wordpress_id: 1333
+tags:
+- oldpost
+---
+
+Yay! I get to work at Motorola for the whole school year and probably next summer too. =) I got my laptop, monitor, etc. today (can't bring it home yet though... gotta have other user accounts deleted by IT dude). Woohoo! Just wanted to let everyone know that... now I gotta update my resume... =)<br /><br />-Oliver

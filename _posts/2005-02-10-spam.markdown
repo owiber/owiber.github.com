@@ -1,0 +1,16 @@
+---
+author: Oliver
+comments: true
+date: 2005-02-10 01:15:20+00:00
+excerpt: None
+layout: post
+slug: spam
+title: SPAM
+wordpress_id: 85
+tags:
+- misc
+---
+
+Man, my blog's getting crazy spammed.  Good thing I have Blacklist installed or you would be seeing advertisements to many online casinos in my comments. Heh.
+
+On a related note, really really really annoying freshmen (I'm assuming =) email everyone in mythology every freakin' single day asking for notes.  I hate them so much.  Someday.  Someday, I will break...

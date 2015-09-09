@@ -1,0 +1,21 @@
+---
+author: Oliver
+comments: true
+date: 2011-04-26 05:16:31+00:00
+excerpt: None
+layout: post
+slug: life
+title: Life
+wordpress_id: 2262
+tags:
+- events
+- work
+---
+
+Gid showed us this video at <a href="http://www.voxveniae.com">Vox</a>:
+
+<iframe src="http://player.vimeo.com/video/8191217?title=0&amp;byline=0&amp;portrait=0" width="601" height="338" frameborder="0"></iframe><p><a href="http://vimeo.com/8191217">Last Minutes with ODEN</a> from <a href="http://vimeo.com/user814889">phos pictures</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+It was pretty moving as I think we can all connect with the pain of loss. Sometimes it's good to cry, ya know?
+
+The Bazaarvoice crew lost one of our young implementation engineers this weekend to a <a href="http://www.statesman.com/blogs/content/shared-gen/blogs/austin/blotter/entries/2011/04/26/bicyclist_killed_in_hitandrun.html">stupid hit and run</a>.  If you have any information, please contact APD. I didn't know him very well, but from the small bit of time I worked with him, I know the loss of <a href="https://www.facebook.com/runciman">Andrew Runciman</a> will be felt at BV, so I can only imagine the loss felt by his friends and family. Prayers to you all.

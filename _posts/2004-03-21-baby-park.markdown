@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2004-03-21 04:40:25+00:00
+excerpt: None
+layout: post
+slug: baby-park
+title: Baby Park
+wordpress_id: 1629
+tags:
+- oldpost
+---
+
+Today I beat 1:10 on Baby Park.  This was probably the most productive day of my Spring Break.<br /><br />-Oliver

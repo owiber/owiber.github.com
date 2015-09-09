@@ -1,0 +1,28 @@
+---
+author: Oliver
+comments: true
+date: 2006-08-14 05:34:52+00:00
+excerpt: None
+layout: post
+slug: funny
+title: Funny
+wordpress_id: 271
+tags:
+- events
+---
+
+I was looking at my most popular pictures according to Flickr, and this was #12 on the list:
+
+<a href="http://www.flickr.com/photos/owiber/214691443/" title="Photo Sharing"><img src="http://static.flickr.com/69/214691443_a10682ed2d_o.jpg" width="497" height="90" alt="andrewinfountain" /></a>
+
+Haha, for some reason, when I read "Nobody counts Andrew in the fountain as a favorite" I started laughing.  Don't know why, but I find it funny. =)
+
+Spent a bit today trying to brainstorm ideas for OWeb '07, but that wasn't very successful.  My creativity in web design kinda comes and goes randomly and I can't force these things, so after a while of things not working, I just gave up.  I might drop the dirty/high-tech look cause I don't think I'm very good at creating good looking dirt, haha.  We'll see...
+
+<i>"I've got gadgets and gizmos a-plenty
+I've got whozits and whatzits galore
+You want thingamabobs?
+I've got twenty!
+But who cares?
+No big deal
+I want more..."</i> - Ariel (The Little Mermaid)

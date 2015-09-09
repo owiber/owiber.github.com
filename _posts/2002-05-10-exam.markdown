@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2002-05-10 04:09:04+00:00
+excerpt: None
+layout: post
+slug: exam
+title: Exam
+wordpress_id: 1859
+tags:
+- oldpost
+---
+
+M340L exam tomorrow. *cross fingers* =)<br /><br />-Oliver

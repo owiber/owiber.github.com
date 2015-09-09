@@ -1,0 +1,19 @@
+---
+author: Oliver
+comments: true
+date: 2009-01-02 17:39:44+00:00
+excerpt: None
+layout: post
+slug: '2009'
+title: '2009'
+wordpress_id: 542
+tags:
+- events
+- news
+---
+
+Happy New Year!  I've got a new year resolution or two, but I'm keeping them to myself. =p  What I will share, though, is the awesome pizza we had on New Year's Eve from Arpeggio Grill.  We got a monster 28" pizza with a bunch of toppings for something around $32.46 (just a random guess... j/k, I asked Mark).
+
+<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/y4aDz6WdcoY&hl=en&fs=1&ap=%2526fmt%3D22"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/y4aDz6WdcoY&hl=en&fs=1&ap=%2526fmt%3D22" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>
+
+The plates in the video are almost 9" in diameter, FYI.

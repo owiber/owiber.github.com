@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2002-09-04 04:59:59+00:00
+excerpt: None
+layout: post
+slug: tomorrow-2
+title: Tomorrow
+wordpress_id: 1908
+tags:
+- oldpost
+---
+
+...is 5 minutes away and I should go to bed soon.<br /><br />But I'd like to note a few things I learned earlier:<ul><li>When items are dropped on the ground, space and time warp to accomplish weird things.</li><li>Loud beeps mean it's time for formatting fun again for Van</li><li>Viraj doesn't <i>really</i> think white folk are inferior to their Indian counterparts</li><li>Another little simple move for Rubrik's fun</li><li>Makefiles (yawn)</li><li>VNC is pretty nifty!</li><li>vi commands can be a pain to remember</li><li>pico is silly</li><li>w00 w00 w00</li></ul><br />Goodnight and see you all in the morning... or almost all of you. =)<br /><br />-Oliver

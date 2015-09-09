@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2002-07-17 06:18:12+00:00
+excerpt: None
+layout: post
+slug: guess-who
+title: Guess who? =)
+wordpress_id: 1887
+tags:
+- oldpost
+---
+
+<center><img src = "http://www.oliverweb.com/newsimages/guesswho.jpg"></center><br /><br />-Minix

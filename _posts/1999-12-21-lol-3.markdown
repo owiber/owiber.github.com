@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 1999-12-21 07:57:55+00:00
+excerpt: None
+layout: post
+slug: lol-3
+title: LOL!
+wordpress_id: 1288
+tags:
+- oldpost
+---
+
+I found a funny link today... it's called: "Diary of an AOL Luser" heh... it's pretty funny. =) The guy is like a Minix clone or something (j/k ;).. <a href=http://paul.merton.ox.ac.uk/computing/aol-luser.html target="new">Right here</a>. =)<br /><br />-Oliver

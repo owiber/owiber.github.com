@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2001-04-12 04:20:29+00:00
+excerpt: None
+layout: post
+slug: boo-2
+title: Boo
+wordpress_id: 1409
+tags:
+- oldpost
+---
+
+Again, just because it's funny!<br /><center><img src=http://www.oliverweb.com/pics/bpa2001/vansleep.jpg width=200 height=229 alt="Van"></center><br />Heh...<br /><br />-Oliver

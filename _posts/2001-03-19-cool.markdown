@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2001-03-19 23:46:14+00:00
+excerpt: None
+layout: post
+slug: cool
+title: Cool
+wordpress_id: 1405
+tags:
+- oldpost
+---
+
+Just thought this was <a href=http://www.theregister.co.uk/content/6/17681.html target="_blank">cool</a>. =)<br /><br />-Oliver

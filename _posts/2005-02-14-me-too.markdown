@@ -1,0 +1,16 @@
+---
+author: Oliver
+comments: true
+date: 2005-02-14 10:14:02+00:00
+excerpt: None
+layout: post
+slug: me-too
+title: Me Too!
+wordpress_id: 86
+tags:
+- misc
+---
+
+I hid a message in this picture on top of <a href="http://www.xanga.com/ochs">Ochs'</a>:
+<img src="http://www.oliverweb.com/images05/blog/before.jpg" width="385" height="499">
+=)

@@ -1,0 +1,16 @@
+---
+author: Oliver
+comments: true
+date: 2005-10-21 03:31:04+00:00
+excerpt: None
+layout: post
+slug: wide
+title: WIDE!!!
+wordpress_id: 151
+tags:
+- photographs
+---
+
+<img alt="IMG_3058.jpg" src="http://www.oliverweb.com/images05/blog/IMG_3058.jpg" width="400" height="600" />
+
+<img alt="IMG_3075.jpg" src="http://www.oliverweb.com/images05/blog/IMG_3075.jpg" width="400" height="600" />

@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2003-04-22 23:30:22+00:00
+excerpt: None
+layout: post
+slug: basement
+title: Basement
+wordpress_id: 1572
+tags:
+- oldpost
+---
+
+Well, I'm sitting in the Taylor basement right now... skipping Automata Theory again (hope she doesn't hand out a quiz today   =).  I would have been out of here 30+ minutes ago, but some girl just sent 45+ jobs to the printer... so I have to wait for her to get done before mine reaches the end of the queue. Ugh.  Oh, and the other printer is dead... I tried printing to that one until I noticed that the job at the front of the queue had been sitting there for three hours. Ugh Ugh Ugh.<br /><br />Hmm... well that's all for now. Maybe I will sneak into the end of Automata and see if she handed out a quiz....<br /><br />-Oliver

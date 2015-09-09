@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2000-06-30 07:53:24+00:00
+excerpt: None
+layout: post
+slug: coolio
+title: Coolio! =)
+wordpress_id: 1324
+tags:
+- oldpost
+---
+
+Hey, I added a comment feature to the news posts... hope it works... =)<br /><br />-Oliver

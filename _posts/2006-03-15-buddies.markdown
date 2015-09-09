@@ -1,0 +1,15 @@
+---
+author: Oliver
+comments: true
+date: 2006-03-15 02:18:19+00:00
+excerpt: None
+layout: post
+slug: buddies
+title: Buddies
+wordpress_id: 200
+tags:
+- misc
+---
+
+<a href="http://www.flickr.com/photos/owiber/sets/72057594082342624/"><img src="http://static.flickr.com/54/112665730_3abd8729a4_o.jpg" alt="Mosaic" /></a>
+<br /><a href="http://www.flickr.com/photos/owiber/sets/72057594082342624/">Photos</a> are now on flickr.  Enjoy!

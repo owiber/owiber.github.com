@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2002-07-02 05:50:59+00:00
+excerpt: None
+layout: post
+slug: im-sold
+title: I'm sold
+wordpress_id: 1880
+tags:
+- oldpost
+---
+
+<a href = "http://www.oliverweb.com/newsimages/gungorrilla.jpg">Clicky Click</a><br /><br />-Minix

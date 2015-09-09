@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2002-10-11 06:21:58+00:00
+excerpt: None
+layout: post
+slug: new-layout-4
+title: New Layout
+wordpress_id: 1923
+tags:
+- oldpost
+---
+
+Well, here it is... and it's late... and there are still a few things I want to add and no doubt a few bugs... so I'll fix them later. =)<br /><br />-Oliver

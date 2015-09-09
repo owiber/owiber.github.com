@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2003-12-29 10:12:37+00:00
+excerpt: None
+layout: post
+slug: l337-5p34k
+title: l337 5p34k!!
+wordpress_id: 1605
+tags:
+- oldpost
+---
+
+The pics to the left now link to the larger versions... so you can "zoom" in on the small images.  Once it starts repeating, it stops linking though... there are only 13 pics, then it starts tiling.<br /><br />-Oliver

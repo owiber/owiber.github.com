@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2000-07-14 06:41:35+00:00
+excerpt: None
+layout: post
+slug: dumdedum
+title: Dumdedum
+wordpress_id: 1328
+tags:
+- oldpost
+---
+
+I'm too lazy to add another section to the pics section, so I'll just dump this picture on the frontpage for now. Have fun:<br /><center><img src=http://www.oliverweb.com/pics/misc/minix.jpg width=250 height=303></center><br />Guess who that is. =)<br /><br /><br /><font face=arial size=1>It's Minix! =)</font><br /><br />-Oliver

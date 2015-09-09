@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2002-10-11 16:50:56+00:00
+excerpt: None
+layout: post
+slug: new-layout-3
+title: New Layout...
+wordpress_id: 1519
+tags:
+- oldpost
+---
+
+Yeah, this is going to be the third time I post a "new layout" post... I changed news scripts... so no one can update news except for me. =)<br /><br />There are probably bugs lying around places... *shrug* I'll fix them eventually.<br /><br />-Oliver

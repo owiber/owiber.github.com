@@ -1,0 +1,25 @@
+---
+author: Oliver
+comments: true
+date: 2012-12-31 19:26:33+00:00
+excerpt: None
+layout: post
+slug: 2012-word-cloud
+title: 2012 Word Cloud
+wordpress_id: 2499
+tags:
+- nerdy
+- website
+---
+
+Here's my 2012 blog word cloud:
+
+<a href="http://www.flickr.com/photos/owiber/8331162416/" title="2012 Owiber.com blog word cloud by owiber, on Flickr"><img src="http://farm9.staticflickr.com/8216/8331162416_3e43dbc98c_z.jpg" width="640" height="311" alt="2012 Owiber.com blog word cloud"></a>
+
+I don't think I did one for last year, so here's that one:
+
+<a href="http://www.flickr.com/photos/owiber/8331184074/" title="2011 Owiber.com Blog Word Cloud by owiber, on Flickr"><img src="http://farm9.staticflickr.com/8503/8331184074_c166097287_z.jpg" width="640" height="320" alt="2011 Owiber.com Blog Word Cloud"></a>
+
+For reference, <a href="http://www.owiber.com/2011/01/11/im-back-2/">older ones</a>.
+
+I apparently like to talk about Sam.

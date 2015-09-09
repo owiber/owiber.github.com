@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2002-01-21 20:29:35+00:00
+excerpt: None
+layout: post
+slug: my-rant
+title: My rant
+wordpress_id: 1821
+tags:
+- oldpost
+---
+
+I'm at my dorm right now... and its annoying me... my internet connection might as well be 2400 bps... AGH!!  Most pages are just timing out... if I remove pictures I can actually load some things... but not much... <a href = "http://www.licensetochill.ca/archives/123101.html">This is how bad it is...</a> I think I'm going to move back home, so I can have cable again...<br /><br /><center><br /><img src = "http://www.oliverweb.com/newsimages/thisstinks.jpg" width=374 height=260 border=1></center><br /><br />-Minix

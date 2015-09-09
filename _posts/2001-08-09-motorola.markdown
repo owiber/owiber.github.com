@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2001-08-09 06:22:44+00:00
+excerpt: None
+layout: post
+slug: motorola
+title: Motorola
+wordpress_id: 1488
+tags:
+- oldpost
+---
+
+If anyone wants to see my Motorola presentation, it is located <a href=http://www.oliverweb.com/stuff/presentation2001.zip>here</a>. You'll need to unzip it and open it in PowerPoint (yeah, I was really lazy this year and used that horrible program). Not sure if PowerPoint 2000 is required... 98 *might* work(?).<br /><br />-Oliver

@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2003-03-10 01:23:24+00:00
+excerpt: None
+layout: post
+slug: baghat
+title: Baghat
+wordpress_id: 1561
+tags:
+- oldpost
+---
+
+Well, I think <a href=http://www.baghat.com>BAGHAT.COM</a> is totally operational now... oh yeah, and Andrew if you ever decide on disabling telnet again, make sure you don't kill the POP3/IMAP permissions. =) Hehe...<br /><br />-Oliver

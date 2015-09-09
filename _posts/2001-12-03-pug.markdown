@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2001-12-03 20:53:29+00:00
+excerpt: None
+layout: post
+slug: pug
+title: pug
+wordpress_id: 1763
+tags:
+- oldpost
+---
+
+this is really Nancy speaking, but i'm too lazy to change it from minix to Nancy, so you're just going to have to live with it. I just want to inform ya'll, that chad is as cute as a pug. Bye.<br /><br />-Minix

@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2003-04-11 06:59:24+00:00
+excerpt: None
+layout: post
+slug: debian
+title: Debian
+wordpress_id: 1570
+tags:
+- oldpost
+---
+
+Ahhh... my leap into the world of Debian. Turned out much better than I expected!  I installed using my Knoppix CD, which made the whole process much easier! The HD install script didn't allow me to specify different partitions for different mount points, so I did that after the install was finished. I made a seperate partition for /home so that in future installs, I wouldn't have to kill it.<br /><br />I'm just going to throw a few notes here now:<br /><br />Antialias in Phoenix (installed from <a href=http://pryan.org/phoenix/>here</a>):<ul><li>userChrome.css and userContent.css - make sure it uses Luxi Sans or another antialiased font</li></ul><br /><br />Konsole AA fonts:<ul><li>Just grabbed a ton of fonts from baghat and threw them in /usr/share/fonts. This messed up the default sans font though and made it look really ugly.</li><li>To fix that... see <a href=http://forums.gentoo.org/viewtopic.php?t=37347&highlight=antialias>this Gentoo thread</a>. Basically, turn off hinting for sans fonts.</li></ul><br /><br />Let's see... oh yeah, dhclient:<ul><li>Wait time was too long originally for dhcp. So: "apt-get install dhcp-client" installs dhclient, which worked quite well.  Edit /etc/dhclient.conf and edit timeout value.</li></ul><br /><br />Alright, I think that's all I want to say for now. =)<br /><br />-Oliver

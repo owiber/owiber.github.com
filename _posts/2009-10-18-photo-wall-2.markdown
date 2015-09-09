@@ -1,0 +1,24 @@
+---
+author: Oliver
+comments: true
+date: 2009-10-18 20:49:43+00:00
+excerpt: None
+layout: post
+slug: photo-wall-2
+title: 'Photo Wall #2'
+wordpress_id: 828
+tags:
+- house
+- photographs
+- weekend
+---
+
+I've finally put up my second wall of photos:
+
+<a href="http://www.flickr.com/photos/owiber/4022988031/" title="PhotoWallTwo-001 by owiber, on Flickr"><img src="http://farm3.static.flickr.com/2619/4022988031_b1a9c143a5.jpg" width="500" height="333" alt="PhotoWallTwo-001" /></a>
+
+<a href="http://www.flickr.com/photos/owiber/4023748372/" title="PhotoWallTwo-003 by owiber, on Flickr"><img src="http://farm4.static.flickr.com/3481/4023748372_a4b4c78c63.jpg" width="500" height="333" alt="PhotoWallTwo-003" /></a>
+
+<a href="http://www.flickr.com/photos/owiber/4022990541/" title="PhotoWallTwo-004 by owiber, on Flickr"><img src="http://farm3.static.flickr.com/2787/4022990541_e563450f21.jpg" width="500" height="333" alt="PhotoWallTwo-004" /></a>
+
+Brook and my friendly coworkers :-) (at least some of them) will be happy to see themselves on this wall! =)  The first two columns are from the food road trip <a href="http://www.flickr.com/photos/owiber/sets/72157620653714306/">Andrew, Mark, and I went on</a> last year.

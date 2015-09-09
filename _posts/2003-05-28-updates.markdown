@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2003-05-28 03:29:23+00:00
+excerpt: None
+layout: post
+slug: updates
+title: Updates
+wordpress_id: 1580
+tags:
+- oldpost
+---
+
+It's funny how I check OliverWEB to see if perhaps some updates were made when I know I haven't done anything. =)<br /><br />I've been feeling a bit drained creativity-wise on things to talk about (err... as you can tell, for a while)... I'm not quite sure what happened.  I should like to have creative and fun things to talk about... hmmm...<br /><br />However, I haven't been too drained graphics-design wise, which is thankful.  Now, I've got four websites in my "website queue" after finally finishing the <a href=http://www.youthwave.org>Youthwave</a> redesign. The liquid-missions, liquid (although Karen is handling most of the graphical design on that one), lighthouse, and John Mao's parents' restaurant. Hmmm... perhaps I'm going to overload myself. =/  An intern coordinater person at work asked me if I could make a website for her baby too... I'm not quite sure if I can handle all that...<br /><br />On to work... well, first day flew by rather fast... some girls talked to Van and I about how they didn't recognize us at all even though they thought they knew everyone who interned last summer.  We realized that between Van, Tecuan, and I, we really did isolate ourselves from the rest of the interns... heh... oh well. =)<br /><br />I actually was a bit productive today, got most of my accounts setup (except still need to find mail server name so  I don't have to use web interface) and learned quite a bit of python.  I believe my project this year is to help make a thin layer between one API to another... and perhaps make the thin layer go from C/C++ to Python.  I'm not entirely sure on the details, but it sounds interesting.<br /><br />Well, that's all for today. Hope Andrew had a nice time on his first day at Sun too.  I know Van got stuck back into his old dept. Hehe... poor Van. ;)<br /><br />-Oliver

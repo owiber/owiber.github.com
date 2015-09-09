@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2001-07-11 22:40:14+00:00
+excerpt: None
+layout: post
+slug: lala
+title: Lala...
+wordpress_id: 1453
+tags:
+- oldpost
+---
+
+By request of Alex, here's a new post for people to start commenting on... other one strayed from original topic I suppose. Although that's not a bad thing.<br /><br />I just realized that I don't really have a place for discussions other than the frontpage comment system (which isn't really intended for general discussions) and the message board (which uses an old script and stinks).<br /><br />I think I'll be putting up a UBB script sometime... think I had one for comp club a while back, probably can just modify that... =)<br /><br />-Oliver

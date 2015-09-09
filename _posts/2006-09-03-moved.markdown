@@ -1,0 +1,28 @@
+---
+author: Oliver
+comments: true
+date: 2006-09-03 06:09:23+00:00
+excerpt: None
+layout: post
+slug: moved
+title: Moved!
+wordpress_id: 308
+tags:
+- events
+- news
+---
+
+If you see this, OliverWEB.com has successfully transferred to its new server and you are viewing the new OliverWEB powered by <a href="http://www.wordpress.org">WordPress</a>.
+
+Yay!  Uhhh... too lazy to find lyrics for this post.  Will continue later. =)
+
+There will probably be some things broken... please excuse them for the time being... I'll have them fixed shortly, hopefully.
+
+Edit: Oh fine, here're some lyrics.
+
+<blockquote class="lyrics">"I've got sunshine,
+On a cloudy day.
+When it's cold outside,
+I've got the month of may.
+I guess you'd say,
+What can make me feel this way?" - Temptations</blockquote>

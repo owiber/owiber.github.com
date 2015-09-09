@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2003-08-10 03:20:18+00:00
+excerpt: None
+layout: post
+slug: gentoo
+title: Gentoo!
+wordpress_id: 1596
+tags:
+- oldpost
+---
+
+Gentoo is up and running! I've got a lot to configure though, like various power saving stuff, suspend, etc. etc.  I think I just got my audio working and started compiling stuff... at the moment, apache, php, samba, and grip are compiling, so I decided I should probably let those finish before I compile anymore. =)<br /><br />Ooohh! Samba finished! bbl<br /><br />-Oliver

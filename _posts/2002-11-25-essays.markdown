@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2002-11-25 05:16:25+00:00
+excerpt: None
+layout: post
+slug: essays
+title: Essays
+wordpress_id: 1535
+tags:
+- oldpost
+---
+
+I shall destroy the written language.<br /><br />-Oliver

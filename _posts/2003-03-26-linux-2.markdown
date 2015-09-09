@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2003-03-26 09:39:14+00:00
+excerpt: None
+layout: post
+slug: linux-2
+title: Linux 2
+wordpress_id: 1567
+tags:
+- oldpost
+---
+
+Mouse part of XF86Config:<blockquote>Section "InputDevice"<br />  Driver    "synaptics"<br />  Identifier    "Mouse0"<br />  Option    "Device"    "/dev/psaux"<br />  Option    "Edges"     "1900 5400 1800 3900"<br />  Option    "Finger"    "25 30"<br />  Option    "MaxTapTime" "20"<br />  Option    "MaxTapMove" "220"<br />  Option    "VertScrollDelta" "250"<br />  Option    "EdgeMotionSpeed" "10"<br />  Option    "MinSpeed"  "0.03"<br />  Option    "MaxSpeed"  "0.11"<br />  Option    "AccelFactor" "0.0010"<br />  Option    "Emulate3Buttons" "yes"<br />EndSection</blockquote>Errr... I forgot what else... more later.<br /><br /><br /><br />-Oliver

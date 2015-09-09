@@ -1,0 +1,16 @@
+---
+author: Oliver
+comments: true
+date: 2007-04-10 00:49:40+00:00
+excerpt: None
+layout: post
+slug: quote
+title: Quote
+wordpress_id: 488
+tags:
+- misc
+---
+
+In the words of the great <a href="http://en.wikipedia.org/wiki/Steve_Balmer">Steve Balmer</a>:
+
+"I have four words for you!  I... love... this... company... yeeaaaah!"

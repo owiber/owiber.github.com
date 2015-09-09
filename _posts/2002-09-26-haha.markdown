@@ -1,0 +1,14 @@
+---
+author: archiver
+comments: true
+date: 2002-09-26 19:16:28+00:00
+excerpt: None
+layout: post
+slug: haha
+title: Haha
+wordpress_id: 1921
+tags:
+- oldpost
+---
+
+Hehe, well I'm in my room right now and I noticed that my WLAN is picking up a network.... hmmmm...<br /><br />Haha, turns out, I can still connect to the WAP I setup in Andrew's room from up here =)<br /><br />Let's watch Andrew's bandwidth GOOoOOooOOoOOoOoOoOOO... =D<br /><br />-Oliver

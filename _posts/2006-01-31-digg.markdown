@@ -1,0 +1,32 @@
+---
+author: Oliver
+comments: true
+date: 2006-01-31 18:42:13+00:00
+excerpt: None
+layout: post
+slug: digg
+title: Digg
+wordpress_id: 191
+tags:
+- misc
+---
+
+While I'm waiting for some stuff to finish buildling here, I figured I'd blog a bit.
+
+In the past few weeks/months, I started to visit <a href="http://www.digg.com">digg</a> on a regular basis.  It generally picks up things faster than <a href="http://www.slashdot.org">/.</a> and has a ton more articles per day, but that's not always a good thing.  Along with all the cool stuff, there's a lot of stupid articles that seem to populate up to the frontpage due to fanboys hopping excitingly at the mere mention of their idol and hitting the "digg it" button without any thought whatsoever.
+
+Most often, this kind of thing happens to Apple-related articles where it seems like anyone who blogs virtually anything about Apple will get "dugg."  When the Intel Macs came out, there were about five or ten articles switching back and forth between "yes XP will boot" and "no, XP won't boot!" and most of the articles were just guesses and/or repeats of previous ones.  More recently, the annoying articles have been the "I know how to boot XP!" where it's pretty much just some random guy who can't figure out the name of the company is Apple, not Mac, and his idea of how he *thinks* he can boot XP.  Many of the steps might as well like this:
+
+1. Make world peace
+2. Cure the common cold
+3. Wallah!! XP on iMac!
+
+... because they're just as plausible as many of the proposed steps.  It's pretty much like if I said something like this:  I know how to cure AIDS!
+
+1. Inspect AIDS virus.
+2. Find a chemical that destroys the virus.
+3. Create a pill with that chemical.
+4. Feed to AIDS infected person.
+5. If all goes well, cured!!!
+
+I don't understand how articles with no backing/substance whatsoever get so popular.  I guess it just goes to show how stupid masses of people can get... hehe...
