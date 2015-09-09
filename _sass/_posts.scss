@@ -30,7 +30,8 @@
 }
 .page-title,
 .post-title {
-  background-color: #222;
+  background: #222; /* Old browsers */
+  background: linear-gradient(to bottom, #000 0%, #222 100%); /* W3C */
   margin-left: -100px;
   margin-bottom: 0.5em;
   padding: 0.4em;

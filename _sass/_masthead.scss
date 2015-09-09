@@ -3,11 +3,12 @@
 // Super small header above the content for site name and short description.
 
 .masthead {
-  padding: 3rem;
+  padding: 3rem 0 2rem 0;
   margin-bottom: 3rem;
   min-height: 12rem;
   text-align: center;
-  background-color: #222;
+  background: #222; /* Old browsers */
+  background: linear-gradient(to bottom, #000 0%, #222 100%); /* W3C */
 
   @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     margin-bottom: 1rem;
@@ -45,4 +46,29 @@
   border-radius: 100px;
   display: inline-block;
   border: 2px solid #f2f2f2;
+}
+
+.link-list {
+  display: block;
+  margin: 20px 0 10px 0;
+  padding: 0;
+
+  li {
+    display: inline;
+
+    a {
+      display: inline-block;
+      padding: 5px 15px;
+      margin: 0 10px;
+      border-bottom: 1px solid #f800bc;
+      color: #f7f7f7;
+      font-size: 14px;
+      text-transform: lowercase;
+
+      &:hover {
+        text-decoration: none;
+        background-color: #222;
+      }
+    }
+  }
 }
