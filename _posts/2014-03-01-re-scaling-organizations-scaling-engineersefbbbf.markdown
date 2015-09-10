@@ -4,8 +4,8 @@ comments: true
 date: 2014-03-01 23:51:05+00:00
 excerpt: None
 layout: post
-slug: re-scaling-organizations-scaling-engineers%ef%bb%bf
-title: "Re: Scaling Organizations by Scaling Engineers\uFEFF"
+slug: re-scaling-organizations-scaling-engineers
+title: "Re: Scaling Organizations by Scaling Engineers"
 wordpress_id: 2583
 tags:
 - work
