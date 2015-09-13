@@ -25,3 +25,6 @@ author:
   name: Oliver Wong
   url: https://twitter.com/owiber
   email: oliver@owiber.com
+
+gems:
+  - jemoji
