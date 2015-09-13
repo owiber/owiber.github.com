@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-
   {% include head.html %}
-
   <body>
-
     <header class="masthead">
       <div class="header-container">
         <h3 class="masthead-title">
@@ -13,8 +10,8 @@
           <small><em>{{ site.tagline }}</em></small>
         </h3>
         <ul class="link-list">
-          <li><a href="{{ site.baseurl }}/">Blog</a></li>
           <li><a href="{{ site.baseurl }}/oliver-wong" title="About Oliver Wong">About</a></li>
+          <li><a href="https://twitter.com/owiber" title="@owiber">@owiber</a></li>
         </ul>
       </div>
     </header>
@@ -22,13 +19,16 @@
       <main>
         {{ content }}
       </main>
-
       <footer class="footer">
-        <small>
-          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
-        </small>
       </footer>
     </div>
-
+    <script>
+    (functi{on(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-747236-2', 'auto');
+      ga('send', 'pageview');
+    </script>}
   </body>
 </html>

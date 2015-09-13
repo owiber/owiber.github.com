@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
@@ -11,53 +10,23 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
     {{ post.content }}
-
-    <p><a class="comments-link" href="{{ site.url }}{{ post.url }}#disqus_thread">Comments</a></p>
+    <p class="comments-box"><a class="comments-link" href="{{ site.url }}{{ post.url }}#disqus_thread"
+      {%if post.wordpress_id %}
+      data-disqus-identifier="{{post.wordpress_id}} http://www.owiber.com/?p={{post.wordpress_id}}"
+      {% endif %}
+      >Comments</a></p>
   </article>
   {% endfor %}
 </div>
-
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' | replace: 'index.html', '' }}">&laquo; Prev</a>
-  {% else %}
-    <span>&laquo; Prev</span>
-  {% endif %}
-
-  <span class="pagination-numbers">
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <em>{{ page }}</em>
-      {% elsif page == 1 %}
-        <a href="/">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}
-  </span>
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
-</div>
-{% endif %}
-
+{% include paginator-links.html maxPages=5 %}
 <script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'owiber';
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function () {
-        var s = document.createElement('script'); s.async = true;
-        s.type = 'text/javascript';
-        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
+  var disqus_shortname = 'owiber';
+  (function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+  }());
 </script>
