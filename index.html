@@ -20,6 +20,21 @@ title: Home
   </article>
   {% endfor %}
 </div>
+<div class="search-container">
+  <script>
+    (function() {
+      var cx = '009709207842501521394:4b_swnplefg';
+      var gcse = document.createElement('script');
+      gcse.type = 'text/javascript';
+      gcse.async = true;
+      gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+          '//cse.google.com/cse.js?cx=' + cx;
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(gcse, s);
+    })();
+  </script>
+  <gcse:search></gcse:search>
+</div>
 {% include paginator-links.html maxPages=5 %}
 <script type="text/javascript">
   var disqus_shortname = 'owiber';
