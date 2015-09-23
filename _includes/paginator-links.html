@@ -64,7 +64,7 @@
   	{% elsif num == 1 %}
   	  <a class="number" href="{{ site.baseurl }}/">{{ num }}</a>
   	{% else %}
-  	  <a class="number" href="{{ site.baseurl }}/page/{{ num }}">{{ num }}</a>
+  	  <a class="number" href="{{ site.baseurl }}/page/{{ num }}/">{{ num }}</a>
   	{% endif %}
     {% unless forloop.last %}
       <span class="seperator"></span>
@@ -86,7 +86,7 @@
 
   <!-- Last page -->
   {% if paginator.next_page %}
-    <a href="{{ site.baseurl }}/page/{{ paginator.total_pages }}" class="last-page"></a>
+    <a href="{{ site.baseurl }}/page/{{ paginator.total_pages }}/" class="last-page"></a>
   {% else %}
     <span class="last-page"></span>
   {% endif %}
