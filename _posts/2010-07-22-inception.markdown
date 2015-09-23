@@ -19,4 +19,4 @@ We also went to see Inception which was enjoyable.  That's about all I'll say.  
 
 Sunday was Vox and we also played a crazy tower defense map in WC3.  Have yet to beat it. =(
 
-<a href="http://www.owiber.com/?attachment_id=2027" rel="attachment wp-att-2027"><img src="http://www.owiber.com/wp-content/uploads/2010/07/Photo-on-2010-07-21-at-19.43-80x80.jpg" alt="" title="Photo on 2010-07-21 at 19.43" width="80" height="80" class="alignnone size-thumbnail wp-image-2027" /></a>
+<a href="https://www.owiber.com/?attachment_id=2027" rel="attachment wp-att-2027"><img src="https://www.owiber.com/wp-content/uploads/2010/07/Photo-on-2010-07-21-at-19.43-80x80.jpg" alt="" title="Photo on 2010-07-21 at 19.43" width="80" height="80" class="alignnone size-thumbnail wp-image-2027" /></a>

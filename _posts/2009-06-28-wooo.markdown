@@ -11,7 +11,7 @@ tags:
 - events
 ---
 
-Well, I finally updated the layout, <em>and</em> switched over to <a href="http://www.owiber.com">owiber.com</a>!  There's still some work to do, but it should hopefully be functional.  I've tested in a few browsers and made a conscious decision to NOT support IE6, so if you come here with that poor excuse for a browser, prepare for some ugliness and a JavaScript pop-up telling you so.  I haven't tested in IE7 yet, but I hope that works okay...  let me know if you find any issues!
+Well, I finally updated the layout, <em>and</em> switched over to <a href="https://www.owiber.com">owiber.com</a>!  There's still some work to do, but it should hopefully be functional.  I've tested in a few browsers and made a conscious decision to NOT support IE6, so if you come here with that poor excuse for a browser, prepare for some ugliness and a JavaScript pop-up telling you so.  I haven't tested in IE7 yet, but I hope that works okay...  let me know if you find any issues!
 
 The coolest little feature is if you hover over the flickr images at the top/left, it'll change the main image at the very top.  I broke a big website "rule" by not having my content above the fold, but I think the photo switch thingy makes up for it a bit, and heck, I don't sell anything here, so I don't really care. =)  I plan on enhancing my flickr integration a bit so you can do the hover over thing with more than just the five most recent photos in my stream, but... that'll be later.  Have fun!
 

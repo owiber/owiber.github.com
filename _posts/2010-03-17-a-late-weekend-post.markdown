@@ -19,4 +19,4 @@ Sunday, went to Vox, then went with Sam to meet up with Heather and Stephanie Ki
 
 So yeah... kind of a mellow non-interesting weekend. =p
 
-<a href="http://www.owiber.com/?attachment_id=1199" rel="attachment wp-att-1199"><img src="http://www.owiber.com/wp-content/uploads/2010/03/Photo-on-2010-03-17-at-17.56-3-80x80.jpg" alt="" title="Photo on 2010-03-17 at 17.56 #3" width="80" height="80" class="alignnone size-thumbnail wp-image-1199" /></a>
+<a href="https://www.owiber.com/?attachment_id=1199" rel="attachment wp-att-1199"><img src="https://www.owiber.com/wp-content/uploads/2010/03/Photo-on-2010-03-17-at-17.56-3-80x80.jpg" alt="" title="Photo on 2010-03-17 at 17.56 #3" width="80" height="80" class="alignnone size-thumbnail wp-image-1199" /></a>

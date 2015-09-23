@@ -22,4 +22,4 @@ she breathes the air and flies away
 She thanks her Jesus for the daises and the roses
 in no simple language" - Jars of Clay</blockquote>
 
-<a href="http://www.owiber.com/?attachment_id=1205" rel="attachment wp-att-1205"><img src="http://www.owiber.com/wp-content/uploads/2010/03/Photo-on-2010-03-20-at-17.35-80x80.jpg" alt="" title="Photo on 2010-03-20 at 17.35" width="80" height="80" class="alignnone size-thumbnail wp-image-1205" /></a>
+<a href="https://www.owiber.com/?attachment_id=1205" rel="attachment wp-att-1205"><img src="https://www.owiber.com/wp-content/uploads/2010/03/Photo-on-2010-03-20-at-17.35-80x80.jpg" alt="" title="Photo on 2010-03-20 at 17.35" width="80" height="80" class="alignnone size-thumbnail wp-image-1205" /></a>

@@ -14,7 +14,7 @@ tags:
 
 It's done!  Viraj provided assistance in interviewing and some creative juices, if you know what I mean. Erhm...
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/wcYZ11vaNtU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wcYZ11vaNtU" frameborder="0" allowfullscreen></iframe>
 
 When we played this to Sam, he sent me a multitude of cuss words.  <3 Sam. ;)
 

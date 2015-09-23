@@ -11,7 +11,7 @@ tags:
 - events
 ---
 
-So, <a href="http://www.google.com">Google</a> buys <a href="http://www.youtube.com">YouTube</a>, eh?  I was kinda hoping <a href="http://www.yahoo.com">Yahoo!</a> would buy it.  I've kinda been rooting for the underdog search engine for a while (even though I don't use it) out of my fondness of <a href="http://www.flickr.com">flickr</a> and general positive attitude for <a href="http://del.icio.us/">del.icio.us</a>.
+So, <a href="http://www.google.com">Google</a> buys <a href="https://www.youtube.com">YouTube</a>, eh?  I was kinda hoping <a href="http://www.yahoo.com">Yahoo!</a> would buy it.  I've kinda been rooting for the underdog search engine for a while (even though I don't use it) out of my fondness of <a href="http://www.flickr.com">flickr</a> and general positive attitude for <a href="http://del.icio.us/">del.icio.us</a>.
 
 Oh... I'm hungry, that's all I'm going to say for now... must find food...
 

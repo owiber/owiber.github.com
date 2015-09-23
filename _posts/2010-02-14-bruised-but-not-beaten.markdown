@@ -19,7 +19,7 @@ Tomorrow, Al runs his first marathon! Good luck!  In the morning, I'll be over a
 
 Yesterday, I won $223 from being in a money booth.  Thanks again, BV!  I think I will use the money to EAT FOOD.
 
-<a href="http://www.flickr.com/photos/owiber/4351677118/" title="A-BV-Friday-003 by owiber, on Flickr"><img src="http://farm3.static.flickr.com/2760/4351677118_939e57ed8f.jpg" width="333" height="500" alt="A-BV-Friday-003" /></a>
+<a href="http://www.flickr.com/photos/owiber/4351677118/" title="A-BV-Friday-003 by owiber, on Flickr"><img src="https://farm3.static.flickr.com/2760/4351677118_939e57ed8f.jpg" width="333" height="500" alt="A-BV-Friday-003" /></a>
 
 <blockquote class="lyrics">"Saturday night I was downtown
 Working for the FBI
@@ -31,4 +31,4 @@ Full of people who are doing wrong
 Just about to call up the DA man
 When I heard this woman singing a song" - The Hollies</blockquote>
 
-<a href="http://www.owiber.com/?attachment_id=1081" rel="attachment wp-att-1081"><img src="http://www.owiber.com/wp-content/uploads/2010/02/Photo-on-2010-02-13-at-22.53-2-80x80.jpg" alt="" title="Photo on 2010-02-13 at 22.53 #2" width="80" height="80" class="alignnone size-thumbnail wp-image-1081" /></a>
+<a href="https://www.owiber.com/?attachment_id=1081" rel="attachment wp-att-1081"><img src="https://www.owiber.com/wp-content/uploads/2010/02/Photo-on-2010-02-13-at-22.53-2-80x80.jpg" alt="" title="Photo on 2010-02-13 at 22.53 #2" width="80" height="80" class="alignnone size-thumbnail wp-image-1081" /></a>

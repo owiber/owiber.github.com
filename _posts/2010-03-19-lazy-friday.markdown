@@ -18,4 +18,4 @@ I have had an unfortunate run of WwF games and have a longer losing streak (acro
 
 Itching a little to try to do a small video related project with my camera, but feeling rather uninspired right now...
 
-<a href="http://www.owiber.com/?attachment_id=1202" rel="attachment wp-att-1202"><img src="http://www.owiber.com/wp-content/uploads/2010/03/Photo-on-2010-03-19-at-16.09-80x80.jpg" alt="" title="Photo on 2010-03-19 at 16.09" width="80" height="80" class="alignnone size-thumbnail wp-image-1202" /></a>
+<a href="https://www.owiber.com/?attachment_id=1202" rel="attachment wp-att-1202"><img src="https://www.owiber.com/wp-content/uploads/2010/03/Photo-on-2010-03-19-at-16.09-80x80.jpg" alt="" title="Photo on 2010-03-19 at 16.09" width="80" height="80" class="alignnone size-thumbnail wp-image-1202" /></a>

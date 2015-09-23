@@ -24,4 +24,4 @@ The Expendables was pretty awesome, especially sitting with OMan.  OMan gives th
 <li>I moved my computer into the <a href="http://twitter.com/owiber/status/21166360183">new case I found at Fry's</a> =)</li>
 </ul>
 
-<a href="http://www.owiber.com/?attachment_id=2060" rel="attachment wp-att-2060"><img src="http://www.owiber.com/wp-content/uploads/2010/08/Photo-on-2010-08-17-at-01.08-80x80.jpg" alt="" title="Photo on 2010-08-17 at 01.08" width="80" height="80" class="alignnone size-thumbnail wp-image-2060" /></a>
+<a href="https://www.owiber.com/?attachment_id=2060" rel="attachment wp-att-2060"><img src="https://www.owiber.com/wp-content/uploads/2010/08/Photo-on-2010-08-17-at-01.08-80x80.jpg" alt="" title="Photo on 2010-08-17 at 01.08" width="80" height="80" class="alignnone size-thumbnail wp-image-2060" /></a>

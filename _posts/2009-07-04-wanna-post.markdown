@@ -16,7 +16,7 @@ I want to post some lyrics, so I gotta come up with a blog post to go along with
 
 I just had dinner at Plucker's with Al:
 
-<a href="http://www.flickr.com/photos/owiber/3492950782/" title="BV-TS-PlayDay-048 by owiber, on Flickr"><img src="http://farm4.static.flickr.com/3557/3492950782_1a91743f12.jpg" width="500" height="333" alt="BV-TS-PlayDay-048" /></a>
+<a href="http://www.flickr.com/photos/owiber/3492950782/" title="BV-TS-PlayDay-048 by owiber, on Flickr"><img src="https://farm4.static.flickr.com/3557/3492950782_1a91743f12.jpg" width="500" height="333" alt="BV-TS-PlayDay-048" /></a>
 
 Good times as usual.  Thanks, Al!
 

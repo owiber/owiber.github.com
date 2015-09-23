@@ -23,4 +23,4 @@ I reserved an iPhone 4 at The Domain, but the line apparently has been 3+ hours 
 
 Oh, and I did a little work on the <a href="http://samitic.us">Sam Ni fan site</a>. =)
 
-<a href="http://www.owiber.com/?attachment_id=2006" rel="attachment wp-att-2006"><img src="http://www.owiber.com/wp-content/uploads/2010/06/Photo-on-2010-06-24-at-18.44-80x80.jpg" alt="" title="Photo on 2010-06-24 at 18.44" width="80" height="80" class="alignnone size-thumbnail wp-image-2006" /></a>
+<a href="https://www.owiber.com/?attachment_id=2006" rel="attachment wp-att-2006"><img src="https://www.owiber.com/wp-content/uploads/2010/06/Photo-on-2010-06-24-at-18.44-80x80.jpg" alt="" title="Photo on 2010-06-24 at 18.44" width="80" height="80" class="alignnone size-thumbnail wp-image-2006" /></a>

@@ -39,4 +39,4 @@ else if (theMessage begins with "song " and theMessage is not "song ")
 
 I also added "aliases" to the previous and next commands ("p" and "n" respectively), but that was pretty trivial, so I won't include it here.  This is the first AppleScript I've written, so I'm probably making some noobish mistakes, but it was pretty cool.  Now I can chat with my Mac Mini and tell it what to play!
 
-<img src="http://www.owiber.com/wp-content/uploads/2009/08/ichatitunes.png" alt="AppleScript/iTunes/iChat" title="AppleScript/iTunes/iChat" width="359" height="386" class="alignnone size-full wp-image-749 noborder" />
+<img src="https://www.owiber.com/wp-content/uploads/2009/08/ichatitunes.png" alt="AppleScript/iTunes/iChat" title="AppleScript/iTunes/iChat" width="359" height="386" class="alignnone size-full wp-image-749 noborder" />

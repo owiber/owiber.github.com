@@ -19,14 +19,14 @@ When Oriana got baptized she talked about how much our mom loves us.  She pretty
 
 There is nothing I can do to repay my mom for being so wonderful, but today I got to give her something she very much deserves.  She's done so many things and blessed so many people, it was my honor and pleasure to give something I knew she wanted to her.  Enjoy, Mommy, and happy (early) Mother's Day.  I wouldn't trade you for the world. =)
 
-<a href="http://www.flickr.com/photos/owiber/470965401/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/204/470965401_67741084f2.jpg" width="500" height="333" alt="470932192_6cd0bc2b95_o.jpg" /></a>
+<a href="http://www.flickr.com/photos/owiber/470965401/" title="Photo Sharing"><img src="https://farm1.static.flickr.com/204/470965401_67741084f2.jpg" width="500" height="333" alt="470932192_6cd0bc2b95_o.jpg" /></a>
 
-<a title="470893836_10d806b204_o.jpg" href="http://flickr.com/photos/owiber/470961613/"><img src="http://farm1.static.flickr.com/188/470961613_5617351290.jpg" /></a>
+<a title="470893836_10d806b204_o.jpg" href="http://flickr.com/photos/owiber/470961613/"><img src="https://farm1.static.flickr.com/188/470961613_5617351290.jpg" /></a>
 
-<a title="470918192_c87d797927_o.jpg" href="http://flickr.com/photos/owiber/470963631/"><img src="http://farm1.static.flickr.com/167/470963631_562edda127.jpg" /></a>
+<a title="470918192_c87d797927_o.jpg" href="http://flickr.com/photos/owiber/470963631/"><img src="https://farm1.static.flickr.com/167/470963631_562edda127.jpg" /></a>
 
-<a title="470912734_8b2fe455fc_o.jpg" href="http://flickr.com/photos/owiber/470962733/"><img src="http://farm1.static.flickr.com/214/470962733_b28ffde3ef.jpg" /></a>
+<a title="470912734_8b2fe455fc_o.jpg" href="http://flickr.com/photos/owiber/470962733/"><img src="https://farm1.static.flickr.com/214/470962733_b28ffde3ef.jpg" /></a>
 
-<a title="470927341_9f75694005_o.jpg" href="http://flickr.com/photos/owiber/470944182/"><img src="http://farm1.static.flickr.com/180/470944182_b1e6ed716a.jpg" /></a>
+<a title="470927341_9f75694005_o.jpg" href="http://flickr.com/photos/owiber/470944182/"><img src="https://farm1.static.flickr.com/180/470944182_b1e6ed716a.jpg" /></a>
 
 Thanks for Kat for taking pics.

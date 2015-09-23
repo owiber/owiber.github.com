@@ -17,7 +17,7 @@ I want to give a shout out to my Bazaarvoice peeps for a hard-worked EOQ.  I fee
 
 Also, <a href="http://www.bazaarvoice.com/blog/2010/01/30/dont-dare-a-hot-dog/">this</a> is another reason why I <3 my company:
 
-<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/JMbvX5XCaNg&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/JMbvX5XCaNg&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+<object width="560" height="340"><param name="movie" value="https://www.youtube.com/v/JMbvX5XCaNg&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/JMbvX5XCaNg&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
 
 In other news, I'm headed to Seattle next week for work.  I *think* this'll be my first time to Seattle, so we'll see how it goes.  I've heard generally good things. =)
 
@@ -27,4 +27,4 @@ Oh oh it's magic, just a little magic (gotta be magic)
 You know it's true
 I got a hold on you" - The Cars</blockquote>
 
-<a href="http://www.owiber.com/?attachment_id=1048" rel="attachment wp-att-1048"><img src="http://www.owiber.com/wp-content/uploads/2010/01/Photo-on-2010-01-30-at-00.41-2-80x80.jpg" alt="" title="Photo on 2010-01-30 at 00.41 #2" width="80" height="80" class="alignnone size-thumbnail wp-image-1048" /></a>
+<a href="https://www.owiber.com/?attachment_id=1048" rel="attachment wp-att-1048"><img src="https://www.owiber.com/wp-content/uploads/2010/01/Photo-on-2010-01-30-at-00.41-2-80x80.jpg" alt="" title="Photo on 2010-01-30 at 00.41 #2" width="80" height="80" class="alignnone size-thumbnail wp-image-1048" /></a>

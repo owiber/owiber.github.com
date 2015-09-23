@@ -34,6 +34,6 @@ She needed to come back down to earth" - Avril Lavigne</blockquote>
 
 That song's called <em>Sk<strong>8</strong>ter Boi</em>.  I'm not joking.  Ridiculous.
 
-<a href="http://www.owiber.com/?attachment_id=1053" rel="attachment wp-att-1053"><img src="http://www.owiber.com/wp-content/uploads/2010/02/Photo-on-2010-02-02-at-00.56-2-80x80.jpg" alt="" title="Photo on 2010-02-02 at 00.56 #2" width="80" height="80" class="alignnone size-thumbnail wp-image-1053" /></a>
+<a href="https://www.owiber.com/?attachment_id=1053" rel="attachment wp-att-1053"><img src="https://www.owiber.com/wp-content/uploads/2010/02/Photo-on-2010-02-02-at-00.56-2-80x80.jpg" alt="" title="Photo on 2010-02-02 at 00.56 #2" width="80" height="80" class="alignnone size-thumbnail wp-image-1053" /></a>
 
 

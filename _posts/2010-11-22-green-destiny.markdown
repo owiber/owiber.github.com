@@ -16,10 +16,10 @@ I was talking to Melissa about when I read the Lord of the Rings series which wa
 
 There are quite a few good translations, I thought, but here are two humorous ones as a preview:
 
-<a href="http://www.owiber.com/2010/11/22/green-destiny/kidnapped/" rel="attachment wp-att-2145"><img src="http://www.owiber.com/wp-content/uploads/2010/11/kidnapped.png" alt="" title="kidnapped" width="615" height="142" class="alignnone size-full wp-image-2145" /></a>
+<a href="https://www.owiber.com/2010/11/22/green-destiny/kidnapped/" rel="attachment wp-att-2145"><img src="https://www.owiber.com/wp-content/uploads/2010/11/kidnapped.png" alt="" title="kidnapped" width="615" height="142" class="alignnone size-full wp-image-2145" /></a>
 
-<a href="http://www.owiber.com/2010/11/22/green-destiny/buda/" rel="attachment wp-att-2146"><img src="http://www.owiber.com/wp-content/uploads/2010/11/buda.png" alt="" title="buda" width="285" height="124" class="alignnone size-full wp-image-2146" /></a>
+<a href="https://www.owiber.com/2010/11/22/green-destiny/buda/" rel="attachment wp-att-2146"><img src="https://www.owiber.com/wp-content/uploads/2010/11/buda.png" alt="" title="buda" width="285" height="124" class="alignnone size-full wp-image-2146" /></a>
 
 Haha...
 
-<a href="http://www.owiber.com/2010/11/22/green-destiny/photo-on-2010-11-22-at-01-20/" rel="attachment wp-att-2149"><img src="http://www.owiber.com/wp-content/uploads/2010/11/Photo-on-2010-11-22-at-01.20-80x80.jpg" alt="" title="Photo on 2010-11-22 at 01.20" width="80" height="80" class="alignnone size-thumbnail wp-image-2149" /></a>
+<a href="https://www.owiber.com/2010/11/22/green-destiny/photo-on-2010-11-22-at-01-20/" rel="attachment wp-att-2149"><img src="https://www.owiber.com/wp-content/uploads/2010/11/Photo-on-2010-11-22-at-01.20-80x80.jpg" alt="" title="Photo on 2010-11-22 at 01.20" width="80" height="80" class="alignnone size-thumbnail wp-image-2149" /></a>

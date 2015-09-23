@@ -30,4 +30,4 @@ On the MTG front, I'm really looking forward to Theros. It seems pretty fun so f
 
 And... sibling hangout!
 
-<a href="http://www.flickr.com/photos/owiber/9682253025/" title="Sibling Hangout by owiber, on Flickr"><img src="http://farm3.staticflickr.com/2817/9682253025_8b489db470_z.jpg" width="640" height="534" alt="Sibling Hangout"></a>
+<a href="http://www.flickr.com/photos/owiber/9682253025/" title="Sibling Hangout by owiber, on Flickr"><img src="https://farm3.staticflickr.com/2817/9682253025_8b489db470_z.jpg" width="640" height="534" alt="Sibling Hangout"></a>

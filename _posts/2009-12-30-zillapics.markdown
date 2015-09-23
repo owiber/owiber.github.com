@@ -21,6 +21,6 @@ There are many more over at <a href="http://www.livizilla.com/2009/12/28/seester
 
 On another note, the iMac 27" is too much for Photo Booth to handle.  When it turns the screen white as a pseudo-flash, it basically washes out the resulting picture.  Luckily, I discovered that holding down shift while taking the photo makes it not do that... but that was after I took this beauty (which somehow isn't as washed out as other ones I've taken):
 
-<a href="http://www.owiber.com/2009/12/30/zillapics/account-pic/" rel="attachment wp-att-945"><img src="http://www.owiber.com/wp-content/uploads/2009/12/account-pic-80x80.jpg" alt="" title="account pic" width="80" height="80" class="alignnone size-thumbnail wp-image-945" /></a>
+<a href="https://www.owiber.com/2009/12/30/zillapics/account-pic/" rel="attachment wp-att-945"><img src="https://www.owiber.com/wp-content/uploads/2009/12/account-pic-80x80.jpg" alt="" title="account pic" width="80" height="80" class="alignnone size-thumbnail wp-image-945" /></a>
 
 Hmm, I need a haircut... 

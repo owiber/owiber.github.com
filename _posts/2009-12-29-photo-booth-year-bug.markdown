@@ -15,4 +15,4 @@ So upon further investigation, it totally seems like there is a Photo Booth bug 
 
 Might only impact Snow Leopard... my sister is unable to reproduce, but she's still running Leopard.  Or maybe it's just my house.  Yes, my system time is correct. =p
 
-<a href="http://www.owiber.com/2009/12/29/photo-booth-year-bug/photo-on-2010-12-29-at-01-06-2/" rel="attachment wp-att-932"><img src="http://www.owiber.com/wp-content/uploads/2009/12/Photo-on-2010-12-29-at-01.06-2-80x80.jpg" alt="" title="Photo on 2010-12-29 at 01.06 #2" width="80" height="80" class="alignright size-thumbnail wp-image-932" /></a>
+<a href="https://www.owiber.com/2009/12/29/photo-booth-year-bug/photo-on-2010-12-29-at-01-06-2/" rel="attachment wp-att-932"><img src="https://www.owiber.com/wp-content/uploads/2009/12/Photo-on-2010-12-29-at-01.06-2-80x80.jpg" alt="" title="Photo on 2010-12-29 at 01.06 #2" width="80" height="80" class="alignright size-thumbnail wp-image-932" /></a>

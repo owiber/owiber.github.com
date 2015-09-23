@@ -21,4 +21,4 @@ I slept in a lot this weekend.  It was awesome. Here's the rundown:
 <li>Skyped with Melissa after she moved into her dorm</li>
 </ul>
 
-<a href="http://www.owiber.com/?attachment_id=2077" rel="attachment wp-att-2077"><img src="http://www.owiber.com/wp-content/uploads/2010/08/skype1-80x80.png" alt="" title="skype" width="80" height="80" class="alignnone size-thumbnail wp-image-2077" /></a>
+<a href="https://www.owiber.com/?attachment_id=2077" rel="attachment wp-att-2077"><img src="https://www.owiber.com/wp-content/uploads/2010/08/skype1-80x80.png" alt="" title="skype" width="80" height="80" class="alignnone size-thumbnail wp-image-2077" /></a>

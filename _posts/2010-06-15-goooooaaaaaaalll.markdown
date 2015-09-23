@@ -22,4 +22,4 @@ Okay, rapid fire on the weekend:
 
 I have also discovered why Home Depot is in the top five US retailers... man, I've been there so much in the past few days as I've been working on my room (almost done... pics later this week)!
 
-<a href="http://www.owiber.com/?attachment_id=2000" rel="attachment wp-att-2000"><img src="http://www.owiber.com/wp-content/uploads/2010/06/Photo-on-2010-06-14-at-19.06-80x80.jpg" alt="" title="Photo on 2010-06-14 at 19.06" width="80" height="80" class="alignnone size-thumbnail wp-image-2000" /></a>
+<a href="https://www.owiber.com/?attachment_id=2000" rel="attachment wp-att-2000"><img src="https://www.owiber.com/wp-content/uploads/2010/06/Photo-on-2010-06-14-at-19.06-80x80.jpg" alt="" title="Photo on 2010-06-14 at 19.06" width="80" height="80" class="alignnone size-thumbnail wp-image-2000" /></a>

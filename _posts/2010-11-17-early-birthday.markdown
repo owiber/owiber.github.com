@@ -17,4 +17,4 @@ Ultimate was good especially since the weather was still pretty nice, but I'm no
 
 I think that's it?  Oh, congrats to Ochs and Weishan. =)
 
-<a href="http://www.owiber.com/2010/11/16/early-birthday/photo-on-2010-11-16-at-21-30/" rel="attachment wp-att-2140"><img src="http://www.owiber.com/wp-content/uploads/2010/11/Photo-on-2010-11-16-at-21.30-80x80.jpg" alt="" title="Photo on 2010-11-16 at 21.30" width="80" height="80" class="alignnone size-thumbnail wp-image-2140" /></a>
+<a href="https://www.owiber.com/2010/11/16/early-birthday/photo-on-2010-11-16-at-21-30/" rel="attachment wp-att-2140"><img src="https://www.owiber.com/wp-content/uploads/2010/11/Photo-on-2010-11-16-at-21.30-80x80.jpg" alt="" title="Photo on 2010-11-16 at 21.30" width="80" height="80" class="alignnone size-thumbnail wp-image-2140" /></a>

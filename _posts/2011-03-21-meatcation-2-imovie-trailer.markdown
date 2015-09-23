@@ -14,7 +14,7 @@ tags:
 
 Yay! Another Meatcation movie! This time, starring Sam Ni!
 
-<iframe title="YouTube video player" width="560" height="349" src="http://www.youtube.com/embed/x9ImLFkFNvs" frameborder="0" allowfullscreen></iframe>
+<iframe title="YouTube video player" width="560" height="349" src="https://www.youtube.com/embed/x9ImLFkFNvs" frameborder="0" allowfullscreen></iframe>
 
 Like a few other iMovie templated movies, I just stuck with the default text for the most part. =)
 

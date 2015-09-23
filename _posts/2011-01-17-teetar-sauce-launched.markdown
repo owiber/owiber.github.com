@@ -21,4 +21,4 @@ My sleep schedule has been kind of messed up this past week initially due to jet
 
 It's also my mom's birthday today.  Happy birthday, mother!
 
-<a href="http://www.owiber.com/2011/01/16/teetar-sauce-launched/photo-on-2011-01-16-at-19-06/" rel="attachment wp-att-2212"><img src="http://www.owiber.com/wp-content/uploads/2011/01/Photo-on-2011-01-16-at-19.06-80x80.jpg" alt="" title="Photo on 2011-01-16 at 19.06" width="80" height="80" class="alignleft size-thumbnail wp-image-2212" /></a>
+<a href="https://www.owiber.com/2011/01/16/teetar-sauce-launched/photo-on-2011-01-16-at-19-06/" rel="attachment wp-att-2212"><img src="https://www.owiber.com/wp-content/uploads/2011/01/Photo-on-2011-01-16-at-19.06-80x80.jpg" alt="" title="Photo on 2011-01-16 at 19.06" width="80" height="80" class="alignleft size-thumbnail wp-image-2212" /></a>

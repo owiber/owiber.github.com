@@ -22,4 +22,4 @@ On Sunday, my shins were feeling it pretty bad.  I think I gave myself shin spli
 
 I also found out today that I will be visiting Seattle for two days in February.  I guess that's alright...
 
-<a href="http://www.owiber.com/?attachment_id=1017" rel="attachment wp-att-1017"><img src="http://www.owiber.com/wp-content/uploads/2010/01/Photo-on-2010-01-19-at-00.05-80x80.jpg" alt="" title="Photo on 2010-01-19 at 00.05" width="80" height="80" class="alignnone size-thumbnail wp-image-1017" /></a>
+<a href="https://www.owiber.com/?attachment_id=1017" rel="attachment wp-att-1017"><img src="https://www.owiber.com/wp-content/uploads/2010/01/Photo-on-2010-01-19-at-00.05-80x80.jpg" alt="" title="Photo on 2010-01-19 at 00.05" width="80" height="80" class="alignnone size-thumbnail wp-image-1017" /></a>

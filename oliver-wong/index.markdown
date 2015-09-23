@@ -29,7 +29,7 @@ I'm on the usual social networking sites, primarily driven out of boredom (excep
   * [Flickr](http://www.flickr.com/photos/owiber)
 
 	
-  * [YouTube](http://www.youtube.com/owiber)
+  * [YouTube](https://www.youtube.com/owiber)
 
 
 I have a habit of making mock sites dealing with my roommates.  On Xanga, I live an alternate life of heart brokenness after the many years of abuse from my college roommate, [Sam Ni](http://sammaverick.com).  [Xanga Owiber](http://owiber.xanga.com) has gone through various phases in his sad life and is currently on a goth streak as far as I can tell, but has been rather silent as of late.  I also maintain a _very popular_ *cough* reporting site, [AndrewApproved.com](http://www.andrewapproved.com) which is dedicated to my dear friend Andrew Joseph and all things that he _loves loves loves_.  Finally, I created a Twitter account for my current roomy: [JRyanFunSponge](http://twitter.com/jryanfunsponge) (updated by others in addition to myself).
@@ -50,7 +50,7 @@ My music taste plays to my affection for nostalgia and I enjoy much of the 80's.
 
 I'm overall somewhat on the shy side in real life, but I tend to open up a bit more online, so I hear.  I enjoy group events, but also the occasional solo-time with a good friend.  Usually perfectly fine with sitting in silence and/or people watching with the right company.  My favorite movie is Transformers:
 
-![Transformers: The Movie](http://www.owiber.com/wp-content/uploads/2009/07/transformers_the_movie.jpg)
+![Transformers: The Movie](https://www.owiber.com/wp-content/uploads/2009/07/transformers_the_movie.jpg)
 
 I'm single (as of this writing, at least), and not actively searching, but it's been thought that I will meet my dream girl on a park bench as I solved my rubik's cube... so if you see me frequenting public parks toting the iconic nerd puzzle in hand, I just might be searching again.
 

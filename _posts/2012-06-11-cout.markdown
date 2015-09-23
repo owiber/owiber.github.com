@@ -20,6 +20,6 @@ Last weekend, I also participated in <a href="http://rhokaustin.org">RHoK Austin
 
 Chad and Nancy got a new golden puppy, which has yet to be named. Here's a video of Mozilla playing with it:
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/cwTZ6m-VOJM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cwTZ6m-VOJM" frameborder="0" allowfullscreen></iframe>
 
 I've got some pics... they're on Facebook right now. I'll send them to Flickr and post them here later.

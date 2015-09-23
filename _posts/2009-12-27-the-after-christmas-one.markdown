@@ -17,6 +17,6 @@ Oh, Chad, Viraj and I watched The Mighty Ducks and Rookie of the Year last night
 
 I've also decided I am going to end my blog posts, whenever possible, with a webcam shot.  Dine thy eyes on the beauty of my face!
 
-<a href="http://www.owiber.com/2009/12/27/the-after-christmas-one/photo-on-2010-12-27-at-17-02-2-2/" rel="attachment wp-att-922"><img src="http://www.owiber.com/wp-content/uploads/2009/12/Photo-on-2010-12-27-at-17.02-21-80x80.jpg" alt="" title="Photo on 2010-12-27 at 17.02 #2" width="80" height="80" class="alignright size-thumbnail wp-image-922" /></a>
+<a href="https://www.owiber.com/2009/12/27/the-after-christmas-one/photo-on-2010-12-27-at-17-02-2-2/" rel="attachment wp-att-922"><img src="https://www.owiber.com/wp-content/uploads/2009/12/Photo-on-2010-12-27-at-17.02-21-80x80.jpg" alt="" title="Photo on 2010-12-27 at 17.02 #2" width="80" height="80" class="alignright size-thumbnail wp-image-922" /></a>
 
 Oh, you thought I'd grace you with my whole face, eh?  Well, you'll just have to visit back for more!

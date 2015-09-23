@@ -20,7 +20,7 @@ I bought a water hose and stuff to give my lawn some loving, but never actually 
 
 I also printed out a bunch of photos and put them on my wall with magnetic photo rope I purchased from <a href="http://photojojo.com/store/awesomeness/magnetic-photo-rope">Photojojo</a>:
 
-<a href="http://www.flickr.com/photos/owiber/3670288291/" title="photorope-001 by owiber, on Flickr"><img src="http://farm4.static.flickr.com/3613/3670288291_d638cffa3c.jpg" width="500" height="333" alt="photorope-001" /></a>
+<a href="http://www.flickr.com/photos/owiber/3670288291/" title="photorope-001 by owiber, on Flickr"><img src="https://farm4.static.flickr.com/3613/3670288291_d638cffa3c.jpg" width="500" height="333" alt="photorope-001" /></a>
 
 <blockquote class="lyrics">"Maybe I'm wrong, won't you tell me if I'm coming on too strong
 This heart of mine has been hurt before, this time I wanna be sure

@@ -13,7 +13,7 @@ tags:
 
 Has anyone ever been to a dine-in Sonic?  I went to my first one today and it was... weird.  Haha...
 
-I added an RSS feed of my <a href="http://www.youtube.com/profile?user=owiber">YouTube videos</a> so you can view the latest shenanigans I catch on video.  Enjoy. =)
+I added an RSS feed of my <a href="https://www.youtube.com/profile?user=owiber">YouTube videos</a> so you can view the latest shenanigans I catch on video.  Enjoy. =)
 
 I started working on the new <a href="http://voxveniae.com/">Vox Veniae</a> site (linked site is a temp blog) on my desktop and had a strong urge to have multiple displays, so I took out my MacBook Pro, setup <a href="http://synergy2.sourceforge.net/">Synergy</a>, and was off working on the new site with the ability to test with Firefox, IE, and Safari all with one keyboard/mouse!  Yay!  I had Photoshop running on the desktop cutting up the site design given to me by Karen, and smb mounted that directory on the MacBook Pro with two terminal sessions running vim open for the HTML page and the stylesheet.  It was an enjoyable development session... ideas are churning in my head for OWeb '07. =)  The only thing is that missing the "windows key" on this <a href="http://en.wikipedia.org/wiki/IBM_Model_M_Keyboard">IBM Model M</a> keyboard (which is otherwise awesome) is sometimes problematic... haha.  Speaking of which, if anyone is looking for birthday gift ideas for me... <a href="http://pckeyboards.stores.yahoo.net/customizer.html">*cough*</a> ;) ;)
 

@@ -25,7 +25,7 @@ I'm owiber on Instagram if you want to follow me, or view my photos on the web <
 
 I also threw together some short clips of Mozilla in a video here:
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/mmjCH615TMg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mmjCH615TMg" frameborder="0" allowfullscreen></iframe>
 
 At work this past week, I got to pick up a quick short-term project that involved building something basically from scratch in one week. It was pretty fun, but the combination of Facebook and Internet Explorer is currently highly annoying me. Thumbs down!
 

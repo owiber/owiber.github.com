@@ -21,4 +21,4 @@ This past week, we made many more failed attempts at Sindragosa (we're giving up
 
 With that said, on to photo editing!  Tata!
 
-<a href="http://www.owiber.com/?attachment_id=2035" rel="attachment wp-att-2035"><img src="http://www.owiber.com/wp-content/uploads/2010/08/Photo-on-2010-08-06-at-00.41-80x80.jpg" alt="" title="Photo on 2010-08-06 at 00.41" width="80" height="80" class="alignnone size-thumbnail wp-image-2035" /></a>
+<a href="https://www.owiber.com/?attachment_id=2035" rel="attachment wp-att-2035"><img src="https://www.owiber.com/wp-content/uploads/2010/08/Photo-on-2010-08-06-at-00.41-80x80.jpg" alt="" title="Photo on 2010-08-06 at 00.41" width="80" height="80" class="alignnone size-thumbnail wp-image-2035" /></a>

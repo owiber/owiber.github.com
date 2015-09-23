@@ -18,7 +18,7 @@ On Saturday, since nearly everyone is out of town for a while, Mark and I worked
 
 I also watched the Tech and Cowboys games, Sherlock Holmes, and the ending of a horrible "SyFy" movie - Flu Bird Horror.  I'd say two of those four were satisfying, one was mediocre, and one, I am lucky to have seen without suffering brain damage.  I will let you guess which is what.
 
-<a href="http://www.owiber.com/?attachment_id=983" rel="attachment wp-att-983"><img src="http://www.owiber.com/wp-content/uploads/2010/01/Photo-on-2010-01-03-at-22.09-80x80.jpg" alt="" title="Photo on 2010-01-03 at 22.09" width="80" height="80" class="alignnone size-thumbnail wp-image-983" /></a>
+<a href="https://www.owiber.com/?attachment_id=983" rel="attachment wp-att-983"><img src="https://www.owiber.com/wp-content/uploads/2010/01/Photo-on-2010-01-03-at-22.09-80x80.jpg" alt="" title="Photo on 2010-01-03 at 22.09" width="80" height="80" class="alignnone size-thumbnail wp-image-983" /></a>
 
 <blockquote class="lyrics">"You've been around for such a long time now
 Oh maybe I could leave you but I don't know how

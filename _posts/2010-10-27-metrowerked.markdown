@@ -21,4 +21,4 @@ Anyways, I ended up not getting an offer to stay full time from the group primar
 
 So, here's to you, Metrowerks.  RIP.
 
-<a href="http://www.owiber.com/?attachment_id=2124" rel="attachment wp-att-2124"><img src="http://www.owiber.com/wp-content/uploads/2010/10/Photo-on-2010-10-26-at-21.28-80x80.jpg" alt="" title="Photo on 2010-10-26 at 21.28" width="80" height="80" class="alignnone size-thumbnail wp-image-2124" /></a>
+<a href="https://www.owiber.com/?attachment_id=2124" rel="attachment wp-att-2124"><img src="https://www.owiber.com/wp-content/uploads/2010/10/Photo-on-2010-10-26-at-21.28-80x80.jpg" alt="" title="Photo on 2010-10-26 at 21.28" width="80" height="80" class="alignnone size-thumbnail wp-image-2124" /></a>

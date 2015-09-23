@@ -17,6 +17,6 @@ So yesterday we were all minding our own business playing WoW when Sam, who is s
 
 Sam happily agrees and I managed to capture the moment with my handy camera.  I guess Sam just really wanted some man eye-candy next to him as he tanked ToC.  Whatever gives you motivation, I guess, Sammy.
 
-<a href="http://www.flickr.com/photos/owiber/4498751034/" title="No-Shirt-Wow-001 by owiber, on Flickr"><img src="http://farm5.static.flickr.com/4061/4498751034_61fbc14a8d.jpg" width="500" height="333" alt="No-Shirt-Wow-001" /></a>
+<a href="http://www.flickr.com/photos/owiber/4498751034/" title="No-Shirt-Wow-001 by owiber, on Flickr"><img src="https://farm5.static.flickr.com/4061/4498751034_61fbc14a8d.jpg" width="500" height="333" alt="No-Shirt-Wow-001" /></a>
 
-<a href="http://www.owiber.com/?attachment_id=1699" rel="attachment wp-att-1699"><img src="http://www.owiber.com/wp-content/uploads/2010/04/Photo-on-2010-04-06-at-20.02-80x80.jpg" alt="" title="Photo on 2010-04-06 at 20.02" width="80" height="80" class="alignnone size-thumbnail wp-image-1699" /></a>
+<a href="https://www.owiber.com/?attachment_id=1699" rel="attachment wp-att-1699"><img src="https://www.owiber.com/wp-content/uploads/2010/04/Photo-on-2010-04-06-at-20.02-80x80.jpg" alt="" title="Photo on 2010-04-06 at 20.02" width="80" height="80" class="alignnone size-thumbnail wp-image-1699" /></a>

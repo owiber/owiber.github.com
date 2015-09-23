@@ -19,4 +19,4 @@ Sunday was Vox, World Cup and Predators (acceptably entertaining).  After eating
 
 Oh, and <a href="http://samitic.us/2010/07/imitation-is-the-best-form-of/">Sam Ni is influential in many forms of art</a>.
 
-<a href="http://www.owiber.com/?attachment_id=2022" rel="attachment wp-att-2022"><img src="http://www.owiber.com/wp-content/uploads/2010/07/Photo-on-2010-07-14-at-17.41-80x80.jpg" alt="" title="Photo on 2010-07-14 at 17.41" width="80" height="80" class="alignnone size-thumbnail wp-image-2022" /></a>
+<a href="https://www.owiber.com/?attachment_id=2022" rel="attachment wp-att-2022"><img src="https://www.owiber.com/wp-content/uploads/2010/07/Photo-on-2010-07-14-at-17.41-80x80.jpg" alt="" title="Photo on 2010-07-14 at 17.41" width="80" height="80" class="alignnone size-thumbnail wp-image-2022" /></a>

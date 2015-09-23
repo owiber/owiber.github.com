@@ -14,6 +14,6 @@ tags:
 
 We threw a surprise birthday party for Oriana last Saturday...
 
-<a href="http://www.flickr.com/photos/owiber/2174505579/" title="OrianaBDay-112 by owiber, on Flickr"><img src="http://farm3.static.flickr.com/2395/2174505579_e63ce60f08.jpg" width="500" height="333" alt="OrianaBDay-112" /></a>
+<a href="http://www.flickr.com/photos/owiber/2174505579/" title="OrianaBDay-112 by owiber, on Flickr"><img src="https://farm3.static.flickr.com/2395/2174505579_e63ce60f08.jpg" width="500" height="333" alt="OrianaBDay-112" /></a>
 
 <a href="http://www.flickr.com/photos/owiber/sets/72157603663949057/">Flickr set</a>.

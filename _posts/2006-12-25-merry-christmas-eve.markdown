@@ -16,6 +16,6 @@ Well, it's Christmas Eve and I'm at home chilling with the family.  Have a merry
 
 In other news, I uploaded pics from when we took Henrique and Tu to a Brazilian restaurant:
 
-<a href="http://www.flickr.com/photos/owiber/331365504/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/86/331365504_9c753e7d7f.jpg" width="500" height="333" alt="Tu, Me, and Henrique" /></a>
+<a href="http://www.flickr.com/photos/owiber/331365504/" title="Photo Sharing"><img src="https://farm1.static.flickr.com/86/331365504_9c753e7d7f.jpg" width="500" height="333" alt="Tu, Me, and Henrique" /></a>
 
 More on my <a href="http://www.flickr.com/photos/owiber/sets/72157594435361687/">flickr</a>.

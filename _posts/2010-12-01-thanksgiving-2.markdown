@@ -17,6 +17,6 @@ I watched Unstoppable with Sam which was enjoyable.  Did I also watch HP7 this b
 
 On a completely unrelated topic, is anyone else amused with how terrible pandas are at living?  Sometimes I think it would be funny if there were a crazy stealth group out there that strived to accomplish what nature probably would have done without our meddling - make pandas extinct... by assassinating them.  Plus, it would probably really piss of China.
 
-<a href="http://www.owiber.com/2010/12/01/thanksgiving-2/panda/" rel="attachment wp-att-2153"><img src="http://www.owiber.com/wp-content/uploads/2010/12/panda.jpg" alt="" title="panda" width="200" height="161" class="alignnone size-full wp-image-2153" /></a>
+<a href="https://www.owiber.com/2010/12/01/thanksgiving-2/panda/" rel="attachment wp-att-2153"><img src="https://www.owiber.com/wp-content/uploads/2010/12/panda.jpg" alt="" title="panda" width="200" height="161" class="alignnone size-full wp-image-2153" /></a>
 
-<a href="http://www.owiber.com/2010/12/01/thanksgiving-2/photo-on-2010-12-01-at-00-47/" rel="attachment wp-att-2154"><img src="http://www.owiber.com/wp-content/uploads/2010/12/Photo-on-2010-12-01-at-00.47-80x80.jpg" alt="" title="Photo on 2010-12-01 at 00.47" width="80" height="80" class="alignnone size-thumbnail wp-image-2154" /></a>
+<a href="https://www.owiber.com/2010/12/01/thanksgiving-2/photo-on-2010-12-01-at-00-47/" rel="attachment wp-att-2154"><img src="https://www.owiber.com/wp-content/uploads/2010/12/Photo-on-2010-12-01-at-00.47-80x80.jpg" alt="" title="Photo on 2010-12-01 at 00.47" width="80" height="80" class="alignnone size-thumbnail wp-image-2154" /></a>

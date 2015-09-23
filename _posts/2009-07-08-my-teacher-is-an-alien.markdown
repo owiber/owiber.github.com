@@ -92,7 +92,7 @@ Tue, Jul 7, 2009 at 3:56 PM
 To: olivia &lt;wontonorama@_______.com&gt;
 Cc: Susan Wong &lt;susan.wong@_______.com&gt;, Oriana &lt;oreoreoeoo@_______.com&gt;</small>
 
-<img src="http://www.owiber.com/wp-content/uploads/2009/07/face.jpg" alt="Oriana FACE" title="Oriana FACE" width="320" height="240" class="alignnone size-full wp-image-700" />
+<img src="https://www.owiber.com/wp-content/uploads/2009/07/face.jpg" alt="Oriana FACE" title="Oriana FACE" width="320" height="240" class="alignnone size-full wp-image-700" />
 
 </blockquote>
 

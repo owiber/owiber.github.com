@@ -14,7 +14,7 @@ tags:
 
 I have had plans to take a self-portrait to put above my fire place for a while now.  I took the first stab at the photo for it today, which turned out better than I was expecting!
 
-<a href="http://www.flickr.com/photos/owiber/4126187744/" title="monocle by owiber, on Flickr"><img src="http://farm3.static.flickr.com/2637/4126187744_cfbf3c5e34.jpg" width="333" height="500" alt="monocle" /></a>
+<a href="http://www.flickr.com/photos/owiber/4126187744/" title="monocle by owiber, on Flickr"><img src="https://farm3.static.flickr.com/2637/4126187744_cfbf3c5e34.jpg" width="333" height="500" alt="monocle" /></a>
 
 I haven't printed anything large with these types of Photoshop effects on it, so I'm not sure how that will go.  As a test, I'm printing out a large 20x30 at Costco to see how it looks.  If it looks good, I'll be printing it on canvas. Woo!
 

@@ -17,4 +17,4 @@ Sunday was not too eventful, but I found out via Al's Facebook page that 94.7 wa
 
 I've also uploaded another video from the BV All-Hands:
 
-<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/xsPVYyqTZi4&hl=en&fs=1&hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/xsPVYyqTZi4&hl=en&fs=1&hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+<object width="560" height="340"><param name="movie" value="https://www.youtube.com/v/xsPVYyqTZi4&hl=en&fs=1&hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/xsPVYyqTZi4&hl=en&fs=1&hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>

@@ -14,16 +14,16 @@ tags:
 This weekend I went to Houston with coworkers and company.  I carpooled there with Ryan, Tiff, and two of Tiff's friends.  Overall, it was a nice weekend adventure, which I would have probably enjoyed more if i had played any Final Fantasy games.  Luckily, there was not a lot of terrible cosplay to make me want to run away, so we were good there.  A few shots from the event...
 
 Ryan doing a little dance at the gas station:
-<a href="http://www.flickr.com/photos/owiber/3738291916/" title="Ballerina Ryan (by owiber)"><img src="http://farm3.static.flickr.com/2632/3738291916_7f987958d3.jpg" title="Ballerina Ryan (by owiber)" alt="Ballerina Ryan (by owiber)" width="500" height="333" /></a>
+<a href="http://www.flickr.com/photos/owiber/3738291916/" title="Ballerina Ryan (by owiber)"><img src="https://farm3.static.flickr.com/2632/3738291916_7f987958d3.jpg" title="Ballerina Ryan (by owiber)" alt="Ballerina Ryan (by owiber)" width="500" height="333" /></a>
 
 Yay, tickets!
-<a href="http://www.flickr.com/photos/owiber/3738292260/" title="VGLHouston-002 (by owiber)"><img src="http://farm3.static.flickr.com/2457/3738292260_8f5906f70c.jpg" title="VGLHouston-002 (by owiber)" alt="VGLHouston-002 (by owiber)" width="500" height="333" /></a>
+<a href="http://www.flickr.com/photos/owiber/3738292260/" title="VGLHouston-002 (by owiber)"><img src="https://farm3.static.flickr.com/2457/3738292260_8f5906f70c.jpg" title="VGLHouston-002 (by owiber)" alt="VGLHouston-002 (by owiber)" width="500" height="333" /></a>
 
 Blizzard Q&A:
-<a href="http://www.flickr.com/photos/owiber/3737498291/" title="VGLHouston-003 (by owiber)"><img src="http://farm3.static.flickr.com/2602/3737498291_c80ec0f0b2.jpg" title="VGLHouston-003 (by owiber)" alt="VGLHouston-003 (by owiber)" width="500" height="333" /></a>
+<a href="http://www.flickr.com/photos/owiber/3737498291/" title="VGLHouston-003 (by owiber)"><img src="https://farm3.static.flickr.com/2602/3737498291_c80ec0f0b2.jpg" title="VGLHouston-003 (by owiber)" alt="VGLHouston-003 (by owiber)" width="500" height="333" /></a>
 
 Loitering:
-<a href="http://www.flickr.com/photos/owiber/3738299134/" title="VGLHouston-010 (by owiber)"><img src="http://farm4.static.flickr.com/3419/3738299134_d690807f72.jpg" title="VGLHouston-010 (by owiber)" alt="VGLHouston-010 (by owiber)" width="500" height="333" /></a>
+<a href="http://www.flickr.com/photos/owiber/3738299134/" title="VGLHouston-010 (by owiber)"><img src="https://farm4.static.flickr.com/3419/3738299134_d690807f72.jpg" title="VGLHouston-010 (by owiber)" alt="VGLHouston-010 (by owiber)" width="500" height="333" /></a>
 
 On the way back, Ryan took the Heather-prescribed route and made a wrong turn somewhere so we winded up at a place called <a href="http://maps.google.com/maps?q=30.272559,-96.493478&sll=30.271966,-96.490345&sspn=0.01805,0.03931&gl=us&ie=UTF8&ll=30.272077,-96.490345&spn=0.01805,0.03931&z=15&iwloc=A">Gay Hill</a> that had a creepy one-lane underpass.  We thought we were going to get attacked by trolls, among other... creatures.
 

@@ -18,4 +18,4 @@ On Sunday, my mom locked my car keys in my car, so I slept while she obtained my
 
 I've been watching Veronica Mars and I just finished the first season.  Man, that would have been a frustrating season finale and they even tease you throughout the first episode of the second season before resolving the cliff-hangers.  Glad I don't have to wait. =)  Enjoyable show.
 
-<a href="http://www.owiber.com/2010/12/16/hon-hon-hon/photo-on-2010-12-16-at-21-10/" rel="attachment wp-att-2170"><img src="http://www.owiber.com/wp-content/uploads/2010/12/Photo-on-2010-12-16-at-21.10-80x80.jpg" alt="" title="Photo on 2010-12-16 at 21.10" width="80" height="80" class="alignnone size-thumbnail wp-image-2170" /></a>
+<a href="https://www.owiber.com/2010/12/16/hon-hon-hon/photo-on-2010-12-16-at-21-10/" rel="attachment wp-att-2170"><img src="https://www.owiber.com/wp-content/uploads/2010/12/Photo-on-2010-12-16-at-21.10-80x80.jpg" alt="" title="Photo on 2010-12-16 at 21.10" width="80" height="80" class="alignnone size-thumbnail wp-image-2170" /></a>

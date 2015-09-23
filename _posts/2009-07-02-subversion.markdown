@@ -18,13 +18,13 @@ I'm going with coworkers to the <a href="http://videogameslive.com/index.php?sto
 
 I can't make another post without putting up a photo to make use of my flickr code, so here're some old ones:
 
-<a href="http://www.flickr.com/photos/owiber/57304716/" title="Sign by owiber, on Flickr"><img src="http://farm1.static.flickr.com/25/57304716_a601426608.jpg" width="500" height="414" alt="Sign" /></a>
+<a href="http://www.flickr.com/photos/owiber/57304716/" title="Sign by owiber, on Flickr"><img src="https://farm1.static.flickr.com/25/57304716_a601426608.jpg" width="500" height="414" alt="Sign" /></a>
 
 Oh, and these are dedicated to my lovely littlest sister who will love me even more after this...
 
-<a href="http://www.flickr.com/photos/owiber/148500562/" title="Bulbous Cheeks by owiber, on Flickr"><img src="http://farm1.static.flickr.com/50/148500562_e7a6337ec0.jpg" width="500" height="333" alt="Bulbous Cheeks" /></a>
+<a href="http://www.flickr.com/photos/owiber/148500562/" title="Bulbous Cheeks by owiber, on Flickr"><img src="https://farm1.static.flickr.com/50/148500562_e7a6337ec0.jpg" width="500" height="333" alt="Bulbous Cheeks" /></a>
 
-<a href="http://www.flickr.com/photos/owiber/2238002661/" title="Macro-008 by owiber, on Flickr"><img src="http://farm3.static.flickr.com/2184/2238002661_ea4502d767.jpg" width="500" height="333" alt="Macro-008" /></a>
+<a href="http://www.flickr.com/photos/owiber/2238002661/" title="Macro-008 by owiber, on Flickr"><img src="https://farm3.static.flickr.com/2184/2238002661_ea4502d767.jpg" width="500" height="333" alt="Macro-008" /></a>
 
 :-)
 
@@ -37,7 +37,7 @@ Oh yeah, and on a work related note, it's cool to see <a href="http://www.bazaar
 ... there also seems to be a trend developing with people getting creative trying to get hired at BV:
 <ul>
 <li><a href="http://hiremebazaarvoice.com/">HireMeBazaarvoice.com</a></li>
-<li><a href="http://www.youtube.com/watch?v=0H7xNDGOclk">YouTube video</a></li>
+<li><a href="https://www.youtube.com/watch?v=0H7xNDGOclk">YouTube video</a></li>
 </ul>
 
 <blockquote class="lyrics">"We're talking away

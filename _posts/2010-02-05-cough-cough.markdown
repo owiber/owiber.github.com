@@ -18,4 +18,4 @@ Tomorrow (or rather, later today) is our quarterly All-Hands at the Drafthouse. 
 
 Here's hoping this annoying cough goes away...
 
-<a href="http://www.owiber.com/?attachment_id=1059" rel="attachment wp-att-1059"><img src="http://www.owiber.com/wp-content/uploads/2010/02/Photo-on-2010-02-05-at-00.59-80x80.jpg" alt="" title="Photo on 2010-02-05 at 00.59" width="80" height="80" class="alignnone size-thumbnail wp-image-1059" /></a>
+<a href="https://www.owiber.com/?attachment_id=1059" rel="attachment wp-att-1059"><img src="https://www.owiber.com/wp-content/uploads/2010/02/Photo-on-2010-02-05-at-00.59-80x80.jpg" alt="" title="Photo on 2010-02-05 at 00.59" width="80" height="80" class="alignnone size-thumbnail wp-image-1059" /></a>

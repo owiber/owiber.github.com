@@ -17,4 +17,4 @@ During a chat with Melissa recently, I recalled this gem of a video I had stored
 
 <em>"No no no no no no no high velocity! No no... like that's... NO!  SH*T C**K!! SH*T C**K!!!!" - Sam Ni</em>
 
-<a href="http://www.owiber.com/?attachment_id=1223" rel="attachment wp-att-1223"><img src="http://www.owiber.com/wp-content/uploads/2010/03/Photo-on-2010-03-24-at-22.57-80x80.jpg" alt="" title="Photo on 2010-03-24 at 22.57" width="80" height="80" class="alignnone size-thumbnail wp-image-1223" /></a>
+<a href="https://www.owiber.com/?attachment_id=1223" rel="attachment wp-att-1223"><img src="https://www.owiber.com/wp-content/uploads/2010/03/Photo-on-2010-03-24-at-22.57-80x80.jpg" alt="" title="Photo on 2010-03-24 at 22.57" width="80" height="80" class="alignnone size-thumbnail wp-image-1223" /></a>

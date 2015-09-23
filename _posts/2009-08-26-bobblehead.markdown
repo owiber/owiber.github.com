@@ -13,6 +13,6 @@ tags:
 
 Oliver Bobblehead!!!
 
-<a href="http://www.flickr.com/photos/owiber/3860617866/" title="OliverBobblehead by owiber, on Flickr"><img src="http://farm4.static.flickr.com/3483/3860617866_5283b6e327.jpg" width="500" height="333" alt="OliverBobblehead" /></a>
+<a href="http://www.flickr.com/photos/owiber/3860617866/" title="OliverBobblehead by owiber, on Flickr"><img src="https://farm4.static.flickr.com/3483/3860617866_5283b6e327.jpg" width="500" height="333" alt="OliverBobblehead" /></a>
 
 My business development team awarded me this bobblehead.  It's pretty cool, but kind of creepy too.  Woo!

@@ -13,6 +13,6 @@ tags:
 
 I hate <a href="http://www.myspace.com/owiber">MySpace</a>:
 
-<img src="http://www.owiber.com/wp-content/uploads/2009/07/olivernofriends.png" alt="Oliver has 0 friends." title="Oliver has 0 friends." width="219" height="58" class="alignnone size-full wp-image-723" />
+<img src="https://www.owiber.com/wp-content/uploads/2009/07/olivernofriends.png" alt="Oliver has 0 friends." title="Oliver has 0 friends." width="219" height="58" class="alignnone size-full wp-image-723" />
 
 :cry:

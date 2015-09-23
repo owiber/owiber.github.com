@@ -17,4 +17,4 @@ I ordered a suit from Banana Republic because apparently no one likes to stock 3
 
 I was debating about whether or not to take photos of my food at Alinea, but now I think I will.  The most convincing reason?  To make my sister jealous. HAHAHAHA.
 
-<a href="http://www.owiber.com/wp-content/uploads/2011/02/Photo-on-2011-02-09-at-20.30.jpg"><img src="http://www.owiber.com/wp-content/uploads/2011/02/Photo-on-2011-02-09-at-20.30-80x80.jpg" alt="" title="Photo on 2011-02-09 at 20.30" width="80" height="80" class="alignleft size-thumbnail wp-image-2236" /></a>
+<a href="https://www.owiber.com/wp-content/uploads/2011/02/Photo-on-2011-02-09-at-20.30.jpg"><img src="https://www.owiber.com/wp-content/uploads/2011/02/Photo-on-2011-02-09-at-20.30-80x80.jpg" alt="" title="Photo on 2011-02-09 at 20.30" width="80" height="80" class="alignleft size-thumbnail wp-image-2236" /></a>

@@ -24,8 +24,8 @@ Oh! I should mention... this is NOT and April 1st joke. =P
 
 In other news, I found a wonderful program to make fake Magic cards and had a blast of a time creating Sam and Viraj cards. I'm sure Gene, Liang, Mark, and Sam can attest to the many giggles that came from my desk as I tinkered with this. I was so pleased with myself. Here are draft versions of two Virajs. You'll have to wait for the Sam one. I think I'm going to redo what I've got.
 
-<a href="http://www.owiber.com/wp-content/uploads/2012/04/Viraj-The-Mux-Master.jpg"><img src="http://www.owiber.com/wp-content/uploads/2012/04/Viraj-The-Mux-Master.jpg" alt="" title="Viraj The Mux Master" width="375" height="523" class="alignleft size-full wp-image-2382" /></a>
+<a href="https://www.owiber.com/wp-content/uploads/2012/04/Viraj-The-Mux-Master.jpg"><img src="https://www.owiber.com/wp-content/uploads/2012/04/Viraj-The-Mux-Master.jpg" alt="" title="Viraj The Mux Master" width="375" height="523" class="alignleft size-full wp-image-2382" /></a>
 
-<a href="http://www.owiber.com/wp-content/uploads/2012/04/Viraj-The-Street-Pooper.jpg"><img src="http://www.owiber.com/wp-content/uploads/2012/04/Viraj-The-Street-Pooper.jpg" alt="" title="Viraj The Street Pooper" width="375" height="523" class="alignleft size-full wp-image-2383" /></a>
+<a href="https://www.owiber.com/wp-content/uploads/2012/04/Viraj-The-Street-Pooper.jpg"><img src="https://www.owiber.com/wp-content/uploads/2012/04/Viraj-The-Street-Pooper.jpg" alt="" title="Viraj The Street Pooper" width="375" height="523" class="alignleft size-full wp-image-2383" /></a>
 
 =D

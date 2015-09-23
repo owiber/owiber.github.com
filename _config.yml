@@ -5,7 +5,7 @@ email: oliver@owiber.com
 description: > # this means to ignore newlines until "baseurl:"
   an oliver wong blog
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.owiber.com" # the base hostname & protocol for your site
+url: "https://www.owiber.com" # the base hostname & protocol for your site
 twitter_username: owiber
 github_username:  owiber
 

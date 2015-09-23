@@ -15,7 +15,7 @@ This weekend started early after Bazaarvoice's traditional All-Hands at the Alam
 
 Speaking of the All-Hands, it was kicked off this quarter by an air band competition:
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/is2Nv-zvkE8&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/is2Nv-zvkE8&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385"><param name="movie" value="https://www.youtube.com/v/is2Nv-zvkE8&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/is2Nv-zvkE8&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
 After that, a few peeps came to chill at my place including Ochs and Weishan, which meant that Sam came along too since he apparently has a thing for Weishan and her "innocent friends."  I don't know, that's what I heard, just saying.
 

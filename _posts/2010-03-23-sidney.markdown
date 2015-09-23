@@ -13,4 +13,4 @@ tags:
 
 Oches got a puppy!!  She looks sad a lot... probably because Ochs got her.
 
-<a href="http://www.owiber.com/?attachment_id=1215" rel="attachment wp-att-1215"><img src="http://www.owiber.com/wp-content/uploads/2010/03/Photo-on-2010-03-22-at-19.50-300x225.jpg" alt="" title="Photo on 2010-03-22 at 19.50" width="300" height="225" class="alignnone size-medium wp-image-1215" /></a>
+<a href="https://www.owiber.com/?attachment_id=1215" rel="attachment wp-att-1215"><img src="https://www.owiber.com/wp-content/uploads/2010/03/Photo-on-2010-03-22-at-19.50-300x225.jpg" alt="" title="Photo on 2010-03-22 at 19.50" width="300" height="225" class="alignnone size-medium wp-image-1215" /></a>

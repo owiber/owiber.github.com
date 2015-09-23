@@ -15,4 +15,4 @@ Well, I succumbed then relatively quickly overcame my cold that left me feeling 
 
 On a side note, there seems to be something wrong with Photo Booth.  The file names it saves are a year in the future.  I checked my system clock and it's definitely correct... anyone else have this issue?
 
-<a href="http://www.owiber.com/2009/12/29/the-bitter-cold-of-the-north/photo-on-2010-12-29-at-00-37/" rel="attachment wp-att-928"><img src="http://www.owiber.com/wp-content/uploads/2009/12/Photo-on-2010-12-29-at-00.37-80x80.jpg" alt="" title="Photo on 2010-12-29 at 00.37" width="80" height="80" class="alignright size-thumbnail wp-image-928" /></a>
+<a href="https://www.owiber.com/2009/12/29/the-bitter-cold-of-the-north/photo-on-2010-12-29-at-00-37/" rel="attachment wp-att-928"><img src="https://www.owiber.com/wp-content/uploads/2009/12/Photo-on-2010-12-29-at-00.37-80x80.jpg" alt="" title="Photo on 2010-12-29 at 00.37" width="80" height="80" class="alignright size-thumbnail wp-image-928" /></a>

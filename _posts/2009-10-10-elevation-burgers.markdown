@@ -17,4 +17,4 @@ Okay, maybe I'm just upset they didn't have bacon (P.Terry's, here's looking at 
 
 I made a new poster for EB that I think they can use in the future if they want to make people think they can lose weight and be healthy by eating burgers.
 
-<img src="http://www.owiber.com/wp-content/uploads/2009/10/elevationburgers.jpg" alt="Elevation Burgers" title="Elevation Burgers" width="666" height="720" class="alignnone size-full wp-image-819" />
+<img src="https://www.owiber.com/wp-content/uploads/2009/10/elevationburgers.jpg" alt="Elevation Burgers" title="Elevation Burgers" width="666" height="720" class="alignnone size-full wp-image-819" />

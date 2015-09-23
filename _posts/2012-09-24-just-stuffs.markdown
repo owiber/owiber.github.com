@@ -16,7 +16,7 @@ tags:
 
 So here's a video montage of my vacation. Probably filled with inside jokes and immature humor. I don't expect anyone to watch or enjoy the whole thing, but here it is. =)
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/u7E-mtd9wjA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u7E-mtd9wjA" frameborder="0" allowfullscreen></iframe>
 
 I'm getting some estimates done on some major renovations to my house. Haven't decided if that's the route I'm going to take, but it's exciting to think about! I've been looking at a bunch of pictures on Houzz.com, which is pretty cool, though they have so many photos, it's overwhelming sometimes.
 
