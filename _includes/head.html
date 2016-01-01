@@ -1,7 +1,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
-  {% if page.title == "Home" %}<meta name="robots" content="noindex,follow">{% endif %}
+  <meta name="robots" content="index,follow">
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace: 'index.html','' }}">
   <title>{% if page.title == "Home" %}{{ site.title }} &middot; {{ site.tagline }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}</title>
   <link href='https://fonts.googleapis.com/css?family=Rubik:400,300' rel='stylesheet' type='text/css'>
