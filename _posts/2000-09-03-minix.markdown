@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Hehehe...<br /><center><img src="http://www.oliverweb.com/stuff/minix.jpg" width=200 height=229 alt="I, Minix, am addicted to Red Bull. Yes, I am a RedBullaholic."></center><br />Minix's old driver's license pic. =)<br /><br />-Oliver
+Hehehe...<br /><center><img src="http://www.oliverweb.com/stuff/minix.jpg" width="200" height="229" alt="I, Minix, am addicted to Red Bull. Yes, I am a RedBullaholic."></center><br />Minix's old driver's license pic. =)<br /><br />-Oliver

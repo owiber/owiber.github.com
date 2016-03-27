@@ -11,4 +11,8 @@ tags:
 - oldpost
 ---
 
-Was shared this piece of "information" today:<blockquote>aIl4Him16: what if france were in the cntinental united states?<br />Magestry03: lol<br />Magestry03: like<br />Magestry03: the whole city, as it is now?</blockquote>Yeah...<i>riiiight</i>.... =)<br /><br />-Oliver
+Was shared this piece of "information" today:
+
+> aIl4Him16: what if france were in the cntinental united states?<br />Magestry03: lol<br />Magestry03: like<br />Magestry03: the whole city, as it is now?
+
+Yeah...<i>riiiight</i>.... =)<br /><br />-Oliver

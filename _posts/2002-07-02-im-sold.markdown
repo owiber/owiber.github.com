@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<a href = "http://www.oliverweb.com/newsimages/gungorrilla.jpg">Clicky Click</a><br /><br />-Minix
+<a href="http://www.oliverweb.com/newsimages/gungorrilla.jpg">Clicky Click</a><br /><br />-Minix

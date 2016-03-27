@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I know you all have been waiting eagerly... (heh, yr =)) but anyway, here's my 6th comic!!  I think i'm going to title it "<a href = "http://www.oliverweb.com/newsimages/Comic6.gif">Economics Sucks</a>"<br /><br />-Minix
+I know you all have been waiting eagerly... (heh, yr =)) but anyway, here's my 6th comic!!  I think i'm going to title it "<a href="http://www.oliverweb.com/newsimages/Comic6.gif">Economics Sucks</a>"<br /><br />-Minix

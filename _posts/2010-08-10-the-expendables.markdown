@@ -17,7 +17,11 @@ After learning of the The Expendables movie that is releasing this week, the fir
 <object width="640" height="385"><param name="movie" value="https://www.youtube.com/v/uZcw9jn0Qz8&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/uZcw9jn0Qz8&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
 
 Notable quote:
-<blockquote><em>"If testosterone could mate... with an explosion... this would be the offspring."</em></blockquote>
+
+
+> <em>"If testosterone could mate... with an explosion... this would be the offspring."</em>
+
+
 
 So it was to much of my surprise that when we were purchasing tickets to the midnight showing, OMan said:
 

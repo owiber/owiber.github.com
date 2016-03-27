@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Hey!  In the mood for a lot of laughs?  Of course you are!<br /><center><big><a href = "http://www.emotioneric.com/"><br />Emotion Eric!</a></center></big><br />That's some funny stuff =) I like the procrastination one...<br /><br />-Minix
+Hey!  In the mood for a lot of laughs?  Of course you are!<br /><center><big><a href="http://www.emotioneric.com/"><br />Emotion Eric!</a></center></big><br />That's some funny stuff =) I like the procrastination one...<br /><br />-Minix

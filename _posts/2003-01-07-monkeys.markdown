@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-There are monkeys in our midst... and I don't mean monkeys like this:<br /><center><img src="http://www.oliverweb.com/stuff/goodmonkey.gif" width=159 height=165 alt="Good Monkey" border=0></center><br />I mean the ones like this:<br /><center><img src="http://www.oliverweb.com/stuff/evilmonkey.gif" width=158 height=172 border=0 alt="Evil Monkey"></center><br />They're everywhere... watch out!<br /><br />-Oliver
+There are monkeys in our midst... and I don't mean monkeys like this:<br /><center><img src="http://www.oliverweb.com/stuff/goodmonkey.gif" width="159" height="165" alt="Good Monkey" border="0"></center><br />I mean the ones like this:<br /><center><img src="http://www.oliverweb.com/stuff/evilmonkey.gif" width="158" height="172" border="0" alt="Evil Monkey"></center><br />They're everywhere... watch out!<br /><br />-Oliver

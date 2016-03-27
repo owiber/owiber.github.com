@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Heh, I know you all wish I'd given up... but I'm persistent.  Sorry =)  anyway here it is.<br /><br /><center><img src = "http://www.oliverweb.com/newsimages/Comic1.gif" Border = 1 width=339 height=248></center><br /><br />Obviously not like the previous ones... My impatience for Coconutcomics made me do it.<br /><br /><b><font color=red>[Oliver's Edit]: Why must you guys always break the frontpage's layout when you put up huge images?! =) Click on comments to view the image in full size.</font></b><br /><br />-Minix
+Heh, I know you all wish I'd given up... but I'm persistent.  Sorry =)  anyway here it is.<br /><br /><center><img src="http://www.oliverweb.com/newsimages/Comic1.gif" Border = 1 width="339" height="248"></center><br /><br />Obviously not like the previous ones... My impatience for Coconutcomics made me do it.<br /><br /><b><span style="color:red">[Oliver's Edit]: Why must you guys always break the frontpage's layout when you put up huge images?! =) Click on comments to view the image in full size.</span></b><br /><br />-Minix

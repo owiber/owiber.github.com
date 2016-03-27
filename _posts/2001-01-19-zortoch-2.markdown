@@ -11,4 +11,8 @@ tags:
 - oldpost
 ---
 
-<blockquote><font face="Times New Roman"><b><font COLOR="#ff0000">WabbaMan</b></font><font COLOR="#ff0000">:</font><font COLOR="#000000"> </font><font COLOR="#0000ff" FACE="Arial" SIZE=2>I am Zortoch, the alien nosepicker. Surrender your planet or face the consequences!!!<br /><b></font><font COLOR="#0000ff" SIZE=3>Saraleepastry03 signed off at 10:29:54 PM</b></font><font COLOR="#0000ff">.</font><font COLOR="#000000"> </font></font></blockquote><br /><br />-Oliver
+
+
+> <span><b><span style="color:#ff0000">WabbaMan</b></span><span style="color:#ff0000">:</span><span style="color:#000000"> </span><span style="color:#0000ff">I am Zortoch, the alien nosepicker. Surrender your planet or face the consequences!!!<br /><b></span><span style="color:#0000ff">Saraleepastry03 signed off at 10:29:54 PM</b></span><span style="color:#0000ff">.</span><span style="color:#000000"> </span></span>
+
+<br /><br />-Oliver

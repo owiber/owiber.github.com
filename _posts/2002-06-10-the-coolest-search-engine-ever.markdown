@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<a href = "http://www.kartoo.com">KartOO!!</a><br /><br />-Minix
+<a href="http://www.kartoo.com">KartOO!!</a><br /><br />-Minix

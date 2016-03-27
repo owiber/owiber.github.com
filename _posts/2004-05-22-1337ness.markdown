@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Oh man, 2 LCDs + 2 computers + laptop + <a href="http://synergy2.sf.net">Synergy</a> + <a href="http://www.samba.org">Samba</a> = uber cool.<br /><br /><center><img src="http://www.oliverweb.com/stuff/monkeytiddle.jpg" width=450 height=338 border=1></center><br /><br />Wheeeeeeee!!!<br /><br />-Oliver
+Oh man, 2 LCDs + 2 computers + laptop + <a href="http://synergy2.sf.net">Synergy</a> + <a href="http://www.samba.org">Samba</a> = uber cool.<br /><br /><center><img src="http://www.oliverweb.com/stuff/monkeytiddle.jpg" width="450" height="338" border="1"></center><br /><br />Wheeeeeeee!!!<br /><br />-Oliver

@@ -17,7 +17,11 @@ Nancy:<blockquote>EEEEWWW!!!! These chicken nuggets are nasty! I eat one and... 
 
 I have to go peeeeeeeeeee...</blockquote>
 
-Ochs:<blockquote>i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget. i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget. i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget. i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget. i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget. i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget.</blockquote>
+Ochs:
+
+> i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget. i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget. i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget. i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget. i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget. i was eating chicken nuggets at the union and was suddenly transported to winter of 1985 when i had my first nugget.
+
+
 
 Andrew:<blockquote>These nuggets are like Java.  I hate them like I hate people who chew bubble gum.  I hope the people who made them get fired and start using C++.
 
@@ -25,5 +29,9 @@ Andrew:<blockquote>These nuggets are like Java.  I hate them like I hate people 
 
 Oh, I mean here are the specs of my computer...</blockquote>
 
-Van:<blockquote><img alt="chicken.jpg" src="http://www.oliverweb.com/images05/blog/chicken.jpg" width="400" height="300" />I don't eat chicken. Please give me comments!</blockquote>
+Van:
+
+> <img alt="chicken.jpg" src="http://www.oliverweb.com/images05/blog/chicken.jpg" width="400" height="300" />I don't eat chicken. Please give me comments!
+
+
 =)

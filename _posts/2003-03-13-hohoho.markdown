@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I would like to share with you a picture of my new buddy:<br /><center><img src="http://www.oliverweb.com/newsimages/brewmaster2.gif" border=0 width=186 height=161 alt="Panderan Brewmaster"></center><br />Even thought his lesser brethren shed the blood of my Blademaster a few times due to my carelessness, I forgive them because this guy is so darn cool. Hehe...<br /><br />-Oliver
+I would like to share with you a picture of my new buddy:<br /><center><img src="http://www.oliverweb.com/newsimages/brewmaster2.gif" border="0" width="186" height="161" alt="Panderan Brewmaster"></center><br />Even thought his lesser brethren shed the blood of my Blademaster a few times due to my carelessness, I forgive them because this guy is so darn cool. Hehe...<br /><br />-Oliver

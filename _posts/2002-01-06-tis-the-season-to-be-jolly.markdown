@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<img src = "http://www.oliverweb.com/newsimages/happyoli.jpg" border=1><br /><br />-Minix
+<img src="http://www.oliverweb.com/newsimages/happyoli.jpg" border="1"><br /><br />-Minix

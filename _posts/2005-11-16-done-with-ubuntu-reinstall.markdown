@@ -26,6 +26,10 @@ cvspserver      2401/tcp</blockquote>
 Notes: Have both vncserver and vnc4server packages installed, but I think vnc4server overwrote the old version.
 
 /etc/fstab:
-<blockquote>/dev/hda3       /mnt/macosx     hfsplus users,rw,auto,exec      0 0</blockquote>
+
+
+> /dev/hda3       /mnt/macosx     hfsplus users,rw,auto,exec      0 0
+
+
 
 Ummmm... that's all for now. =)

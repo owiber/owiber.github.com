@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<center><img src = "http://www.oliverweb.com/newsimages/guesswho.jpg"></center><br /><br />-Minix
+<center><img src="http://www.oliverweb.com/newsimages/guesswho.jpg"></center><br /><br />-Minix

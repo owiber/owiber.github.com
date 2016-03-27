@@ -12,7 +12,7 @@ tags:
 ---
 
 <div><img alt="legs.jpg" src="http://www.oliverweb.com/images05/blog/legs.jpg" width="400" height="267" />
-<font>TEAMWORK</font><br />
-<font>When You Just Can't Go Alone.</font></div>
+<font>TEAMWORK</span><br />
+<font>When You Just Can't Go Alone.</span></div>
 
 Hehe, thanks <a href="http://www.bamboovanpoo.com">Van</a> for the Photoshopping cause I'm lazy. =)  And Mark again for help with the text.

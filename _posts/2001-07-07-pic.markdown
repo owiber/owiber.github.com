@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Lala...<br /><center><img src="http://www.oliverweb.com/newsimages/july4.jpg" width=250 height=232 border=1 alt="July 4th"></center><br />Lala!<br /><br />-Oliver
+Lala...<br /><center><img src="http://www.oliverweb.com/newsimages/july4.jpg" width="250" height="232" border="1" alt="July 4th"></center><br />Lala!<br /><br />-Oliver

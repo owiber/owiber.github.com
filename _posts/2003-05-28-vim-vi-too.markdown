@@ -11,4 +11,8 @@ tags:
 - oldpost
 ---
 
-Know how sometimes vim gets pesky and doesn't let you use the backspace to delete characters past where you entered insert mode? Here's the fix:<blockquote>set backspace=indent,eol,start</blockquote>There ya go! ;)<br /><br />Edit: Only works for vim, haven't looked for the fix to vi and probably won't cause I don't care. =)<br /><br />-Oliver
+Know how sometimes vim gets pesky and doesn't let you use the backspace to delete characters past where you entered insert mode? Here's the fix:
+
+> set backspace=indent,eol,start
+
+There ya go! ;)<br /><br />Edit: Only works for vim, haven't looked for the fix to vi and probably won't cause I don't care. =)<br /><br />-Oliver

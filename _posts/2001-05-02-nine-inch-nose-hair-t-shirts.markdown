@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Check out <a href = "http://www.cafepress.com/ninh">This</a> to see our ultra cool designs. =)  Order one! Come on!  We need the money!  And the advertisement =)<br /><br />-Minix
+Check out <a href="http://www.cafepress.com/ninh">This</a> to see our ultra cool designs. =)  Order one! Come on!  We need the money!  And the advertisement =)<br /><br />-Minix

@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<center><img src = "http://www.oliverweb.com/newsimages/sorryoliver.jpg" width="300" height="200"></center><br /><br />I was bored, so messing around in Illustrator... Just thought I'd annoy everyone and throw in on Oliverweb =)  I would like to point out that this is <bold>NOT</bold> a shameless plug =)<br /><br />-Minix
+<center><img src="http://www.oliverweb.com/newsimages/sorryoliver.jpg" width="300" height="200"></center><br /><br />I was bored, so messing around in Illustrator... Just thought I'd annoy everyone and throw in on Oliverweb =)  I would like to point out that this is <bold>NOT</bold> a shameless plug =)<br /><br />-Minix

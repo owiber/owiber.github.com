@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I LOVE THIS GUY!!!!<br /><br /><img src="http://www.oliverweb.com/newsimages/king kong.jpg"> <b></b>  <u></u>  <font face="Times New Roman" color="#00FF00"></font> <br /><br />-Wes
+I LOVE THIS GUY!!!!<br /><br /><img src="http://www.oliverweb.com/newsimages/king kong.jpg"> <b></b>  <u></u>  <span></span> <br /><br />-Wes

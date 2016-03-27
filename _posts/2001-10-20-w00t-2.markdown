@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<center><br /><br /><img src = "http://www.oliverweb.com/newsimages/bitmap.jpg" border=1></center><br /><br /><br />What do I get Oliver? =)  (btw... it is a bitmap =) Chad's comp, sorry)<br /><br />-Minix
+<center><br /><br /><img src="http://www.oliverweb.com/newsimages/bitmap.jpg" border="1"></center><br /><br /><br />What do I get Oliver? =)  (btw... it is a bitmap =) Chad's comp, sorry)<br /><br />-Minix

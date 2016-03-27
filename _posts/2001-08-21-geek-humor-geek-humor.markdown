@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-ok, its a geek story,  and not everyone who comes here will laugh much at this story, but a few might, so I thought I'd share.<br /><br /><a href = "http://www.freedonian.com/too_much_M.html">The Rise And Fall of dot.com</a><br /><br />-Minix
+ok, its a geek story,  and not everyone who comes here will laugh much at this story, but a few might, so I thought I'd share.<br /><br /><a href="http://www.freedonian.com/too_much_M.html">The Rise And Fall of dot.com</a><br /><br />-Minix

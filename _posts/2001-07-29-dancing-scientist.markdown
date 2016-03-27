@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<a href = "http://www.crisis51.f2s.com/dancingsci.html">lol...</a>  (Not recommended for slow connections)<br /><br />-Minix
+<a href="http://www.crisis51.f2s.com/dancingsci.html">lol...</a>  (Not recommended for slow connections)<br /><br />-Minix

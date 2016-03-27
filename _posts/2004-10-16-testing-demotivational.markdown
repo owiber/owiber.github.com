@@ -13,7 +13,7 @@ tags:
 
 <div>
 <img alt="olivia.jpg" src="http://www.oliverweb.com/images05/blog/olivia.jpg" width="400" height="266" />
-<font>SISTERS</font><br />
-<font>What Are They Good For?</font>
+<font>SISTERS</span><br />
+<font>What Are They Good For?</span>
 </div><br />
 Hehe... hotness. =)

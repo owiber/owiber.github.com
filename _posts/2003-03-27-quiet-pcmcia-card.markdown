@@ -11,4 +11,8 @@ tags:
 - oldpost
 ---
 
-Edit: /etc/sysconfig/pcmcia. Add:<blockquote>CARDMGR_OPTS=-q</blockquote><br />That is all for now.<br /><br />-Oliver
+Edit: /etc/sysconfig/pcmcia. Add:
+
+> CARDMGR_OPTS=-q
+
+<br />That is all for now.<br /><br />-Oliver

@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<img src="http://www.oliverweb.com/newsimages/mxnew.gif" alt="It's Coming..." width=200 height=80><br /><br />-Ochs
+<img src="http://www.oliverweb.com/newsimages/mxnew.gif" alt="It's Coming..." width="200" height="80"><br /><br />-Ochs

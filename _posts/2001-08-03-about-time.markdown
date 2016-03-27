@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Yes, it's about time i posted my own crappy comic....<br />(one that's not even funny)<br /><img src = "http://www.oliverweb.com/newsimages/thingy.gif" width=390 height=293> <br /><br />-Chad
+Yes, it's about time i posted my own crappy comic....<br />(one that's not even funny)<br /><img src="http://www.oliverweb.com/newsimages/thingy.gif" width="390" height="293"> <br /><br />-Chad

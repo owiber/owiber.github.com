@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<center><img src = "http://www.oliverweb.com/newsimages/ninhreturn.jpg" alt="Nananana!" border=1 width=350 height=500></center><br /><br />-Minix
+<center><img src="http://www.oliverweb.com/newsimages/ninhreturn.jpg" alt="Nananana!" border="1" width="350" height="500"></center><br /><br />-Minix

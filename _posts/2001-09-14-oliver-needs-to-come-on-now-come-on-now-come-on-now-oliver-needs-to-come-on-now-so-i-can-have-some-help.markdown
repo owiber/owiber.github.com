@@ -12,4 +12,4 @@ tags:
 - oldpost
 ---
 
-That was to the mulberry bush or whatever song, if you didn't already catch that.<br /><br />anyway, I've been working on the Coconut Comics <a href = "http://www.oliverweb.com/newsimages/layout.gif">layout</a>...<br /><br />I hope to convert to html and put up soon... unfourtanetly, I know Oliver could do it much quicker than me =) but, I can do it!  I have faith in myself! Heh heh heh!  ok, anyway... yup thats it.<br /><br />-Minix
+That was to the mulberry bush or whatever song, if you didn't already catch that.<br /><br />anyway, I've been working on the Coconut Comics <a href="http://www.oliverweb.com/newsimages/layout.gif">layout</a>...<br /><br />I hope to convert to html and put up soon... unfourtanetly, I know Oliver could do it much quicker than me =) but, I can do it!  I have faith in myself! Heh heh heh!  ok, anyway... yup thats it.<br /><br />-Minix

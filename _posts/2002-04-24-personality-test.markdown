@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-It's been a while, I know... here's a personality test, you can see what type of person you are.  <br /><br /><center><a href = "http://users.wpi.edu/~psyci/johnstamos/">LALALA</a></center><br /><br />-Minix
+It's been a while, I know... here's a personality test, you can see what type of person you are.  <br /><br /><center><a href="http://users.wpi.edu/~psyci/johnstamos/">LALALA</a></center><br /><br />-Minix

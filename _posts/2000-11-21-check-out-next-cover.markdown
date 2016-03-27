@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<img src="http://www.oliverweb.com/ninh/ninhpresidentsfinal.jpg" alt="We are 0h so cool and sexy" border="0" width=400 height=397><br /><br />-Minix
+<img src="http://www.oliverweb.com/ninh/ninhpresidentsfinal.jpg" alt="We are 0h so cool and sexy" border="0" width="400" height="397"><br /><br />-Minix

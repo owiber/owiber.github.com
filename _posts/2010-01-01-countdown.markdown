@@ -20,11 +20,19 @@ Heather and Steph have kidnapped <a href="http://www.twitter.com/jryanfunsponge"
 
 As a side note, in 2000, <a href="http://oliverweb.com/friends2000/">when asked</a> where I'd be ten years from then, I said:
 
-<blockquote><em>I'll be 26... possibly married, making money... probably got a master's in Computer Engineering... leading a happy life. =) Hopefully. =)</em></blockquote>
+
+
+> <em>I'll be 26... possibly married, making money... probably got a master's in Computer Engineering... leading a happy life. =) Hopefully. =)</em>
+
+
 
 <a href="http://oliverweb.com/friends2004/">In 2004</a>, I said in five years, I'd:
 
-<blockquote><em>Stable job... somewhere... I wonder if I will have a girlfriend then... lol. Owner of an Infiniti G35 Coupe. =)</em></blockquote>
+
+
+> <em>Stable job... somewhere... I wonder if I will have a girlfriend then... lol. Owner of an Infiniti G35 Coupe. =)</em>
+
+
 
 Apparently my future telling was not very keen back then... married? Hahaha... oh little Oliver, you slay me.
 

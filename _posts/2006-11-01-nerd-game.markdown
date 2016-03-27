@@ -13,6 +13,10 @@ tags:
 
 I used to play this game when I was a kid using the digits of today's date (11/1/2006) and tried to make various equations out of it... like...
 
-<blockquote>(1+1+1) * 2 = 6 + 0 + 0</blockquote>
+
+
+> (1+1+1) * 2 = 6 + 0 + 0
+
+
 
 It worked better when there weren't so many zeros.

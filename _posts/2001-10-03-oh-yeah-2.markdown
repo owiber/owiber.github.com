@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Here is a Minix-style representation of what happened prior to me updating OliverWEB with new layout.<br /><center><img src="http://www.oliverweb.com/newsimages/gunmatt.jpg" width=300 height=300 alt="Gimme password!"></center><br />Heh...<br /><br />-Oliver
+Here is a Minix-style representation of what happened prior to me updating OliverWEB with new layout.<br /><center><img src="http://www.oliverweb.com/newsimages/gunmatt.jpg" width="300" height="300" alt="Gimme password!"></center><br />Heh...<br /><br />-Oliver

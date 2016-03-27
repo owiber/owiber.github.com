@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I'm too lazy to add another section to the pics section, so I'll just dump this picture on the frontpage for now. Have fun:<br /><center><img src="http://www.oliverweb.com/pics/misc/minix.jpg" width=250 height=303></center><br />Guess who that is. =)<br /><br /><br /><font face=arial size=1>It's Minix! =)</font><br /><br />-Oliver
+I'm too lazy to add another section to the pics section, so I'll just dump this picture on the frontpage for now. Have fun:<br /><center><img src="http://www.oliverweb.com/pics/misc/minix.jpg" width="250" height="303"></center><br />Guess who that is. =)<br /><br /><br /><span>It's Minix! =)</span><br /><br />-Oliver

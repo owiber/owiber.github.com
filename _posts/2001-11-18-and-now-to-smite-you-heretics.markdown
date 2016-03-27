@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<font color=green>[Oliver should go jump off a cliff] </font> So cute =)<center><img src = "http://www.oliverweb.com/newsimages/chucky.jpg" border=1 alt = "Oliver you are a horrible person, Shame on you... Chucky's neat!"></center><br /><br />-Minix
+<span style="color:green">[Oliver should go jump off a cliff] </span> So cute =)<center><img src="http://www.oliverweb.com/newsimages/chucky.jpg" border="1" alt = "Oliver you are a horrible person, Shame on you... Chucky's neat!"></center><br /><br />-Minix

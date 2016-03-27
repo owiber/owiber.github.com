@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Just thought you might enjoy this...<br /><br /><center><br /><img src = "http://www.oliverweb.com/newsimages/doughboy.jpg" border = 1><br /></center><br /><br />-Minix
+Just thought you might enjoy this...<br /><br /><center><br /><img src="http://www.oliverweb.com/newsimages/doughboy.jpg" border="1"><br /></center><br /><br />-Minix

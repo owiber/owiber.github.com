@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-To quote Gabe... - "Spiderman is the reason God created cinema."  Truer words have never been spoken.  (Truer spelled that way?  Doesn't matter... ohwell, and watch this great <a href = "http://homepage.mac.com/machallboyd/iMovieTheater1.html">toon</a> =)<br /><br /><br />-Minix
+To quote Gabe... - "Spiderman is the reason God created cinema."  Truer words have never been spoken.  (Truer spelled that way?  Doesn't matter... ohwell, and watch this great <a href="http://homepage.mac.com/machallboyd/iMovieTheater1.html">toon</a> =)<br /><br /><br />-Minix

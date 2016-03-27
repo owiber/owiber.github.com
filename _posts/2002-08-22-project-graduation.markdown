@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Picture!<br /><br /><center><img src="http://www.oliverweb.com/stuff/avo.jpg" width=350 height=372 border=1></center><br /><br />-Oliver
+Picture!<br /><br /><center><img src="http://www.oliverweb.com/stuff/avo.jpg" width="350" height="372" border="1"></center><br /><br />-Oliver

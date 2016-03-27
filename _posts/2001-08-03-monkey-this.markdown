@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Oh... btw...<br /><br /><img src = "http://www.oliverweb.com/newsimages/hungmonkey.jpg"><br /><br />I have no pity for the monkey...<br /><br />lol.. =D but hey, the monkey looks happy there...<br /><br />-Olivia
+Oh... btw...<br /><br /><img src="http://www.oliverweb.com/newsimages/hungmonkey.jpg"><br /><br />I have no pity for the monkey...<br /><br />lol.. =D but hey, the monkey looks happy there...<br /><br />-Olivia

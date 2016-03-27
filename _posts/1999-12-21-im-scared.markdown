@@ -11,4 +11,8 @@ tags:
 - oldpost
 ---
 
-Look:<blockquote>Minix1F: goodbye sweetie</blockquote>Enough said. I think I'm going to go hide now...<br /><br />-Oliver
+Look:
+
+> Minix1F: goodbye sweetie
+
+Enough said. I think I'm going to go hide now...<br /><br />-Oliver

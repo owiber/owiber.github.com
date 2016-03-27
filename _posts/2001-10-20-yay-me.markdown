@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Just to let everyone know...<br /><br /><center><font color="#000fF0"<b><i>I just earned Margarita Beads!!</i></b></font></center><br /><br />oh yeah... I rule.<br /><br />-Minix
+Just to let everyone know...<br /><br /><center><span style="color:#000fF0"<b><i>I just earned Margarita Beads!!</i></b></span></center><br /><br />oh yeah... I rule.<br /><br />-Minix

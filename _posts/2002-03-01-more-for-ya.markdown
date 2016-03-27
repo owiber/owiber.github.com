@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Since everyone seems fond of sound files, I shall post 2 =)<br /><br /><a href = "http://www.coconutcomics.com/OliviaCandy.wav">Candy...</a><br /><a href = "http://www.coconutcomics.com/OliviaJaws.wav">Jaws...</a><br /><br />And I remain unrecorded =)<br /><br />-Minix
+Since everyone seems fond of sound files, I shall post 2 =)<br /><br /><a href="http://www.coconutcomics.com/OliviaCandy.wav">Candy...</a><br /><a href="http://www.coconutcomics.com/OliviaJaws.wav">Jaws...</a><br /><br />And I remain unrecorded =)<br /><br />-Minix

@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<a href = "http://www.amihotornot.com/r/?eid=NUEMN8&key=CBS">The perfect girl for Chad</a> =)  now for Assassin time... unfourtanetly... no girl that ever gets to know Chad could like him... =)  j/k =)  sorry Chad =)<br /><br /><br />-Minix
+<a href="http://www.amihotornot.com/r/?eid=NUEMN8&key=CBS">The perfect girl for Chad</a> =)  now for Assassin time... unfourtanetly... no girl that ever gets to know Chad could like him... =)  j/k =)  sorry Chad =)<br /><br /><br />-Minix

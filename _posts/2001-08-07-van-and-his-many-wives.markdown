@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<img src = "http://www.oliverweb.com/newsimages/traditional.jpg" width = "349" height = "240" border = 1><br /><br />Van's a player.<br /><br />-Minix
+<img src="http://www.oliverweb.com/newsimages/traditional.jpg" width = "349" height = "240" border="1"><br /><br />Van's a player.<br /><br />-Minix

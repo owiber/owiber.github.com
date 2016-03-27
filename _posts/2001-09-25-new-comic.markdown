@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-#7 I believe?  Anyway... here it is - <a href = "http://www.oliverweb.com/newsimages/orangecomputer.gif">#7</a><br /><br />-Minix
+#7 I believe?  Anyway... here it is - <a href="http://www.oliverweb.com/newsimages/orangecomputer.gif">#7</a><br /><br />-Minix

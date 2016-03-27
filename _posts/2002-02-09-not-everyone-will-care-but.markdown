@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<a href = "http://www.cs-conditionzero.com">Counter Strike: Condition Zero</a><br /><br />I don't know if you're drooling, but I am.<br /><br />-Minix
+<a href="http://www.cs-conditionzero.com">Counter Strike: Condition Zero</a><br /><br />I don't know if you're drooling, but I am.<br /><br />-Minix

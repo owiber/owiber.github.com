@@ -22,7 +22,11 @@ Marvel, apparently, decided to throw away a bunch of plot as well by just saying
 
 Let me treat you to this beauty of story-writing (from <a href="http://en.wikipedia.org/wiki/Final_crisis">Wikipedia</a>):
 
-<blockquote>"Darkseid's essence attempts to claim the Miracle Machine in a last ditch effort to defeat Superman. However, Superman sang a note at a frequency that countered Darkseid's own vibrational frequency, shattering his essence."</blockquote>
+
+
+> "Darkseid's essence attempts to claim the Miracle Machine in a last ditch effort to defeat Superman. However, Superman sang a note at a frequency that countered Darkseid's own vibrational frequency, shattering his essence."
+
+
 
 Yay!  That's just what everyone wanted Superman to have.  Super-<em>song</em>.  Here's another character that had this power (well, kinda):
 

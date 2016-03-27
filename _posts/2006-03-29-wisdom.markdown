@@ -13,6 +13,6 @@ tags:
 
 <div>
 <img alt="grab" src="http://static.flickr.com/36/112599741_e1fdf46b0a.jpg" width="400" height="266" />
-<font>OPPORTUNITY</font><br />
-<font>When You See It, Grab It</font>
+<font>OPPORTUNITY</span><br />
+<font>When You See It, Grab It</span>
 </div>
