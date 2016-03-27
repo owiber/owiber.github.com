@@ -15,7 +15,7 @@ paginate: 10
 paginate_path: /page/:num/
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 
 sass:
   sass_dir: _sass
@@ -28,3 +28,4 @@ author:
 
 gems:
   - jemoji
+  - jekyll-paginate
