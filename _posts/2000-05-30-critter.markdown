@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Just added my bud <a href=http://www.oliverweb.com/friends2000/critter.shtml>Critter</a> to the <a href=http://www.oliverweb.com/friends2000/index.shtml>Friends 2000</a> section.  He's pretty cool, does a neat handstand thing too. =)<br /><br />-Oliver
+Just added my bud <a href="http://www.oliverweb.com/friends2000/critter.shtml">Critter</a> to the <a href="http://www.oliverweb.com/friends2000/index.shtml">Friends 2000</a> section.  He's pretty cool, does a neat handstand thing too. =)<br /><br />-Oliver

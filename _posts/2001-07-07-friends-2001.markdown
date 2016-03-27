@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Added <a href=http://www.oliverweb.com/friends2001/catherine.shtml>Catherine</a> and <a href=http://www.oliverweb.com/friends2001/jennifer.shtml>Jennifer</a> to the <a href=http://www.oliverweb.com/friends2001/>Friends 2001</a> page. I know, I know... took me long enough... but hey, Brook, Chad, and Van haven't even done theirs yet... =)<br /><br />-Oliver
+Added <a href="http://www.oliverweb.com/friends2001/catherine.shtml">Catherine</a> and <a href="http://www.oliverweb.com/friends2001/jennifer.shtml">Jennifer</a> to the <a href="http://www.oliverweb.com/friends2001/">Friends 2001</a> page. I know, I know... took me long enough... but hey, Brook, Chad, and Van haven't even done theirs yet... =)<br /><br />-Oliver

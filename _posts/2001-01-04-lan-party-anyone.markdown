@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I wanna <a href=http://www.lanparty.com/theguide/gettingstarted.shtm target="_blank">LAN</a>!!!<br /><br />-Oliver
+I wanna <a href="http://www.lanparty.com/theguide/gettingstarted.shtm" target="_blank">LAN</a>!!!<br /><br />-Oliver

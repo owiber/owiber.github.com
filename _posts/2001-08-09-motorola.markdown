@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-If anyone wants to see my Motorola presentation, it is located <a href=http://www.oliverweb.com/stuff/presentation2001.zip>here</a>. You'll need to unzip it and open it in PowerPoint (yeah, I was really lazy this year and used that horrible program). Not sure if PowerPoint 2000 is required... 98 *might* work(?).<br /><br />-Oliver
+If anyone wants to see my Motorola presentation, it is located <a href="http://www.oliverweb.com/stuff/presentation2001.zip">here</a>. You'll need to unzip it and open it in PowerPoint (yeah, I was really lazy this year and used that horrible program). Not sure if PowerPoint 2000 is required... 98 *might* work(?).<br /><br />-Oliver

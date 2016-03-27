@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Again, just because it's funny!<br /><center><img src=http://www.oliverweb.com/pics/bpa2001/vansleep.jpg width=200 height=229 alt="Van"></center><br />Heh...<br /><br />-Oliver
+Again, just because it's funny!<br /><center><img src="http://www.oliverweb.com/pics/bpa2001/vansleep.jpg" width=200 height=229 alt="Van"></center><br />Heh...<br /><br />-Oliver

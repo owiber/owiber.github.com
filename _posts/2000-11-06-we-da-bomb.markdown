@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-The sign of true "famedom":<br /><center><img src=http://www.oliverweb.com/stuff/napster.jpg width=312 height=237 border=1 alt="We on Napster man!!! WE ON NAPSTER!!!"></center><br />Pic is self-explanitory.<br /><br />-Oliver
+The sign of true "famedom":<br /><center><img src="http://www.oliverweb.com/stuff/napster.jpg" width=312 height=237 border=1 alt="We on Napster man!!! WE ON NAPSTER!!!"></center><br />Pic is self-explanitory.<br /><br />-Oliver

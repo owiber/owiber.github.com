@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-AIM ads really annoy me. Well, most of them at least... some are okay.<p align=center><img src=http://www.oliverweb.com/stuff/aimad.jpg width=180 height=297 alt="AIM ad"></p>Just kidding. =)<br /><br />-Oliver
+AIM ads really annoy me. Well, most of them at least... some are okay.<p align=center><img src="http://www.oliverweb.com/stuff/aimad.jpg" width=180 height=297 alt="AIM ad"></p>Just kidding. =)<br /><br />-Oliver

@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Hey guys... most of you know what Chad and I did on Halloween... we switched clothes for the day... here's a pic:<br /><br /><center><img src=http://www.oliverweb.com/stuff/co.jpg width=200 height=251 border=1></center><br /><br />It was pretty fun! =)<br /><br />-Oliver
+Hey guys... most of you know what Chad and I did on Halloween... we switched clothes for the day... here's a pic:<br /><br /><center><img src="http://www.oliverweb.com/stuff/co.jpg" width=200 height=251 border=1></center><br /><br />It was pretty fun! =)<br /><br />-Oliver

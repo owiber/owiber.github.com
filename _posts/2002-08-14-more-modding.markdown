@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I'm not going to explain... just... <a href=http://www.oliverweb.com/pics/gbox/hiddendrive>go look</a> for yourself. =)<br /><br />-Oliver
+I'm not going to explain... just... <a href="http://www.oliverweb.com/pics/gbox/hiddendrive">go look</a> for yourself. =)<br /><br />-Oliver

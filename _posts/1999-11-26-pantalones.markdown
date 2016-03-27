@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I've uploaded the pantalones song sung by Chad, Minix, and Joey. =) It's pathetic... but it's funny. It's in the <a href=http://www.oliverweb.com/stuff/index.shtml>Stuff</a> page. Enjoy... I guess... =)<br /><br />-Oliver
+I've uploaded the pantalones song sung by Chad, Minix, and Joey. =) It's pathetic... but it's funny. It's in the <a href="http://www.oliverweb.com/stuff/index.shtml">Stuff</a> page. Enjoy... I guess... =)<br /><br />-Oliver

@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-...is almost over. AAaaaahhh... I'm looking forward to going to <a href=http://www.liquid-acc.com>Liquid</a> again, anyone wanna join me (besides the people who were planning on going anyways =)?<br /><br />I actually answered people's questions in lab hours today too... alright, just... one more day til the weekend...<br /><br />-Oliver
+...is almost over. AAaaaahhh... I'm looking forward to going to <a href="http://www.liquid-acc.com">Liquid</a> again, anyone wanna join me (besides the people who were planning on going anyways =)?<br /><br />I actually answered people's questions in lab hours today too... alright, just... one more day til the weekend...<br /><br />-Oliver

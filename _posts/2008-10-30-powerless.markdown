@@ -17,8 +17,8 @@ So I put on my jacket and venture out into London for the first time without Tif
 
 Well, after a while of wandering aimlessly I manage to find a store that has one and buy it.  I then spend another hour or so trying to find my way back to Tiff's place because I made note of very poor landmarks.  The one that managed to get my back successfully was some upper class lingerie shop...
 
-I hop on the sub, get some food, and arrive at my <a href='http://wewillrockyou.queenonline.com/'>one major goal</a> for the day (not my photo):
+I hop on the sub, get some food, and arrive at my <a href="http://wewillrockyou.queenonline.com/">one major goal</a> for the day (not my photo):
 
-<a href='http://wewillrockyou.queenonline.com/'><img src="http://www.oliverweb.com/wp-content/uploads/2008/10/dominion.jpg" alt="" title="Dominion Theatre" width="441" height="459" class="alignnone size-full wp-image-530" /></a>
+<a href="http://wewillrockyou.queenonline.com/"><img src="http://www.oliverweb.com/wp-content/uploads/2008/10/dominion.jpg" alt="" title="Dominion Theatre" width="441" height="459" class="alignnone size-full wp-image-530" /></a>
 
 Ahhh... yessss... all is good.

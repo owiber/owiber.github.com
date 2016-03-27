@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Looks like <a href=http://www.mercury-x.net target="_blank">Mercury-X</a> (Minix's and Ochs' site) is under... eh... repainting.  Okay, who gave Critter FTP access?<br /><br />-Oliver
+Looks like <a href="http://www.mercury-x.net" target="_blank">Mercury-X</a> (Minix's and Ochs' site) is under... eh... repainting.  Okay, who gave Critter FTP access?<br /><br />-Oliver

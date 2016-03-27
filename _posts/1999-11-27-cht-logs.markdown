@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I've added a new section to OliverWEB! =) <a href=http://www.oliverweb.com/chats/index.shtml>Ch@ts!</a> I've uploaded a few chats there, and I'll add more later. =) So, <a href=http://www.oliverweb.com/chats/index.shtml>go on over</a> and read the strange things we talk about.  Like always, enjoy. =)<br /><br />-Oliver
+I've added a new section to OliverWEB! =) <a href="http://www.oliverweb.com/chats/index.shtml">Ch@ts!</a> I've uploaded a few chats there, and I'll add more later. =) So, <a href="http://www.oliverweb.com/chats/index.shtml">go on over</a> and read the strange things we talk about.  Like always, enjoy. =)<br /><br />-Oliver

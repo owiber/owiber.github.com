@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<a href=http://www.oliverweb.com/starcraft/400z.jpg>400 Zerglings</a><br /><a href=http://www.oliverweb.com/starcraft/200h.jpg>200 Hydras</a><br /><a href=http://www.oliverweb.com/starcraft/fakebattles.jpg>Cheat fun (<i>the gathering</i>)</a><br /><a href=http://www.oliverweb.com/starcraft/fakes.jpg>More cheat fun</a><br /><a href=http://www.oliverweb.com/starcraft/faketanks.jpg>Yet more cheat fun</a><br /><br />-Oliver
+<a href="http://www.oliverweb.com/starcraft/400z.jpg">400 Zerglings</a><br /><a href="http://www.oliverweb.com/starcraft/200h.jpg">200 Hydras</a><br /><a href="http://www.oliverweb.com/starcraft/fakebattles.jpg">Cheat fun (<i>the gathering</i>)</a><br /><a href="http://www.oliverweb.com/starcraft/fakes.jpg">More cheat fun</a><br /><a href="http://www.oliverweb.com/starcraft/faketanks.jpg">Yet more cheat fun</a><br /><br />-Oliver

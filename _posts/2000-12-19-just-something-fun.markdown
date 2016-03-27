@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Just thought this was kinda humorous/weird...<br /><br /><center><h2><a href="http://www.worldnetdaily.com/bluesky_exnews/20001219_xex_why_iraqs_bu.shtml" target="new">Why Iraq's buying up Sony PlayStation 2s</a></h2></center>Dumdedum...<br /><br />-Oliver
+Just thought this was kinda humorous/weird...<br /><br /><center><h2><a href="http://www.worldnetdaily.com/bluesky_exnews/20001219_xex_why_iraqs_bu.shtml" target="_blank">Why Iraq's buying up Sony PlayStation 2s</a></h2></center>Dumdedum...<br /><br />-Oliver

@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<center><br /><h1><a href=http://www.oliverweb.com/pics/bpa2001/>BPA State!</a></h1></center>Van, Chad and Oliver's trip to Fort Worth for BPA State Competition... fun fun...<br /><br />-Oliver
+<center><br /><h1><a href="http://www.oliverweb.com/pics/bpa2001/">BPA State!</a></h1></center>Van, Chad and Oliver's trip to Fort Worth for BPA State Competition... fun fun...<br /><br />-Oliver

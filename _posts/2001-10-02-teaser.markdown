@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<center><img src=http://www.oliverweb.com/newsimages/oliverweb.jpg width=153 height=142 alt="Teaser"></center><br />=)<br /><br />-Oliver
+<center><img src="http://www.oliverweb.com/newsimages/oliverweb.jpg" width=153 height=142 alt="Teaser"></center><br />=)<br /><br />-Oliver

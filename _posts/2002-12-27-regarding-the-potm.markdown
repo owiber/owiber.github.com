@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-No not Priestess of the Moon, bums... Picture of the Moment. =P Hehe... here're my new friends:<br /><center><img src=http://www.oliverweb.com/gallery/friends.gif width=415 height=196></center><br />I was simply going to go with Penguin, Frog, and Monkey for their names, but I'm not sure if I should do something more creative or not... I probably should, but that's a different type of inspiration I'm gonna have to have... night all. =)<br /><br />-Oliver
+No not Priestess of the Moon, bums... Picture of the Moment. =P Hehe... here're my new friends:<br /><center><img src="http://www.oliverweb.com/gallery/friends.gif" width=415 height=196></center><br />I was simply going to go with Penguin, Frog, and Monkey for their names, but I'm not sure if I should do something more creative or not... I probably should, but that's a different type of inspiration I'm gonna have to have... night all. =)<br /><br />-Oliver

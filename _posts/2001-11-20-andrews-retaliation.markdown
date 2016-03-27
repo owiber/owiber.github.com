@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Got a little something from Andrew...<br /><br /><center><img src=http://www.oliverweb.com/newsimages/byebyepug.jpg width=300 height=200 border=1 alt="HAHA!"><br /><i>"A pug frolicking on the grass on a sweet summer day."</i></center><br /><br />-Oliver
+Got a little something from Andrew...<br /><br /><center><img src="http://www.oliverweb.com/newsimages/byebyepug.jpg" width=300 height=200 border=1 alt="HAHA!"><br /><i>"A pug frolicking on the grass on a sweet summer day."</i></center><br /><br />-Oliver

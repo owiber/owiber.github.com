@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Lalala... this was wanted up...<br /><center><img src=http://www.oliverweb.com/newsimages/ochs100.jpg width=141 height=343 border=1></center><br />Lalala...<br /><br />-Oliver
+Lalala... this was wanted up...<br /><center><img src="http://www.oliverweb.com/newsimages/ochs100.jpg" width=141 height=343 border=1></center><br />Lalala...<br /><br />-Oliver

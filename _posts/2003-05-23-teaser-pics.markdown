@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Hola! Well, we've uploaded four teaser photos for all of you to enjoy... you can find them <a href=http://www.oliverweb.com/pics/lazy/teaser>here</a>!<br /><br />-Oliver
+Hola! Well, we've uploaded four teaser photos for all of you to enjoy... you can find them <a href="http://www.oliverweb.com/pics/lazy/teaser">here</a>!<br /><br />-Oliver

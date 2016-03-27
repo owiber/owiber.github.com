@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Hehehe!!! I'm in that wabba mood! ...and I've written and article on it! <a href=http://www.oliverweb.com/articles/wabba.shtml>RIGHT HERE!</a> Hehehehe... WABBA! Enjoy!... ok.. now to bug Minix a bit more... =)<br /><br />-Oliver
+Hehehe!!! I'm in that wabba mood! ...and I've written and article on it! <a href="http://www.oliverweb.com/articles/wabba.shtml">RIGHT HERE!</a> Hehehehe... WABBA! Enjoy!... ok.. now to bug Minix a bit more... =)<br /><br />-Oliver

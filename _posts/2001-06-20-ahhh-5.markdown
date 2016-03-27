@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Well, I've finally added <a href=http://www.oliverweb.com/friends2001/christine.shtml>Christine</a> and <a href=http://www.oliverweb.com/friends2001/kenny.shtml>Kenny</a> to the <a href=http://www.oliverweb.com/friends2001/>Friends 2001</a> page. A few people who are left on the hit... I mean... "interview" list:<ul><li>Chad</li><li>Brook</li><li>Van</li><li>And (every/any)one else I am too lazy to try to remember...</li></ul><br /><br />-Oliver
+Well, I've finally added <a href="http://www.oliverweb.com/friends2001/christine.shtml">Christine</a> and <a href="http://www.oliverweb.com/friends2001/kenny.shtml">Kenny</a> to the <a href="http://www.oliverweb.com/friends2001/">Friends 2001</a> page. A few people who are left on the hit... I mean... "interview" list:<ul><li>Chad</li><li>Brook</li><li>Van</li><li>And (every/any)one else I am too lazy to try to remember...</li></ul><br /><br />-Oliver

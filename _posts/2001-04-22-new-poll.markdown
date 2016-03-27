@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Woohoo... got too lazy to put up "results" of old poll, but "FOR A LIMITED TIME" you can view it <a href=http://www.oliverweb.com/cgi-bin/poll.cgi?load=lastpoll>here</a> (How you like the new layout?).<br /><br />-Oliver
+Woohoo... got too lazy to put up "results" of old poll, but "FOR A LIMITED TIME" you can view it <a href="http://www.oliverweb.com/cgi-bin/poll.cgi?load=lastpoll">here</a> (How you like the new layout?).<br /><br />-Oliver

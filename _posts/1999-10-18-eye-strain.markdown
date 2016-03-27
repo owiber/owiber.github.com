@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Does any part of the site put a strain on your eyes? I think it's fine, but my parents said the grey text was too hard to read (it's white now)... <a href=mailto:me@oliverweb.com>let me know</a> what you think.<br /><br />-Oliver
+Does any part of the site put a strain on your eyes? I think it's fine, but my parents said the grey text was too hard to read (it's white now)... <a href="mailto:me@oliverweb.com">let me know</a> what you think.<br /><br />-Oliver

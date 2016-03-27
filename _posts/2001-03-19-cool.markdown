@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Just thought this was <a href=http://www.theregister.co.uk/content/6/17681.html target="_blank">cool</a>. =)<br /><br />-Oliver
+Just thought this was <a href="http://www.theregister.co.uk/content/6/17681.html" target="_blank">cool</a>. =)<br /><br />-Oliver

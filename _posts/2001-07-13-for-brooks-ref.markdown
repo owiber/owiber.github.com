@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-For Brook's reference:<br /><center><a href=http://www.mrtechhappy.com/main.html target=new>Mr.TechHappy Main</a></center><br />There we go...<br /><br />-Oliver
+For Brook's reference:<br /><center><a href="http://www.mrtechhappy.com/main.html" target="_blank">Mr.TechHappy Main</a></center><br />There we go...<br /><br />-Oliver

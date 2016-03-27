@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I thought this was really great:<br /><center><a href=http://www.bsa.org/usa/megabyte/ target=_blank>www.bsa.org/usa/megabyte</a></center><br /><br />-Oliver
+I thought this was really great:<br /><center><a href="http://www.bsa.org/usa/megabyte/" target="_blank">www.bsa.org/usa/megabyte</a></center><br /><br />-Oliver

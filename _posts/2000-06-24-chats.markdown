@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Two new chat logs in the <a href=http://www.oliverweb.com/chats/index.shtml>Chats</a> section. Yep, that's about it. =)<br /><br />-Oliver
+Two new chat logs in the <a href="http://www.oliverweb.com/chats/index.shtml">Chats</a> section. Yep, that's about it. =)<br /><br />-Oliver

@@ -15,7 +15,7 @@ One of the other ERPs in my class was telling me about how he once interned in W
 
 Edit:  Oh, maybe I can put a light lens on my 5D and a heavier one of the Rebel XT so they'd weight similarly and jog with one in each hand like people do with weights... haha...
 
-<blockquote class="lyrics">"'Cause I want someone to share my smile
+<blockquote class="lyrics">"Cause I want someone to share my smile
 To share the pain
 To be there when the sea turns gray
 To share the joy

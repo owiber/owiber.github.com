@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Listen to this... I know you'll love it:<blockquote><a href=http://www.oliverweb.com/stuff/amazinggrace.mp3>Amazing Grace by...</a></blockquote>Have fun. =)<br /><br />-Oliver
+Listen to this... I know you'll love it:<blockquote><a href="http://www.oliverweb.com/stuff/amazinggrace.mp3">Amazing Grace by...</a></blockquote>Have fun. =)<br /><br />-Oliver

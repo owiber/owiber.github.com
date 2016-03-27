@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-WARNING. <i>Possible</i> Matrix 2 spoiler: <a href=http://www.aintitcoolnews.com/display.cgi?id=8611 target="new">here</a>.<br /><br />-Oliver
+WARNING. <i>Possible</i> Matrix 2 spoiler: <a href="http://www.aintitcoolnews.com/display.cgi?id=8611" target="_blank">here</a>.<br /><br />-Oliver

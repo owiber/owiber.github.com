@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-In celebration of the first time Sean got Viraj up to 100%:<br /><center><img src=http://www.oliverweb.com/newsimages/viraj100.gif width=180 height=384 border=1></center><br />Lalala...<br /><br />-Oliver
+In celebration of the first time Sean got Viraj up to 100%:<br /><center><img src="http://www.oliverweb.com/newsimages/viraj100.gif" width=180 height=384 border=1></center><br />Lalala...<br /><br />-Oliver

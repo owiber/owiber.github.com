@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I found a funny link today... it's called: "Diary of an AOL Luser" heh... it's pretty funny. =) The guy is like a Minix clone or something (j/k ;).. <a href=http://paul.merton.ox.ac.uk/computing/aol-luser.html target="new">Right here</a>. =)<br /><br />-Oliver
+I found a funny link today... it's called: "Diary of an AOL Luser" heh... it's pretty funny. =) The guy is like a Minix clone or something (j/k ;).. <a href="http://paul.merton.ox.ac.uk/computing/aol-luser.html" target="_blank">Right here</a>. =)<br /><br />-Oliver

@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I thought <a href=http://www.theregister.co.uk/content/50/16640.html target=_blank>this article</a> was pretty funny/nifty. Especially the last paragraph.. heh... =)<br /><br />-Oliver
+I thought <a href="http://www.theregister.co.uk/content/50/16640.html" target="_blank">this article</a> was pretty funny/nifty. Especially the last paragraph.. heh... =)<br /><br />-Oliver

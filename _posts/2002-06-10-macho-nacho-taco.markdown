@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Um... yeah, well... I'm just sitting here...<br /><br />Got a meeting in 15 minutes... just wasting some time. =)<br /><br />Everyone see my new <a href=http://www.mrtechhappy.com/index.php?day=020610 target=new>Lamborghini</a>? =)<br /><br />-Oliver
+Um... yeah, well... I'm just sitting here...<br /><br />Got a meeting in 15 minutes... just wasting some time. =)<br /><br />Everyone see my new <a href="http://www.mrtechhappy.com/index.php?day=020610" target="_blank">Lamborghini</a>? =)<br /><br />-Oliver

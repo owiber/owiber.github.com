@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I've added the stuff I made for birthdays (right now, only Sarah's and Olivia's) to the <a href=http://www.oliverweb.com/stuff/index.shtml>StUfF</a> page. Some funny stuff I think. =) <a href=http://www.oliverweb.com/stuff/index.shtml>Check it out</a>.<br /><br />-Oliver
+I've added the stuff I made for birthdays (right now, only Sarah's and Olivia's) to the <a href="http://www.oliverweb.com/stuff/index.shtml">StUfF</a> page. Some funny stuff I think. =) <a href="http://www.oliverweb.com/stuff/index.shtml">Check it out</a>.<br /><br />-Oliver

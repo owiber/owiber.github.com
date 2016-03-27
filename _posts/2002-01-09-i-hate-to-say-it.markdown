@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-... but this <i>is</i> pretty cool...<br /><center><img src=http://www.oliverweb.com/newsimages/newimac.jpg width=225 height=275 alt="New iMac"></center><br />Now... I must stab myself multiple times for this act of blasphemy.<br /><br />-Oliver
+... but this <i>is</i> pretty cool...<br /><center><img src="http://www.oliverweb.com/newsimages/newimac.jpg" width=225 height=275 alt="New iMac"></center><br />Now... I must stab myself multiple times for this act of blasphemy.<br /><br />-Oliver

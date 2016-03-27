@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I found a "<a href=http://www.timefold.com/stdmsgs/humor/smileys.txt target='new'>smiley dictionary</a>" while... ehh... working. =)  I found these quite humorous... lol...<blockquote>8:-)  User is a little girl<br />:-)-8 User is a Big girl</blockquote>Heh, also found a "<a href=http://www.timefold.com/stdmsgs/humor/cows.txt target='new'>cow page</a>"...<br /><br /><br />-Oliver
+I found a "<a href="http://www.timefold.com/stdmsgs/humor/smileys.txt" target='new'>smiley dictionary</a>" while... ehh... working. =)  I found these quite humorous... lol...<blockquote>8:-)  User is a little girl<br />:-)-8 User is a Big girl</blockquote>Heh, also found a "<a href="http://www.timefold.com/stdmsgs/humor/cows.txt" target='new'>cow page</a>"...<br /><br /><br />-Oliver

@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-So... I uploaded some dog pictures to the <a href=http://www.oliverweb.com/pics/albums>Picture Album</a>. Specifically, our new dog is <a href=http://www.oliverweb.com/pics/albums/?mode=view&album=Dogs%21&pic=IM004240.jpg&dispsize=800&start=0#albumtop>here</a> and <a href=http://www.oliverweb.com/pics/albums/?mode=view&album=Dogs%21&pic=IM004241.jpg&dispsize=800&start=0#albumtop>here</a>.<br /><br />-Oliver
+So... I uploaded some dog pictures to the <a href="http://www.oliverweb.com/pics/albums">Picture Album</a>. Specifically, our new dog is <a href="http://www.oliverweb.com/pics/albums/?mode=view&album=Dogs%21&pic=IM004240.jpg&dispsize=800&start=0#albumtop">here</a> and <a href="http://www.oliverweb.com/pics/albums/?mode=view&album=Dogs%21&pic=IM004241.jpg&dispsize=800&start=0#albumtop">here</a>.<br /><br />-Oliver

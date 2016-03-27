@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Stop rubbing in! -Olivia<br />&lt;Rub-in&gt;<br /><center><img src=http://www.oliverweb.com/stuff/firstbig.gif width=100 height=165 alt="1st Place =)"></center><br />&lt;/Rub-in&gt; =) =)<br /><br />-Oliver
+Stop rubbing in! -Olivia<br />&lt;Rub-in&gt;<br /><center><img src="http://www.oliverweb.com/stuff/firstbig.gif" width=100 height=165 alt="1st Place =)"></center><br />&lt;/Rub-in&gt; =) =)<br /><br />-Oliver

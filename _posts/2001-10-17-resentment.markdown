@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I hate you all...<br /><br /><center><a href=http://www.mrtechhappy.com/chad/>www.mrtechhappy.com/chad/</a></center><br /><br />-Chad
+I hate you all...<br /><br /><center><a href="http://www.mrtechhappy.com/chad/">www.mrtechhappy.com/chad/</a></center><br /><br />-Chad

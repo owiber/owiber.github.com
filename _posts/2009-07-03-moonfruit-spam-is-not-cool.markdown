@@ -20,4 +20,4 @@ To brighten my soul, but I can't control the rain
 That keeps falling
 Smile on the outside that never comes in
 A comedy, mystery, irony, tragedy
-So I scream 'let the show begin'" - Jars of Clay</blockquote>
+So I scream 'let the show begin" - Jars of Clay</blockquote>

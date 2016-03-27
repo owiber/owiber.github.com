@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-...Tomato, <a href=http://victorian.fortunecity.com/vangogh/555/Spell/Quail-Spell.html>GHOUGHPHTHEIGHTTEEAU</a>!<br /><br />-Oliver
+...Tomato, <a href="http://victorian.fortunecity.com/vangogh/555/Spell/Quail-Spell.html">GHOUGHPHTHEIGHTTEEAU</a>!<br /><br />-Oliver

@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Brook is now on the <a href=http://www.oliverweb.com/friends2001/brook.shtml>Friends 2001 page</a>... crazy guy... =)<br /><br />-Oliver
+Brook is now on the <a href="http://www.oliverweb.com/friends2001/brook.shtml">Friends 2001 page</a>... crazy guy... =)<br /><br />-Oliver

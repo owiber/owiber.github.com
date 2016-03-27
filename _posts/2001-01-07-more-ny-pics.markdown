@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I put up pages <a href=http://www.oliverweb.com/pics/37/>37</a> and <a href=http://www.oliverweb.com/pics/38/>38</a> of the New Years (Eve) pics. Minix actually got his developed pretty quickly this time! =)<br /><br />-Oliver
+I put up pages <a href="http://www.oliverweb.com/pics/37/">37</a> and <a href="http://www.oliverweb.com/pics/38/">38</a> of the New Years (Eve) pics. Minix actually got his developed pretty quickly this time! =)<br /><br />-Oliver

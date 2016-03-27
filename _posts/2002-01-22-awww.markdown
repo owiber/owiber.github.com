@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-With <a href=http://www.mrtechhappy.com target="_blank">MrTechHappy</a> taking up a majority of my online time, I think OliverWEB is being neglected. =(<br /><br />Poor OliverWEB, this is for you!<br /><br />=)<br /><br />-Oliver
+With <a href="http://www.mrtechhappy.com" target="_blank">MrTechHappy</a> taking up a majority of my online time, I think OliverWEB is being neglected. =(<br /><br />Poor OliverWEB, this is for you!<br /><br />=)<br /><br />-Oliver

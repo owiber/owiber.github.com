@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Hehe, was going through older pics... might have this one uploaded, but I laughed when I saw it, so I'm going to share. =)<br /><center><img src=http://www.oliverweb.com/newsimages/hatedchad.jpg width=282 height=421 border=1></center><br />Hehe...<br /><br />-Oliver
+Hehe, was going through older pics... might have this one uploaded, but I laughed when I saw it, so I'm going to share. =)<br /><center><img src="http://www.oliverweb.com/newsimages/hatedchad.jpg" width=282 height=421 border=1></center><br />Hehe...<br /><br />-Oliver

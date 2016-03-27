@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I've scanned in more pics... baby pics this time though. =) There are three new pages (12 pics), first one is <a href=http://www.oliverweb.com/pics/16/index.shtml>here</a>. Enjoy. =)<br /><br />-Oliver
+I've scanned in more pics... baby pics this time though. =) There are three new pages (12 pics), first one is <a href="http://www.oliverweb.com/pics/16/index.shtml">here</a>. Enjoy. =)<br /><br />-Oliver

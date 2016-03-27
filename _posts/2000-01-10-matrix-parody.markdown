@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Heh, this is funny. =) There's a Matrix parody <a href=http://www.luminanet.com/index.shtml target="new">here</a>. They add one page per day, it's about 3/5 or 4/5 done (something like that). Thanks to <a href=http://www.geeknews.net target="new">GeekNews</a> for the link. =)<br /><br />-Oliver
+Heh, this is funny. =) There's a Matrix parody <a href="http://www.luminanet.com/index.shtml" target="_blank">here</a>. They add one page per day, it's about 3/5 or 4/5 done (something like that). Thanks to <a href="http://www.geeknews.net" target="_blank">GeekNews</a> for the link. =)<br /><br />-Oliver

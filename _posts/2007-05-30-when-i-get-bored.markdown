@@ -15,6 +15,6 @@ tags:
 
 Man... but look at this beast:
 
-<img src='http://www.oliverweb.com/wp-content/uploads/2007/05/picture-1.png' alt='picture-1.png' />
+<img src="http://www.oliverweb.com/wp-content/uploads/2007/05/picture-1.png" alt='picture-1.png' />
 
 So ridiculous. =P

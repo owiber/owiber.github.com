@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Was bored today... <i><a href=http://www.oliverweb.com/starcraft/sc.shtml>StarCraft Fun</a></i><br /><br />-Oliver
+Was bored today... <i><a href="http://www.oliverweb.com/starcraft/sc.shtml">StarCraft Fun</a></i><br /><br />-Oliver

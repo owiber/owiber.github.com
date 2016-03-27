@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I've added the <a href=http://www.oliverweb.com/articles/index.shtml>Articles</a> section to OliverWEB. I'll be putting stuff like the <a href=http://www.oliverweb.com/articles/hoodlums.shtml>Hoodlums!</a> story on that page. I've already added one more story. <a href=http://www.oliverweb.com/articles/index.shtml>Go over there</a> and check it out! =)<br /><br />-Oliver
+I've added the <a href="http://www.oliverweb.com/articles/index.shtml">Articles</a> section to OliverWEB. I'll be putting stuff like the <a href="http://www.oliverweb.com/articles/hoodlums.shtml">Hoodlums!</a> story on that page. I've already added one more story. <a href="http://www.oliverweb.com/articles/index.shtml">Go over there</a> and check it out! =)<br /><br />-Oliver

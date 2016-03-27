@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Ah... a UBB forum... right...<br /><center><h2><a href=http://www.oliverweb.com/cgi-bin/ultraboard/UltraBoard.pl>here!</a></h2></center><br />I'm going to kill the comment page for this post so you have to go to the forum to comment. =) Heh... creating a login/username is not required.<br /><br />I'll add the link to the sidebar when I get home, replacing the old message board...<br /><br />-Oliver
+Ah... a UBB forum... right...<br /><center><h2><a href="http://www.oliverweb.com/cgi-bin/ultraboard/UltraBoard.pl">here!</a></h2></center><br />I'm going to kill the comment page for this post so you have to go to the forum to comment. =) Heh... creating a login/username is not required.<br /><br />I'll add the link to the sidebar when I get home, replacing the old message board...<br /><br />-Oliver

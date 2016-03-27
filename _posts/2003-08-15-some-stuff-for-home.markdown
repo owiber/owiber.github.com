@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Note to self. <a href=http://synergy2.sourceforge.net>Synergy</a> and <a href=http://meld.sourceforge.net/>Meld</a>. That is all.<br /><br />-Oliver
+Note to self. <a href="http://synergy2.sourceforge.net">Synergy</a> and <a href="http://meld.sourceforge.net/">Meld</a>. That is all.<br /><br />-Oliver

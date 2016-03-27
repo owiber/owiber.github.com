@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I am Zortoch, the alien nosepicker. Surrender your planet or face the consequences!<blockquote><a href=http://www.oliverweb.com/zortoch/jennifer.htm>Jennifer</a><br /><a href=http://www.oliverweb.com/zortoch/doris.htm>Doris</a><br /><a href=http://www.oliverweb.com/zortoch/oliverman.htm>Oliver Man</a><br /><a href=http://www.oliverweb.com/zortoch/wes.htm>Wes</a></blockquote>Oh...<br /><br />-Oliver
+I am Zortoch, the alien nosepicker. Surrender your planet or face the consequences!<blockquote><a href="http://www.oliverweb.com/zortoch/jennifer.htm">Jennifer</a><br /><a href="http://www.oliverweb.com/zortoch/doris.htm">Doris</a><br /><a href="http://www.oliverweb.com/zortoch/oliverman.htm">Oliver Man</a><br /><a href="http://www.oliverweb.com/zortoch/wes.htm">Wes</a></blockquote>Oh...<br /><br />-Oliver

@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-More <a href=http://www.oliverweb.com/pics/college>pics</a>. =)<br /><br />-Oliver
+More <a href="http://www.oliverweb.com/pics/college">pics</a>. =)<br /><br />-Oliver

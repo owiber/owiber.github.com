@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Just something we thought quite funny...<br /><br /><center><img src=http://www.oliverweb.com/newsimages/chaddining.jpg alt="Haha" width=329 height=137 border=1></center><br /><br />Pay special attention to the parts I circled... =)<br /><br />-Oliver
+Just something we thought quite funny...<br /><br /><center><img src="http://www.oliverweb.com/newsimages/chaddining.jpg" alt="Haha" width=329 height=137 border=1></center><br /><br />Pay special attention to the parts I circled... =)<br /><br />-Oliver

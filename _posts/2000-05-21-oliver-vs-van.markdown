@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Yep, here's another picture war Van and I had. This time, in my yearbook. =) Click on thumbnail for large version.<br /><br /><center><a href=http://www.oliverweb.com/stuff/yearbook.gif><img src=http://www.oliverweb.com/stuff/yearbookthumb.gif width=200 height=151 border=1></a></center><br /><br />Lovely, eh? =)<br /><br />-Oliver
+Yep, here's another picture war Van and I had. This time, in my yearbook. =) Click on thumbnail for large version.<br /><br /><center><a href="http://www.oliverweb.com/stuff/yearbook.gif"><img src="http://www.oliverweb.com/stuff/yearbookthumb.gif" width=200 height=151 border=1></a></center><br /><br />Lovely, eh? =)<br /><br />-Oliver

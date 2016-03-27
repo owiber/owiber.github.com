@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-<center><img src=http://www.oliverweb.com/stuff/base.gif width=320 height=224 alt="All your base are belong to us" border=0></center><br />Also... <a href=http://www.thefever.com/AYB2.swf target=_blank>link</a>. OliverWEB has now joined the "all your base belong to us" craze. Have a nice day.<br /><br />-Oliver
+<center><img src="http://www.oliverweb.com/stuff/base.gif" width=320 height=224 alt="All your base are belong to us" border=0></center><br />Also... <a href="http://www.thefever.com/AYB2.swf" target="_blank">link</a>. OliverWEB has now joined the "all your base belong to us" craze. Have a nice day.<br /><br />-Oliver

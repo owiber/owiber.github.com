@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Well, I've been working on the Liquid website a lot recently and I noticed that I have built up a lot of icons on my desktop.  So... I'm uploading <a href=http://www.oliverweb.com/stuff/liquidwork.jpg>a pic</a> just for fun. =) Uhh... the ochs.png is not liquid-related, but everything else is.  <a href=http://www.oliverweb.com/stuff/ochs.png>That PNG</a> is just funny. ;)<br /><br />-Oliver
+Well, I've been working on the Liquid website a lot recently and I noticed that I have built up a lot of icons on my desktop.  So... I'm uploading <a href="http://www.oliverweb.com/stuff/liquidwork.jpg">a pic</a> just for fun. =) Uhh... the ochs.png is not liquid-related, but everything else is.  <a href="http://www.oliverweb.com/stuff/ochs.png">That PNG</a> is just funny. ;)<br /><br />-Oliver

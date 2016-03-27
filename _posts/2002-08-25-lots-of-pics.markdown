@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-More <a href=http://www.oliverweb.com/pics/lazy/lateaugust>pics</a>! Here's a sneak peak at some stuff you'd enjoy... heh...<br /><br /><center>[Got tired of seeing Nancy's butt]</center><br />Yeah... so... just go look... even if that pic above scares you. =)<br /><br />-Oliver
+More <a href="http://www.oliverweb.com/pics/lazy/lateaugust">pics</a>! Here's a sneak peak at some stuff you'd enjoy... heh...<br /><br /><center>[Got tired of seeing Nancy's butt]</center><br />Yeah... so... just go look... even if that pic above scares you. =)<br /><br />-Oliver

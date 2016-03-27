@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Hehe...<br /><center><img src=http://www.oliverweb.com/images/bus.jpg width=320 height=114 border=1 alt="Haha!"></center><br />Picture says it all. Lol...<br /><br />-Oliver
+Hehe...<br /><center><img src="http://www.oliverweb.com/images/bus.jpg" width=320 height=114 border=1 alt="Haha!"></center><br />Picture says it all. Lol...<br /><br />-Oliver

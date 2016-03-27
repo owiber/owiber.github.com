@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-If for some reason, you didn't get an email from me... visit my <i>e</i>Christmas Card <a href=http://www.oliverweb.com/christmas/index.shtml>here</a>! =) Have a Merry Christmas... you too Minix. ;)<br /><br />-Oliver
+If for some reason, you didn't get an email from me... visit my <i>e</i>Christmas Card <a href="http://www.oliverweb.com/christmas/index.shtml">here</a>! =) Have a Merry Christmas... you too Minix. ;)<br /><br />-Oliver

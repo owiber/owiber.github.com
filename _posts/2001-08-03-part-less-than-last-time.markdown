@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-Well, here it is, the prequel to my last comic (scroll down for those of you who missed it).<br /><img src=http://www.oliverweb.com/newsimages/thingy2.gif><br /><br />-Chad
+Well, here it is, the prequel to my last comic (scroll down for those of you who missed it).<br /><img src="http://www.oliverweb.com/newsimages/thingy2.gif><br" /><br />-Chad

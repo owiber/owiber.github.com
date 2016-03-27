@@ -11,4 +11,4 @@ tags:
 - oldpost
 ---
 
-I'm starting the ET Icon Fan Club... save one of the following pics and make it your AIM buddy icon. =)<br /><br /><center><img src=http://www.oliverweb.com/stuff/et.gif width=48 height=48 alt="ET!" border=1> <img src=http://www.oliverweb.com/stuff/et.gif width=48 height=48 alt="ET!" border=1> <img src=http://www.oliverweb.com/stuff/et.gif width=48 height=48 alt="ET!" border=1></center><br /><br />All the same? Bah, use one of them anyways. =)<br /><br />-Oliver
+I'm starting the ET Icon Fan Club... save one of the following pics and make it your AIM buddy icon. =)<br /><br /><center><img src="http://www.oliverweb.com/stuff/et.gif" width=48 height=48 alt="ET!" border=1> <img src="http://www.oliverweb.com/stuff/et.gif" width=48 height=48 alt="ET!" border=1> <img src="http://www.oliverweb.com/stuff/et.gif" width=48 height=48 alt="ET!" border=1></center><br /><br />All the same? Bah, use one of them anyways. =)<br /><br />-Oliver
