@@ -32,7 +32,7 @@ I'm on the usual social networking sites, primarily driven out of boredom (excep
   * [YouTube](https://www.youtube.com/owiber)
 
 
-I have a habit of making mock sites dealing with my roommates.  On Xanga, I live an alternate life of heart brokenness after the many years of abuse from my college roommate, [Sam Ni](http://sammaverick.com).  [Xanga Owiber](http://owiber.xanga.com) has gone through various phases in his sad life and is currently on a goth streak as far as I can tell, but has been rather silent as of late.  I also maintain a _very popular_ *cough* reporting site, [AndrewApproved.com](http://www.andrewapproved.com) which is dedicated to my dear friend Andrew Joseph and all things that he _loves loves loves_.  Finally, I created a Twitter account for my current roomy: [JRyanFunSponge](http://twitter.com/jryanfunsponge) (updated by others in addition to myself).
+I have a habit of making mock sites dealing with my roommates.  On Xanga, I live an alternate life of heart brokenness after the many years of abuse from my college roommate, [Sam Ni](http://sammaverick.com).  [Xanga Owiber](http://owiber.xanga.com) has gone through various phases in his sad life and is currently on a goth streak as far as I can tell, but has been rather silent as of late.  I also maintain a _very popular_ *cough* reporting site, [AndrewApproved.com](http://www.andrewapproved.com) which is dedicated to my dear friend Andrew Joseph and all things that he _loves loves loves_.  Finally, I created a Twitter account for my <del>current</del> roomy: [JRyanFunSponge](http://twitter.com/jryanfunsponge) (updated by others in addition to myself).
 
 "About Me" pages have gone through various iterations in my online timeline, here're a few old ones:
 
