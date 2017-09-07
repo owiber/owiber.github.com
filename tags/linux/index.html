@@ -82,74 +82,146 @@ ga('send', 'pageview');
       <div class="outer">
         <section id="main">
   
-  
-    
-    
-      
-      
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="/archives/2005" class="archive-year">2005</a>
-        </div>
-        <div class="archives">
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2005/11/16/ooooooooh-aaaaaaah/" class="archive-article-date">
-  <time datetime="2005-11-17T05:18:06.000Z" itemprop="datePublished">Nov 16</time>
+    <article id="post-ooooooooh-aaaaaaah" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2005/11/16/ooooooooh-aaaaaaah/" class="article-date">
+  <time datetime="2005-11-17T05:18:06.000Z" itemprop="datePublished">2005-11-16</time>
 </a>
-      
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
   
     <h1 itemprop="name">
-      <a class="archive-article-title" href="/2005/11/16/ooooooooh-aaaaaaah/">OoOoooOoh Aaaaaaah</a>
+      <a class="article-title" href="/2005/11/16/ooooooooh-aaaaaaah/">OoOoooOoh Aaaaaaah</a>
     </h1>
   
 
-    </header>
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>It’s quite amazing how the visual aspects of Linux desktop environments have improved since I first started playing with it.  <a href="http://www.vbrad.com/Reviews/mayjun00/Corel_Linux_OS_Review.html" target="_blank" rel="external">Here’s</a> a page that has a review of Corel Linux (one of the first distros I tried out)… man was that ugly.  I think I still have the squeezy pengiun that came with mine (though his head is falling off).</p>
+<p>A modern Ubuntu system with GNOME 2.12 is now more akin to <a href="http://pubcrawler.org/images/screenshots/gnome2.12/smeg.png" target="_blank" rel="external">this</a>.  Man, five years can make a huge difference. =)</p>
+<p>… Crap… it’s been five years?!</p>
+<p>Not only does it look better but GNOME has improved quite a bit in usability as well.  Things are automounting, there are more multimedia applications, it’s crazy!  I haven’t really tried a recent build of KDE yet, but I’m sure I’ll get the itch to change soon and I’ll give that a spin as well.</p>
+<p>Go OSS!</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      
+        <a href="https://www.owiber.com/2005/11/16/ooooooooh-aaaaaaah/#disqus_thread" class="article-comment-link">Comments</a>
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/linux/">linux</a></li></ul>
+
+    </footer>
   </div>
 </article>
+
+
+
+
   
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2005/11/16/done-with-ubuntu-reinstall/" class="archive-article-date">
-  <time datetime="2005-11-16T13:10:18.000Z" itemprop="datePublished">Nov 16</time>
+    <article id="post-done-with-ubuntu-reinstall" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2005/11/16/done-with-ubuntu-reinstall/" class="article-date">
+  <time datetime="2005-11-16T13:10:18.000Z" itemprop="datePublished">2005-11-16</time>
 </a>
-      
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
   
     <h1 itemprop="name">
-      <a class="archive-article-title" href="/2005/11/16/done-with-ubuntu-reinstall/">Done with Ubuntu Reinstall</a>
+      <a class="article-title" href="/2005/11/16/done-with-ubuntu-reinstall/">Done with Ubuntu Reinstall</a>
     </h1>
   
 
-    </header>
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>Since I know I’ll be looking for this info again the next time I reinstall (maybe)… here goes some info dump:</p>
+<p>/etc/inetd.conf:</p>
+<blockquote>netbios-ssn     stream  tcp     nowait  root    /usr/sbin/tcpd  /usr/sbin/smbd<br>swat            stream  tcp     nowait.400      root    /usr/sbin/tcpd  /usr/sbin/swat<br>vnc     stream  tcp     nowait  nobody  /usr/bin/Xvnc Xvnc -inetd :10 -broadcast -desktop=Nibbler -once securitytypes=none -fp /usr/share/X11/fonts/misc -depth 24 -geometry 1024x768<br>cvspserver      stream  tcp     nowait  cvs     /usr/bin/cvs cvs -f –allow-root=/cvs pserver</blockquote>
+
+<p>/etc/services:</p>
+<blockquote>vnc             5900/tcp #VNC &amp; GDM<br>cvspserver      2401/tcp</blockquote>
+
+<p>Notes: Have both vncserver and vnc4server packages installed, but I think vnc4server overwrote the old version.</p>
+<p>/etc/fstab:</p>
+<blockquote>
+<p>/dev/hda3       /mnt/macosx     hfsplus users,rw,auto,exec      0 0</p>
+</blockquote>
+<p>Ummmm… that’s all for now. =)</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      
+        <a href="https://www.owiber.com/2005/11/16/done-with-ubuntu-reinstall/#disqus_thread" class="article-comment-link">Comments</a>
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/linux/">linux</a></li></ul>
+
+    </footer>
   </div>
 </article>
+
+
+
+
   
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2005/07/28/linux-tip-1/" class="archive-article-date">
-  <time datetime="2005-07-28T09:58:56.000Z" itemprop="datePublished">Jul 28</time>
+    <article id="post-linux-tip-1" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2005/07/28/linux-tip-1/" class="article-date">
+  <time datetime="2005-07-28T09:58:56.000Z" itemprop="datePublished">2005-07-28</time>
 </a>
-      
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
   
     <h1 itemprop="name">
-      <a class="archive-article-title" href="/2005/07/28/linux-tip-1/">Linux Tip #1</a>
+      <a class="article-title" href="/2005/07/28/linux-tip-1/">Linux Tip #1</a>
     </h1>
   
 
-    </header>
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>Woo, I created a Linux category so I wouldn’t lose/forget all the things I do to my distro everytime I install and forget the next time around. Note that this is for personal use mainly so I probably won’t have much explanation… heh…</p>
+<p>Here’s #1:</p>
+<p>.xmodmaprc<blockquote>remove Shift = Shift_R<br>keycode 62 = slash question<br>keycode 61 = period greater</blockquote></p>
+
+      
+    </div>
+    <footer class="article-footer">
+      
+        <a href="https://www.owiber.com/2005/07/28/linux-tip-1/#disqus_thread" class="article-comment-link">Comments</a>
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/linux/">linux</a></li></ul>
+
+    </footer>
   </div>
 </article>
-  
-  
-    </div></section>
+
+
+
+
   
 
 </section>
