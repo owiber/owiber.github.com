@@ -80,6 +80,72 @@ ga('send', 'pageview');
       <div class="outer">
         <section id="main">
   
+    <article id="post-applescript-itunes-ichat" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2009/08/02/applescript-itunes-ichat/" class="article-date">
+  <time datetime="2009-08-02T10:22:44.000Z" itemprop="datePublished">2009-08-02</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2009/08/02/applescript-itunes-ichat/">AppleScript + iTunes + iChat</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>I ran across this <a href="http://maketecheasier.com/mac-osx-remote-control-your-itunes-via-ichat/2008/04/18" target="_blank" rel="external">nifty little blog post</a> that lets you control a remote Mac’s iTunes via iChat.  I decided to customize the script a bit and added a way to search for songs.  Here’s my addition to the stock AppleScript:</p>
+<pre>
+else if (theMessage begins with "song " and theMessage is not "song ")
+     or (theMessage begins with "s " and theMessage is not "s ") then
+
+    set cLength to (count (first word of theMessage)) + 1
+    set query to texts cLength thru -1 of theMessage
+
+    tell application "iTunes"
+        set theSongs to (search playlist "Library" for query)
+        try
+            set songID to persistent ID of (item 1 in theSongs)
+            play (first track of (get some playlist whose special kind is Music)
+                 whose persistent ID = songID)
+            set theResponse to "Playing song request. "
+        on error
+            set theResponse to "Did not find any songs. "
+        end try
+
+    end tell
+
+    set theResponse to theResponse & getCurrentiTunesTrack()
+</pre>
+
+<p>I also added “aliases” to the previous and next commands (“p” and “n” respectively), but that was pretty trivial, so I won’t include it here.  This is the first AppleScript I’ve written, so I’m probably making some noobish mistakes, but it was pretty cool.  Now I can chat with my Mac Mini and tell it what to play!</p>
+<p><img src="https://www.owiber.com/wp-content/uploads/2009/08/ichatitunes.png" alt="AppleScript/iTunes/iChat" title="AppleScript/iTunes/iChat" width="359" height="386" class="alignnone size-full wp-image-749 noborder"></p>
+
+      
+    </div>
+    <footer class="article-footer">
+      
+        <a href="https://www.owiber.com/2009/08/02/applescript-itunes-ichat/#disqus_thread" class="article-comment-link">Comments</a>
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/nerdy/">nerdy</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/weekend/">weekend</a></li></ul>
+
+    </footer>
+  </div>
+</article>
+
+
+
+
+  
     <article id="post-webcam" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/2009/07/30/webcam/" class="article-date">
@@ -495,49 +561,6 @@ ga('send', 'pageview');
 
 
   
-    <article id="post-tile-down" class="article article-type-post" itemscope itemprop="blogPost">
-  <div class="article-meta">
-    <a href="/2009/07/11/tile-down/" class="article-date">
-  <time datetime="2009-07-11T11:01:39.000Z" itemprop="datePublished">2009-07-11</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
-        
-  
-    <h1 itemprop="name">
-      <a class="article-title" href="/2009/07/11/tile-down/">Tile Down!</a>
-    </h1>
-  
-
-      </header>
-    
-    <div class="article-entry" itemprop="articleBody">
-      
-        <p>Contractors put down most of the tile today, then I went to help Chancy move into their new house for a while.  Tomorrow, it’s the Bazaarvoice Technical Services Diablo II LAN party at my place!  Woo!</p>
-<p><a href="http://www.flickr.com/photos/owiber/3708507437/" title="TileDown-001 (by owiber)" target="_blank" rel="external"><img src="https://farm4.static.flickr.com/3497/3708507437_2f36f9cd73.jpg" title="TileDown-001 (by owiber)" alt="TileDown-001 (by owiber)" width="500" height="333"></a></p>
-<p>They also did a pretty good job installing a door for my master bathroom, but I was too lazy to take a pic of that.  Maybe tomorrow after everything’s done.  Have a good weekend!</p>
-
-      
-    </div>
-    <footer class="article-footer">
-      
-        <a href="https://www.owiber.com/2009/07/11/tile-down/#disqus_thread" class="article-comment-link">Comments</a>
-      
-      
-  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/house/">house</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/photographs/">photographs</a></li></ul>
-
-    </footer>
-  </div>
-</article>
-
-
-
-
-  
 
 
   <nav id="page-nav">
@@ -583,6 +606,10 @@ ga('send', 'pageview');
       <ul>
         
           <li>
+            <a href="/2017/09/13/Vines/">Vines</a>
+          </li>
+        
+          <li>
             <a href="/2017/09/10/President-Fuckface/">President Fuckface</a>
           </li>
         
@@ -596,10 +623,6 @@ ga('send', 'pageview');
         
           <li>
             <a href="/2016/03/27/batman-v-superman/">Batman v Superman</a>
-          </li>
-        
-          <li>
-            <a href="/2016/03/27/awkward-turtle-1/">Awkward Turtle 1</a>
           </li>
         
       </ul>

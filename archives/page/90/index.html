@@ -80,6 +80,47 @@ ga('send', 'pageview');
       <div class="outer">
         <section id="main">
   
+    <article id="post-debian" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2003/04/11/debian/" class="article-date">
+  <time datetime="2003-04-11T11:59:24.000Z" itemprop="datePublished">2003-04-11</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2003/04/11/debian/">Debian</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>Ahhh… my leap into the world of Debian. Turned out much better than I expected!  I installed using my Knoppix CD, which made the whole process much easier! The HD install script didn’t allow me to specify different partitions for different mount points, so I did that after the install was finished. I made a seperate partition for /home so that in future installs, I wouldn’t have to kill it.<br><br>I’m just going to throw a few notes here now:<br><br>Antialias in Phoenix (installed from <a href="http://pryan.org/phoenix/" target="_blank" rel="external">here</a>):<ul><li>userChrome.css and userContent.css - make sure it uses Luxi Sans or another antialiased font</li></ul><br><br>Konsole AA fonts:<ul><li>Just grabbed a ton of fonts from baghat and threw them in /usr/share/fonts. This messed up the default sans font though and made it look really ugly.</li><li>To fix that… see <a href="http://forums.gentoo.org/viewtopic.php?t=37347&highlight=antialias" target="_blank" rel="external">this Gentoo thread</a>. Basically, turn off hinting for sans fonts.</li></ul><br><br>Let’s see… oh yeah, dhclient:<ul><li>Wait time was too long originally for dhcp. So: “apt-get install dhcp-client” installs dhclient, which worked quite well.  Edit /etc/dhclient.conf and edit timeout value.</li></ul><br><br>Alright, I think that’s all I want to say for now. =)<br><br>-Oliver</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      
+        <a href="https://www.owiber.com/2003/04/11/debian/#disqus_thread" class="article-comment-link">Comments</a>
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/oldpost/">oldpost</a></li></ul>
+
+    </footer>
+  </div>
+</article>
+
+
+
+
+  
     <article id="post-funny-stuff" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/2003/04/04/funny-stuff/" class="article-date">
@@ -465,47 +506,6 @@ ga('send', 'pageview');
 
 
   
-    <article id="post-woah" class="article article-type-post" itemscope itemprop="blogPost">
-  <div class="article-meta">
-    <a href="/2003/03/08/woah/" class="article-date">
-  <time datetime="2003-03-08T08:21:43.000Z" itemprop="datePublished">2003-03-08</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
-        
-  
-    <h1 itemprop="name">
-      <a class="article-title" href="/2003/03/08/woah/">Woah</a>
-    </h1>
-  
-
-      </header>
-    
-    <div class="article-entry" itemprop="articleBody">
-      
-        <p>Aye, I need to update!… well it seems as if Mark and I are going to have pass/fail linguistics cause his quiz and test were uber-hard. I would throw a certain simile in there courtesy of Viraj, <a href="http://www.baghat.com" target="_blank" rel="external">Mr.Baghat</a>, but I like to keep OliverWEB “PG.” =)<br><br>I am looking forward to a nice spring break… full of team games of C&amp;C:Generals with Van. Oh yeah, and before I forget, happy birthday to Chad (Saturday) and Minix (Sunday). I hope I got those days right. =) I gotta make sure I go get new contacts and attempt to fix up the Town Car.<br><br>-Oliver</p>
-
-      
-    </div>
-    <footer class="article-footer">
-      
-        <a href="https://www.owiber.com/2003/03/08/woah/#disqus_thread" class="article-comment-link">Comments</a>
-      
-      
-  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/oldpost/">oldpost</a></li></ul>
-
-    </footer>
-  </div>
-</article>
-
-
-
-
-  
 
 
   <nav id="page-nav">
@@ -551,6 +551,10 @@ ga('send', 'pageview');
       <ul>
         
           <li>
+            <a href="/2017/09/13/Vines/">Vines</a>
+          </li>
+        
+          <li>
             <a href="/2017/09/10/President-Fuckface/">President Fuckface</a>
           </li>
         
@@ -564,10 +568,6 @@ ga('send', 'pageview');
         
           <li>
             <a href="/2016/03/27/batman-v-superman/">Batman v Superman</a>
-          </li>
-        
-          <li>
-            <a href="/2016/03/27/awkward-turtle-1/">Awkward Turtle 1</a>
           </li>
         
       </ul>
