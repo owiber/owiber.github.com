@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.owiber.com/"/>
-  <updated>2019-10-28T06:14:47.604Z</updated>
+  <updated>2019-10-28T06:17:34.312Z</updated>
   <id>https://www.owiber.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.owiber.com/2019/10/28/A-magical-and-scrumptious-Phoenix/"/>
     <id>https://www.owiber.com/2019/10/28/A-magical-and-scrumptious-Phoenix/</id>
     <published>2019-10-28T05:59:41.000Z</published>
-    <updated>2019-10-28T06:14:47.604Z</updated>
+    <updated>2019-10-28T06:17:34.312Z</updated>
     
     <summary type="html">
     
@@ -35,6 +35,10 @@
       
     
     </summary>
+    
+      <category term="nerdy" scheme="https://www.owiber.com/categories/nerdy/"/>
+    
+      <category term="travel" scheme="https://www.owiber.com/categories/nerdy/travel/"/>
     
     
   </entry>
