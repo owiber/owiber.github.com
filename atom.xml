@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.owiber.com/"/>
-  <updated>2019-10-28T06:17:34.312Z</updated>
+  <updated>2019-12-22T19:30:15.505Z</updated>
   <id>https://www.owiber.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Called out</title>
+    <link href="https://www.owiber.com/2019/12/22/Called-out/"/>
+    <id>https://www.owiber.com/2019/12/22/Called-out/</id>
+    <published>2019-12-22T19:12:25.000Z</published>
+    <updated>2019-12-22T19:30:15.505Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This past week, President Fuckhead got impeached, so I guess we have that going for us. Here’s to 2020 and America not making me feel
+        
+      
+    
+    </summary>
+    
+      <category term="events" scheme="https://www.owiber.com/categories/events/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>A magical and scrumptious Phoenix</title>
@@ -473,24 +497,6 @@
       <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
     
       <category term="nerdy" scheme="https://www.owiber.com/tags/nerdy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Re: Scaling Organizations by Scaling Engineers</title>
-    <link href="https://www.owiber.com/2014/03/01/re-scaling-organizations-scaling-engineers/"/>
-    <id>https://www.owiber.com/2014/03/01/re-scaling-organizations-scaling-engineers/</id>
-    <published>2014-03-02T05:51:05.000Z</published>
-    <updated>2017-09-05T06:04:57.000Z</updated>
-    
-    <summary type="html">
-    
-      None
-    
-    </summary>
-    
-    
-      <category term="work" scheme="https://www.owiber.com/tags/work/"/>
     
   </entry>
   
