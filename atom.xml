@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.owiber.com/"/>
-  <updated>2022-05-26T03:55:41.558Z</updated>
+  <updated>2023-03-06T05:44:22.747Z</updated>
   <id>https://www.owiber.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>40</title>
+    <link href="https://www.owiber.com/2023/03/05/40/"/>
+    <id>https://www.owiber.com/2023/03/05/40/</id>
+    <published>2023-03-06T03:20:51.000Z</published>
+    <updated>2023-03-06T05:44:22.747Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Last week I went to a surprise birthday party for Andrew in Oklahoma City. Also took the opportunity to swing by Dallas and visit Oriana
+        
+      
+    
+    </summary>
+    
+    
+      <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
+    
+      <category term="videos" scheme="https://www.owiber.com/tags/videos/"/>
+    
+  </entry>
   
   <entry>
     <title>Whew</title>
@@ -503,32 +529,6 @@
     
     
       <category term="nerdy" scheme="https://www.owiber.com/tags/nerdy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>New Blog!</title>
-    <link href="https://www.owiber.com/2015/09/13/new-blog/"/>
-    <id>https://www.owiber.com/2015/09/13/new-blog/</id>
-    <published>2015-09-13T19:04:03.000Z</published>
-    <updated>2019-12-22T19:37:51.241Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Well, now that I’ve been a front-end developer for the brunt of my career, I’ve finally shamed myself into replacing/updating my blog
-        
-      
-    
-    </summary>
-    
-    
-      <category term="nerdy" scheme="https://www.owiber.com/tags/nerdy/"/>
-    
-      <category term="blog" scheme="https://www.owiber.com/tags/blog/"/>
     
   </entry>
   
