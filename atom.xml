@@ -3,7 +3,7 @@
   <title>owiber.com</title>
   
   <subtitle>i like the color pink</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="https://www.owiber.com/atom.xml" rel="self"/>
   
   <link href="https://www.owiber.com/"/>
   <updated>2024-06-18T06:00:58.376Z</updated>
@@ -14,7 +14,7 @@
     
   </author>
   
-  <generator uri="http://hexo.io/">Hexo</generator>
+  <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Graduation</title>
@@ -23,24 +23,23 @@
     <published>2024-06-18T03:24:29.000Z</published>
     <updated>2024-06-18T06:00:58.376Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;I pulled the trigger and had my last day at Stripe a couple weeks ago. It’s been an incredible ride and it sounds cliche, but literally
+    <summary type="html">&lt;p&gt;I pulled the trigger and had my last day at Stripe a couple weeks ago. It’s been an incredible ride and it sounds cliche, but literally</summary>
         
       
     
-    </summary>
     
     
-      <category term="events" scheme="https://www.owiber.com/tags/events/"/>
     
-      <category term="work" scheme="https://www.owiber.com/tags/work/"/>
+    <category term="events" scheme="https://www.owiber.com/tags/events/"/>
     
-      <category term="videos" scheme="https://www.owiber.com/tags/videos/"/>
+    <category term="work" scheme="https://www.owiber.com/tags/work/"/>
+    
+    <category term="videos" scheme="https://www.owiber.com/tags/videos/"/>
     
   </entry>
   
@@ -51,22 +50,21 @@
     <published>2023-03-06T03:20:51.000Z</published>
     <updated>2023-03-06T05:44:22.747Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;Last week I went to a surprise birthday party for Andrew in Oklahoma City. Also took the opportunity to swing by Dallas and visit Oriana
+    <summary type="html">&lt;p&gt;Last week I went to a surprise birthday party for Andrew in Oklahoma City. Also took the opportunity to swing by Dallas and visit Oriana</summary>
         
       
     
-    </summary>
     
     
-      <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
     
-      <category term="videos" scheme="https://www.owiber.com/tags/videos/"/>
+    <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
+    
+    <category term="videos" scheme="https://www.owiber.com/tags/videos/"/>
     
   </entry>
   
@@ -77,24 +75,23 @@
     <published>2022-05-26T01:35:21.000Z</published>
     <updated>2022-05-26T03:55:41.558Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;Well, 2022 has been a year of settling in with change. Moving to Seattle has given me many “firsts” - first time moving to a new city,
+    <summary type="html">&lt;p&gt;Well, 2022 has been a year of settling in with change. Moving to Seattle has given me many “firsts” - first time moving to a new city,</summary>
         
       
     
-    </summary>
     
     
-      <category term="events" scheme="https://www.owiber.com/tags/events/"/>
     
-      <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
+    <category term="events" scheme="https://www.owiber.com/tags/events/"/>
     
-      <category term="videos" scheme="https://www.owiber.com/tags/videos/"/>
+    <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
+    
+    <category term="videos" scheme="https://www.owiber.com/tags/videos/"/>
     
   </entry>
   
@@ -105,26 +102,25 @@
     <published>2021-07-14T19:50:15.000Z</published>
     <updated>2021-07-14T21:52:49.860Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;I’ve become increasingly frustrated with the state government in Texas. While a difference in opinion of policy is one thing I can
+    <summary type="html">&lt;p&gt;I’ve become increasingly frustrated with the state government in Texas. While a difference in opinion of policy is one thing I can</summary>
         
       
     
-    </summary>
     
     
-      <category term="news" scheme="https://www.owiber.com/tags/news/"/>
     
-      <category term="events" scheme="https://www.owiber.com/tags/events/"/>
+    <category term="news" scheme="https://www.owiber.com/tags/news/"/>
     
-      <category term="videos" scheme="https://www.owiber.com/tags/videos/"/>
+    <category term="events" scheme="https://www.owiber.com/tags/events/"/>
     
-      <category term="travel" scheme="https://www.owiber.com/tags/travel/"/>
+    <category term="videos" scheme="https://www.owiber.com/tags/videos/"/>
+    
+    <category term="travel" scheme="https://www.owiber.com/tags/travel/"/>
     
   </entry>
   
@@ -135,20 +131,19 @@
     <published>2020-11-07T18:50:47.000Z</published>
     <updated>2020-11-07T19:58:22.449Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;Since 2016, I’ve had the juxtaposition of many aspects of my personal life going rather well, but watching the nation around me succumb
+    <summary type="html">&lt;p&gt;Since 2016, I’ve had the juxtaposition of many aspects of my personal life going rather well, but watching the nation around me succumb</summary>
         
       
     
-    </summary>
     
     
-      <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
+    
+    <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
     
   </entry>
   
@@ -159,20 +154,19 @@
     <published>2020-05-10T09:37:53.000Z</published>
     <updated>2020-05-10T10:01:52.009Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;I just finished watching Becoming, a documentary about Michelle Obama’s recent book tour. It really puts the feels on
+    <summary type="html">&lt;p&gt;I just finished watching Becoming, a documentary about Michelle Obama’s recent book tour. It really puts the feels on</summary>
         
       
     
-    </summary>
     
     
-      <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
+    
+    <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
     
   </entry>
   
@@ -183,20 +177,19 @@
     <published>2019-12-22T19:12:25.000Z</published>
     <updated>2019-12-22T19:36:49.156Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;This past week, President Fuckhead got impeached, so I guess we have that going for us. Here’s to 2020 and America not making me feel
+    <summary type="html">&lt;p&gt;This past week, President Fuckhead got impeached, so I guess we have that going for us. Here’s to 2020 and America not making me feel</summary>
         
       
     
-    </summary>
     
     
-      <category term="events" scheme="https://www.owiber.com/tags/events/"/>
+    
+    <category term="events" scheme="https://www.owiber.com/tags/events/"/>
     
   </entry>
   
@@ -207,23 +200,22 @@
     <published>2019-10-28T05:59:41.000Z</published>
     <updated>2019-12-22T19:36:53.625Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;Why hello there, interwebs. Long time no see!&lt;/p&gt;
-&lt;p&gt;First off, I must say that I realized earlier this year that 2018 was the first
+    <summary type="html">&lt;p&gt;Why hello there, interwebs. Long time no see!&lt;/p&gt;
+&lt;p&gt;First off, I must say that I realized earlier this year that 2018 was the first</summary>
         
       
     
-    </summary>
     
     
-      <category term="nerdy" scheme="https://www.owiber.com/tags/nerdy/"/>
     
-      <category term="travel" scheme="https://www.owiber.com/tags/travel/"/>
+    <category term="nerdy" scheme="https://www.owiber.com/tags/nerdy/"/>
+    
+    <category term="travel" scheme="https://www.owiber.com/tags/travel/"/>
     
   </entry>
   
@@ -234,24 +226,23 @@
     <published>2017-09-17T05:11:44.000Z</published>
     <updated>2019-12-22T19:37:51.241Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;Last Christmas, Viraj decided to get married on the other side of the world, so a few of us gave up time with our families to go to his
+    <summary type="html">&lt;p&gt;Last Christmas, Viraj decided to get married on the other side of the world, so a few of us gave up time with our families to go to his</summary>
         
       
     
-    </summary>
     
     
-      <category term="events" scheme="https://www.owiber.com/tags/events/"/>
     
-      <category term="videos" scheme="https://www.owiber.com/tags/videos/"/>
+    <category term="events" scheme="https://www.owiber.com/tags/events/"/>
     
-      <category term="travel" scheme="https://www.owiber.com/tags/travel/"/>
+    <category term="videos" scheme="https://www.owiber.com/tags/videos/"/>
+    
+    <category term="travel" scheme="https://www.owiber.com/tags/travel/"/>
     
   </entry>
   
@@ -262,22 +253,21 @@
     <published>2017-09-14T04:32:56.000Z</published>
     <updated>2019-12-22T19:37:51.241Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;Vine died a whiles back, but I was out of the blogging mood, so I never mentioned it, but I put my old archived vines &lt;a
+    <summary type="html">&lt;p&gt;Vine died a whiles back, but I was out of the blogging mood, so I never mentioned it, but I put my old archived vines &lt;a</summary>
         
       
     
-    </summary>
     
     
-      <category term="videos" scheme="https://www.owiber.com/tags/videos/"/>
     
-      <category term="dog" scheme="https://www.owiber.com/tags/dog/"/>
+    <category term="videos" scheme="https://www.owiber.com/tags/videos/"/>
+    
+    <category term="dog" scheme="https://www.owiber.com/tags/dog/"/>
     
   </entry>
   
@@ -288,24 +278,23 @@
     <published>2017-09-10T05:20:32.000Z</published>
     <updated>2019-12-22T19:37:51.241Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;My intention is to not clutter up my blog with mention of President Fuckface news, but it seems disingenuous to completely ignore. This
+    <summary type="html">&lt;p&gt;My intention is to not clutter up my blog with mention of President Fuckface news, but it seems disingenuous to completely ignore. This</summary>
         
       
     
-    </summary>
     
     
-      <category term="photographs" scheme="https://www.owiber.com/tags/photographs/"/>
     
-      <category term="events" scheme="https://www.owiber.com/tags/events/"/>
+    <category term="photographs" scheme="https://www.owiber.com/tags/photographs/"/>
     
-      <category term="travel" scheme="https://www.owiber.com/tags/travel/"/>
+    <category term="events" scheme="https://www.owiber.com/tags/events/"/>
+    
+    <category term="travel" scheme="https://www.owiber.com/tags/travel/"/>
     
   </entry>
   
@@ -316,20 +305,19 @@
     <published>2017-09-09T05:26:33.000Z</published>
     <updated>2019-12-22T19:37:51.241Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;I decided to finally deprecate my old, dated &lt;a href=&quot;/oliver-wong/pre-2017.html&quot;&gt;about&lt;/a&gt; page and replaced it with a &lt;a
+    <summary type="html">&lt;p&gt;I decided to finally deprecate my old, dated &lt;a href=&quot;/oliver-wong/pre-2017.html&quot;&gt;about&lt;/a&gt; page and replaced it with a &lt;a</summary>
         
       
     
-    </summary>
     
     
-      <category term="website" scheme="https://www.owiber.com/tags/website/"/>
+    
+    <category term="website" scheme="https://www.owiber.com/tags/website/"/>
     
   </entry>
   
@@ -340,20 +328,19 @@
     <published>2017-08-18T05:29:28.000Z</published>
     <updated>2019-12-22T19:37:51.241Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;Hi, 2017! You sure are kinda terrible, but thankfully not entirely so. I figured I couldn’t let it go two years before I blogged… though
+    <summary type="html">&lt;p&gt;Hi, 2017! You sure are kinda terrible, but thankfully not entirely so. I figured I couldn’t let it go two years before I blogged… though</summary>
         
       
     
-    </summary>
     
     
-      <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
+    
+    <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
     
   </entry>
   
@@ -364,22 +351,21 @@
     <published>2016-03-28T01:37:35.000Z</published>
     <updated>2019-12-22T19:37:51.241Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;Batman v Superman wasn’t terrible, but it’s such a shame that so many golden opportunies were missed. It was a splattering of scenes
+    <summary type="html">&lt;p&gt;Batman v Superman wasn’t terrible, but it’s such a shame that so many golden opportunies were missed. It was a splattering of scenes</summary>
         
       
     
-    </summary>
     
     
-      <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
     
-      <category term="movies" scheme="https://www.owiber.com/tags/movies/"/>
+    <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
+    
+    <category term="movies" scheme="https://www.owiber.com/tags/movies/"/>
     
   </entry>
   
@@ -390,22 +376,21 @@
     <published>2016-03-27T19:16:15.000Z</published>
     <updated>2019-12-22T19:37:51.241Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;I’ve decided to start a series of “Awkward Turtle” posts where I discuss moments in time where young Oliver was perhaps not the really
+    <summary type="html">&lt;p&gt;I’ve decided to start a series of “Awkward Turtle” posts where I discuss moments in time where young Oliver was perhaps not the really</summary>
         
       
     
-    </summary>
     
     
-      <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
     
-      <category term="awkward" scheme="https://www.owiber.com/tags/awkward/"/>
+    <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
+    
+    <category term="awkward" scheme="https://www.owiber.com/tags/awkward/"/>
     
   </entry>
   
@@ -416,20 +401,19 @@
     <published>2016-01-20T02:38:49.000Z</published>
     <updated>2019-12-22T19:37:51.241Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;I wouldn’t say I’m strongly affiliated with either political party, but I believe each party/candidate’s view on net neutrality (NN) can
+    <summary type="html">&lt;p&gt;I wouldn’t say I’m strongly affiliated with either political party, but I believe each party/candidate’s view on net neutrality (NN) can</summary>
         
       
     
-    </summary>
     
     
-      <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
+    
+    <category term="musings" scheme="https://www.owiber.com/tags/musings/"/>
     
   </entry>
   
@@ -440,23 +424,22 @@
     <published>2016-01-01T22:39:52.000Z</published>
     <updated>2019-12-22T19:37:51.241Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;Merry Christmas and Happy New Year!&lt;/p&gt;
-&lt;p&gt;This year, everyone corralled in Austin and we gave each other terrible (awesome) gifts and
+    <summary type="html">&lt;p&gt;Merry Christmas and Happy New Year!&lt;/p&gt;
+&lt;p&gt;This year, everyone corralled in Austin and we gave each other terrible (awesome) gifts and</summary>
         
       
     
-    </summary>
     
     
-      <category term="photographs" scheme="https://www.owiber.com/tags/photographs/"/>
     
-      <category term="events" scheme="https://www.owiber.com/tags/events/"/>
+    <category term="photographs" scheme="https://www.owiber.com/tags/photographs/"/>
+    
+    <category term="events" scheme="https://www.owiber.com/tags/events/"/>
     
   </entry>
   
@@ -467,21 +450,20 @@
     <published>2015-10-12T06:53:51.000Z</published>
     <updated>2019-12-22T19:37:51.241Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;In true trollsy fashion, I have finally associated photos with my family member contacts in my phone:&lt;/p&gt;
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot;
+    <summary type="html">&lt;p&gt;In true trollsy fashion, I have finally associated photos with my family member contacts in my phone:&lt;/p&gt;
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot;</summary>
         
       
     
-    </summary>
     
     
-      <category term="photographs" scheme="https://www.owiber.com/tags/photographs/"/>
+    
+    <category term="photographs" scheme="https://www.owiber.com/tags/photographs/"/>
     
   </entry>
   
@@ -492,22 +474,21 @@
     <published>2015-10-07T08:07:01.000Z</published>
     <updated>2019-12-22T19:37:51.241Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;We had our traditional annual Dallas trip this past weekend. Usually we go OU weekend, but there were too many conflicts this year, so
+    <summary type="html">&lt;p&gt;We had our traditional annual Dallas trip this past weekend. Usually we go OU weekend, but there were too many conflicts this year, so</summary>
         
       
     
-    </summary>
     
     
-      <category term="photographs" scheme="https://www.owiber.com/tags/photographs/"/>
     
-      <category term="events" scheme="https://www.owiber.com/tags/events/"/>
+    <category term="photographs" scheme="https://www.owiber.com/tags/photographs/"/>
+    
+    <category term="events" scheme="https://www.owiber.com/tags/events/"/>
     
   </entry>
   
@@ -518,20 +499,19 @@
     <published>2015-10-01T11:45:00.000Z</published>
     <updated>2020-05-10T09:36:16.715Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;A whiles back when Jonney, Mark and I competed in a team Magic tournament in Portland, some of the bounty we got was a bunch of
+    <summary type="html">&lt;p&gt;A whiles back when Jonney, Mark and I competed in a team Magic tournament in Portland, some of the bounty we got was a bunch of</summary>
         
       
     
-    </summary>
     
     
-      <category term="events" scheme="https://www.owiber.com/tags/events/"/>
+    
+    <category term="events" scheme="https://www.owiber.com/tags/events/"/>
     
   </entry>
   
